@@ -1,0 +1,1001 @@
+,pos,title,artist,date,average,ratings,genres,subgenres,descriptors
+0,1,OK Computer,Radiohead,16 June 1997,423,62869,alternativerock|artrock,,melancholic|anxious|futuristic|alienation|existential|malevocals|atmospheric|lonely|cold|introspective
+1,2,In the Court of the Crimson King,King Crimson,10 October 1969,430,39657,progressiverock|artrock,symphonicprog|jazzrock|freeimprovisation|psychedelicrock,fantasy|epic|progressive|philosophical|complex|surreal|poetic|malevocals|melancholic|technical
+2,3,Wish You Were Here,Pink Floyd,12 September 1975,429,43378,progressiverock|artrock,psychedelicrock,melancholic|atmospheric|progressive|malevocals|introspective|conceptalbum|serious|longing|bittersweet|alienation
+3,4,Kid A,Radiohead,3 October 2000,421,52285,artrock|experimentalrock|electronic,ambient|electronic|idm,cold|melancholic|futuristic|atmospheric|anxious|sombre|cryptic|abstract|malevocals|introspective
+4,5,Loveless,My Bloody Valentine,4 November 1991,424,42910,shoegaze|noisepop,dreampop,noisy|romantic|ethereal|atmospheric|wallofsound|love|dense|hypnotic|psychedelic|lush
+5,6,Abbey Road,The Beatles,26 September 1969,426,40036,poprock,psychedelicpop|progressivepop|artpop,melodic|warm|bittersweet|malevocals|summer|uplifting|love|romantic|happy|eclectic
+6,7,The Dark Side of the Moon,Pink Floyd,23 March 1973,420,52327,artrock|progressiverock,psychedelicrock|spacerock,philosophical|atmospheric|introspective|mellow|existential|conceptalbum|malevocals|psychedelic|progressive|epic
+7,8,The Velvet Underground & Nico,The Velvet Underground,12 March 1967,424,41447,artrock|experimentalrock,protopunk|noiserock|garagerock|psychedelicrock,drugs|sexual|raw|noisy|urban|nihilistic|avantgarde|eclectic|malevocals|femalevocals
+8,9,The Rise and Fall of Ziggy Stardust and the Spiders From Mars,David Bowie,16 June 1972,426,35352,glamrock|poprock,artrock|rockopera,sciencefiction|melodic|anthemic|malevocals|passionate|conceptalbum|rockopera|bittersweet|energetic|triumphant
+9,10,To Pimp a Butterfly,Kendrick Lamar,15 March 2015,424,36882,conscioushiphop|westcoasthiphop|jazzrap,politicalhiphop|neosoul|funk|poetry|experimentalhiphop,political|conscious|poetic|protest|introspective|conceptalbum|urban|eclectic|malevocals|passionate
+10,11,Revolver,The Beatles,5 August 1966,423,38973,poprock|psychedelicpop,psychedelicrock|psychedelicpop,melodic|psychedelic|malevocals|drugs|eclectic|playful|warm|quirky|happy|surreal
+11,12,The Black Saint and the Sinner Lady,Mingus,July 1963,435,17636,avantgardejazz|thirdstream,experimentalbigband|flamencojazz,instrumental|complex|passionate|suite|dense|suspenseful|technical|avantgarde|conceptalbum|manic
+12,13,Remain in Light,Talking Heads,8 October 1980,425,31955,newwave|postpunk,funk|afrobeat|experimentalrock,rhythmic|anxious|energetic|malevocals|playful|cryptic|abstract|quirky|philosophical|repetitive
+13,14,A Love Supreme,John Coltrane,February 1965,431,22361,spiritualjazz|avantgardejazz,modaljazz|postbop,passionate|spiritual|improvisation|instrumental|complex|suite|acoustic|meditative|avantgarde|religious
+14,15,Madvillainy,Madvillain,23 March 2004,423,29754,abstracthiphop,jazzrap|experimentalhiphop|instrumentalhiphop,sampling|playful|cryptic|humorous|abstract|mysterious|surreal|eclectic|malevocals|drugs
+15,16,In Rainbows,Radiohead,10 October 2007,416,42500,artrock|alternativerock,electronic|dreampop|artpop,lush|melancholic|malevocals|introspective|bittersweet|mellow|warm|atmospheric|ethereal|longing
+16,17,Kind of Blue,Miles Davis,17 August 1959,424,27195,modaljazz|cooljazz,,instrumental|mellow|improvisation|nocturnal|soothing|calm|acoustic|meditative
+17,18,Paranoid,Black Sabbath,18 September 1970,419,32455,heavymetal|hardrock,traditionaldoommetal|bluesrock,dark|heavy|war|political|malevocals|ominous|drugs|sciencefiction|pessimistic|alienation
+18,19,"good kid, m.A.A.d city",Kendrick Lamar,22 October 2012,418,33068,westcoasthiphop|conscioushiphop,hardcorehiphop|poprap,urban|crime|conceptalbum|conscious|introspective|malevocals|passionate|existential|bittersweet|violence
+19,20,Pet Sounds,The Beach Boys,16 May 1966,418,32870,baroquepop,sunshinepop|psychedelicpop|progressivepop,bittersweet|warm|love|wallofsound|romantic|melodic|melancholic|lush|introspective|passionate
+20,21,In the Aeroplane Over the Sea,Neutral Milk Hotel,10 February 1998,410,42772,indiefolk|indierock,psychedelicfolk|singersongwriter|lofislackerrock|brassband,passionate|poetic|death|surreal|cryptic|acoustic|bittersweet|melodic|malevocals|conceptalbum
+21,22,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,1 June 1967,413,39625,psychedelicpop|poprock,artrock|psychedelicrock|baroquepop|sunshinepop,psychedelic|playful|melodic|malevocals|warm|optimistic|eclectic|lush|uplifting|drugs
+22,23,Illmatic,Nas,19 April 1994,419,26809,eastcoasthiphop|boombap|hardcorehiphop,conscioushiphop|jazzrap,urban|crime|philosophical|introspective|rhythmic|conscious|sampling|drugs|malevocals|boastful
+23,24,Enter the Wu-Tang (36 Chambers),Wu-Tang Clan,9 November 1993,420,24615,eastcoasthiphop|boombap|hardcorehiphop,,urban|aggressive|raw|crime|boastful|rhythmic|energetic|violence|dark|sampling
+24,25,Lift Yr. Skinny Fists Like Antennas to Heaven!,Godspeed You Black Emperor!,9 October 2000,416,30938,postrock,fieldrecordings|drone|chambermusic|ambient,instrumental|epic|melancholic|atmospheric|apocalyptic|suspenseful|suite|complex|sampling|hypnotic
+25,26,Red,King Crimson,6 October 1974,422,20906,progressiverock|artrock,jazzrock|hardrock|freeimprovisation,dark|anxious|heavy|technical|uncommontimesignatures|ominous|complex|progressive|malevocals|nocturnal
+26,27,Pink Moon,Nick Drake,25 February 1972,418,26454,contemporaryfolk|singersongwriter,folkbaroque,acoustic|melancholic|lonely|mellow|introspective|poetic|calm|sparse|pastoral|malevocals
+27,28,The Beatles [White Album],The Beatles,22 November 1968,415,32279,poprock|rock,psychedelicrock|bluesrock|artrock|hardrock|folkrock,eclectic|melodic|playful|malevocals|energetic|quirky|love|introspective|sarcastic|rebellious
+28,29,Spiderland,Slint,27 March 1991,415,28627,postrock|mathrock|posthardcore,experimentalrock|spokenword|slowcore,lonely|sombre|anxious|uncommontimesignatures|dark|suspenseful|atmospheric|melancholic|cryptic|cold
+29,30,Highway 61 Revisited,Bob Dylan,30 August 1965,418,24299,folkrock|singersongwriter,bluesrock|contemporaryfolk,poetic|cryptic|surreal|sarcastic|malevocals|passionate|conscious|rebellious|philosophical|introspective
+30,31,Unknown Pleasures,Joy Division,15 June 1979,411,35767,postpunk,gothicrock,sombre|dark|cold|anxious|introspective|lonely|atmospheric|malevocals|existential|pessimistic
+31,32,The Queen Is Dead,The Smiths,16 June 1986,413,31783,janglepop|indiepop,postpunk,lonely|melancholic|sarcastic|melodic|poetic|introspective|bittersweet|malevocals|humorous|existential
+32,33,Disintegration,The Cure,2 May 1989,417,26106,gothicrock|postpunk,dreampop,melancholic|romantic|ethereal|atmospheric|nocturnal|sad|bittersweet|introspective|lush|love
+33,34,Animals,Pink Floyd,21 January 1977,412,32784,progressiverock|artrock,,political|pessimistic|philosophical|sarcastic|conceptalbum|progressive|satirical|malevocals|complex|epic
+34,35,Doolittle,Pixies,17 April 1989,412,30972,alternativerock|indierock,surfrock|noisepop,energetic|playful|anxious|malevocals|humorous|manic|noisy|raw|femalevocals|rebellious
+35,36,Led Zeppelin [IV],Led Zeppelin,8 November 1971,411,32441,hardrock,bluesrock|folkrock,fantasy|folklore|malevocals|energetic|passionate|rebellious|rhythmic|melodic|longing|heavy
+36,37,In a Silent Way,Miles Davis,30 July 1969,421,15082,jazzfusion,,instrumental|atmospheric|mellow|improvisation|mysterious|nocturnal|calm|soothing|meditative|hypnotic
+37,38,My Beautiful Dark Twisted Fantasy,Kanye West,22 November 2010,405,40551,poprap|hiphop,artpop,boastful|epic|passionate|sampling|hedonistic|vulgar|melodic|anthemic|malevocals|introspective
+38,39,Low,David Bowie,14 January 1977,413,26214,artrock,ambient|electronic|artpop,atmospheric|lonely|futuristic|cryptic|abstract|sombre|malevocals|surreal|melancholic|cold
+39,40,Blonde on Blonde,Bob Dylan,20 June 1966,416,20418,folkrock|singersongwriter,bluesrock,poetic|surreal|sarcastic|cryptic|bittersweet|romantic|introspective|malevocals|playful|conscious
+440,41,Marquee Moon,Television,8 February 1977,414,23739,artpunk|artrock,postpunk,rhythmic|malevocals|poetic|cryptic|philosophical|technical|introspective|anxious|existential|urban
+441,42,Blood on the Tracks,Bob Dylan,20 January 1975,416,17838,singersongwriter|folkrock,contemporaryfolk,breakup|lonely|poetic|melancholic|introspective|love|passionate|malevocals|bittersweet|ballad
+442,43,The Doors,The Doors,4 January 1967,410,28171,psychedelicrock,bluesrock|acidrock,drugs|psychedelic|poetic|sexual|dark|malevocals|cryptic|mysterious|hedonistic|nocturnal
+443,44,Bitches Brew,Miles Davis,30 March 1970,416,17083,jazzfusion|avantgardejazz,jazzrock,psychedelic|instrumental|improvisation|complex|dense|mysterious|surreal|hypnotic|atmospheric|avantgarde
+444,45,Dummy,Portishead,22 August 1994,411,26361,triphop,acidjazz,melancholic|mysterious|dark|atmospheric|nocturnal|mellow|introspective|femalevocals|sombre|sampling
+445,46,Endtroducing.....,DJ Shadow,19 November 1996,412,23953,instrumentalhiphop|experimentalhiphop|plunderphonics,turntablism|triphop,instrumental|sampling|atmospheric|urban|mysterious|nocturnal|rhythmic|sombre|hypnotic|eclectic
+446,47,F♯A♯∞,Godspeed You Black Emperor!,14 August 1997,411,23505,postrock,fieldrecordings|spokenword|ambient|drone,apocalyptic|instrumental|sombre|atmospheric|dark|epic|ominous|lonely|suspenseful|suite
+447,48,Long Season,Fishmans,25 October 1996,416,16606,dreampop|neopsychedelia|progressivepop,dub|ambientpop|neopsychedelia,atmospheric|lush|repetitive|mellow|psychedelic|warm|nature|aquatic|melodic|hypnotic
+448,49,Hounds of Love,Kate Bush,16 September 1985,414,19217,artpop|progressivepop,synthpop|baroquepop,passionate|love|romantic|femalevocals|lush|conceptalbum|ethereal|poetic|epic|melodic
+449,50,Master of Reality,Black Sabbath,21 July 1971,412,22001,heavymetal,traditionaldoommetal|doommetal,heavy|dark|malevocals|rhythmic|sombre|nocturnal|alienation|drugs|ominous|war
+450,51,Closer,Joy Division,18 July 1980,410,26474,postpunk,gothicrock|coldwave,lonely|depressive|sombre|cold|dark|introspective|atmospheric|existential|anxious|malevocals
+451,52,Are You Experienced,The Jimi Hendrix Experience,12 May 1967,413,21288,bluesrock|psychedelicrock|acidrock,hardrock,psychedelic|energetic|sexual|drugs|raw|malevocals|hedonistic|heavy|passionate|hypnotic
+452,53,Close to the Edge,Yes,8 September 1972,413,19343,symphonicprog|progressiverock,,epic|uplifting|complex|technical|fantasy|uncommontimesignatures|progressive|malevocals|lush|philosophical
+453,54,Electric Ladyland,The Jimi Hendrix Experience,25 October 1968,414,17590,psychedelicrock|bluesrock|acidrock,hardrock,psychedelic|drugs|energetic|surreal|sexual|sensual|passionate|raw|malevocals|love
+454,55,Songs of Leonard Cohen,Leonard Cohen,27 December 1967,415,15665,contemporaryfolk|singersongwriter,chamberfolk,poetic|sombre|acoustic|introspective|melancholic|philosophical|malevocals|love|serious|mysterious
+455,56,The Low End Theory,A Tribe Called Quest,24 September 1991,411,20886,jazzrap|eastcoasthiphop|conscioushiphop,boombap,mellow|rhythmic|urban|sampling|malevocals|conscious|playful|poetic|boastful|nocturnal
+456,57,Souvlaki,Slowdive,1 June 1993,409,24394,dreampop|shoegaze,neopsychedelia,melancholic|ethereal|mellow|romantic|atmospheric|femalevocals|soothing|malevocals|sentimental|bittersweet
+457,58,The Glow Pt. 2,The Microphones,25 September 2001,410,20481,indiefolk|psychedelicfolk|lofislackerrock,noiserock|avantfolk|singersongwriter,lonely|lofi|melancholic|nature|atmospheric|introspective|forest|malevocals|noisy|existential
+458,59,Soundtracks for the Blind,Swans,22 October 1996,412,15224,experimentalrock|postrock|experimental,drone|darkambient|fieldrecordings|spokenword|soundcollage|industrial,sombre|atmospheric|misanthropic|ominous|lonely|dark|depressive|suspenseful|mysterious|disturbing
+459,60,Songs in the Key of Life,Stevie Wonder,28 September 1976,416,10168,soul,funk|smoothsoul|popsoul,uplifting|passionate|warm|philosophical|malevocals|romantic|happy|optimistic|melodic|conscious
+460,61,Liquid Swords,Genius/GZA,7 November 1995,412,15559,eastcoasthiphop|hardcorehiphop|boombap,conscioushiphop,dark|crime|atmospheric|urban|philosophical|raw|rhythmic|cold|sampling|malevocals
+461,62,Illinois,Sufjan Stevens,5 July 2005,407,24810,chamberpop|singersongwriter,chamberfolk|americana|folkpop|progressivepop|indiefolk,lush|melodic|christian|warm|conceptalbum|bittersweet|malevocals|sentimental|poetic|history
+462,63,Daydream Nation,Sonic Youth,18 October 1988,406,25630,noiserock|alternativerock,postpunk|experimentalrock|artpunk,energetic|anxious|raw|urban|rebellious|noisy|malevocals|dissonant|femalevocals|apathetic
+463,64,Vespertine,Björk,27 August 2001,410,19485,artpop|electronic,ambientpop|glitchpop|microsound,sensual|romantic|winter|sexual|ethereal|atmospheric|lush|femalevocals|soothing|introspective
+464,65,Laughing Stock,Talk Talk,19 November 1991,411,16345,postrock,experimentalrock|jazzrock|artrock,atmospheric|sombre|introspective|religious|improvisation|spiritual|sparse|melancholic|autumn|passionate
+465,66,The Velvet Underground,The Velvet Underground,March 1969,410,20095,poprock,folkrock|artrock|folkpop,mellow|melancholic|melodic|bittersweet|introspective|malevocals|soft|nocturnal|alienation|love
+466,67,Rubber Soul,The Beatles,3 December 1965,404,30310,poprock,folkrock|psychedelicpop,melodic|love|malevocals|bittersweet|romantic|mellow|autumn|melancholic|eclectic|happy
+467,68,Bringing It All Back Home,Bob Dylan,22 March 1965,412,15512,folkrock|singersongwriter|contemporaryfolk,electricblues,poetic|sarcastic|malevocals|satirical|surreal|conscious|political|cryptic|protest|love
+468,69,Homogenic,Björk,22 September 1997,406,24424,artpop|electronic,triphop|idm|chamberpop,cold|passionate|lush|femalevocals|ethereal|atmospheric|winter|introspective|anxious|orchestral
+469,70,Tago Mago,Can,10 December 1971,408,20298,krautrock|psychedelicrock|experimentalrock,soundcollage|experimental,psychedelic|surreal|improvisation|hypnotic|avantgarde|rhythmic|cryptic|complex|abstract|repetitive
+470,71,Fun House,The Stooges,September 1970,410,16249,protopunk|garagerock|hardrock,noiserock|freejazz,raw|energetic|sexual|manic|rebellious|hedonistic|nihilistic|aggressive|noisy|drugs
+471,72,Black Sabbath,Black Sabbath,13 February 1970,407,22722,heavymetal|hardrock,bluesrock|traditionaldoommetal,occult|dark|sombre|fantasy|ominous|heavy|malevocals|psychedelic|funereal|suspenseful
+472,73,Atrocity Exhibition,Danny Brown,30 September 2016,407,21505,experimentalhiphop|hardcorehiphop,abstracthiphop|industrialhiphop|postpunk,drugs|dark|manic|abstract|psychedelic|chaotic|eclectic|sexual|boastful|anxious
+473,74,After the Gold Rush,Neil Young,19 September 1970,410,17110,folkrock|singersongwriter|countryrock,,introspective|lonely|melancholic|mellow|poetic|bittersweet|pastoral|malevocals|calm|autumn
+474,75,Ride the Lightning,Metallica,30 July 1984,405,25071,thrashmetal,speedmetal,heavy|energetic|aggressive|malevocals|angry|death|dark|apocalyptic|melodic
+475,76,Magical Mystery Tour,The Beatles,27 November 1967,406,24736,psychedelicpop|poprock,psychedelicrock|sunshinepop|artrock|artpop,psychedelic|melodic|playful|surreal|malevocals|summer|lush|quirky|bittersweet|drugs
+476,77,Either / Or,Elliott Smith,25 February 1997,408,19339,singersongwriter|indiefolk,indiepop|lofislackerrock|folkrock,melancholic|acoustic|mellow|depressive|introspective|lonely|melodic|malevocals|sad|sombre
+477,78,Rain Dogs,Tom Waits,30 September 1985,408,17910,singersongwriter|experimentalrock,bluesrock|beatpoetry|darkcabaret|jazzrock,poetic|eclectic|urban|surreal|alcohol|malevocals|crime|nocturnal|mysterious|dark
+478,79,Ágætis byrjun,Sigur Rós,12 June 1999,405,24636,postrock,dreampop|ambient|artrock,ethereal|atmospheric|soothing|mellow|melancholic|winter|calm|lush|androgynousvocals|bittersweet
+479,80,Station to Station,David Bowie,23 January 1976,409,18651,artrock,funkrock|blueeyedsoul,drugs|anxious|lonely|introspective|malevocals|cryptic|melodic|alienation|passionate|nocturnal
+720,81,What's Going On,Marvin Gaye,21 May 1971,410,16399,soul,smoothsoul,political|passionate|conscious|mellow|melodic|malevocals|lush|conceptalbum|spiritual|peaceful
+721,82,Hunky Dory,David Bowie,17 December 1971,405,24934,poprock|glamrock|artrock,singersongwriter|pianorock|artpop|baroquepop,playful|melodic|malevocals|quirky|melancholic|warm|lush|sarcastic|humorous|introspective
+722,83,Future Days,Can,September 1973,411,14800,krautrock,psychedelicrock|ambient|experimentalrock,warm|hypnotic|atmospheric|rhythmic|tropical|mellow|summer|psychedelic|improvisation|aquatic
+723,84,Aquemini,OutKast,29 September 1998,411,13830,southernhiphop|conscioushiphop,neosoul|funk|experimentalhiphop|hardcorehiphop,malevocals|conscious|lush|mellow|boastful|urban|introspective|warm|rhythmic|uplifting
+724,85,The Money Store,Death Grips,24 April 2012,400,30870,hardcorehiphop|industrialhiphop|experimentalhiphop,glitchhop|abstracthiphop,aggressive|manic|angry|energetic|noisy|nihilistic|raw|misanthropic|crime|drugs
+725,86,London Calling,The Clash,14 December 1979,402,26604,newwave|punkrock,ska|reggae|rockabilly,political|energetic|eclectic|rebellious|malevocals|rhythmic|passionate|urban|conscious|protest
+726,87,Funeral,Arcade Fire,14 September 2004,398,34537,indierock|chamberpop,artpop|chamberpop|postpunkrevival,passionate|death|melancholic|melodic|autumn|uplifting|bittersweet|poetic|romantic|anthemic
+727,88,★ [Blackstar],David Bowie,8 January 2016,405,22429,artrock,jazzrock|experimentalrock,dark|death|introspective|poetic|melancholic|malevocals|conceptalbum|funereal|sad|anxious
+728,89,On the Beach,Neil Young,19 July 1974,411,12061,singersongwriter|countryrock|folkrock,bluesrock,introspective|melancholic|lonely|sombre|mellow|malevocals|sentimental|depressive|poetic|alienation
+729,90,Midnight Marauders,A Tribe Called Quest,9 November 1993,409,13891,eastcoasthiphop|jazzrap|boombap,conscioushiphop,rhythmic|urban|nocturnal|mellow|playful|malevocals|sampling|poetic|boastful|sarcastic
+730,91,Master of Puppets,Metallica,3 March 1986,400,28261,thrashmetal,,aggressive|heavy|energetic|angry|malevocals|rebellious|political|serious|uncommontimesignatures|progressive
+731,92,Giant Steps,John Coltrane,27 January 1960,411,12153,hardbop,modaljazz,instrumental|energetic|technical|improvisation|acoustic|playful|rhythmic|complex|uncommontimesignatures|passionate
+732,93,The College Dropout,Kanye West,10 February 2004,400,28594,hiphop|poprap,conscioushiphop|neosoul|poprap,playful|humorous|passionate|conscious|malevocals|sampling|warm|boastful|satirical|melodic
+733,94,White Light / White Heat,The Velvet Underground,30 January 1968,403,22304,experimentalrock|noiserock|protopunk,garagerock|spokenword|psychedelicrock,drugs|sexual|noisy|raw|lofi|dissonant|energetic|chaotic|malevocals|vulgar
+734,95,Odessey and Oracle,The Zombies,19 April 1968,409,14389,psychedelicpop|baroquepop,sunshinepop,love|melodic|psychedelic|bittersweet|romantic|peaceful|spring|malevocals|mellow|melancholic
+735,96,Blonde,Frank Ocean,20 August 2016,402,24096,alternativerb|artpop|neosoul,ambientpop|singersongwriter,introspective|lgbt|bittersweet|mellow|sexual|atmospheric|drugs|sensual|malevocals|romantic
+736,97,Spirit of Eden,Talk Talk,16 September 1988,407,16170,postrock,jazzrock|chamberjazz|artrock,atmospheric|passionate|peaceful|religious|introspective|meditative|malevocals|spiritual|soothing|lush
+737,98,Hot Rats,Frank Zappa,10 October 1969,406,17283,jazzrock|jazzfusion,progressiverock,complex|playful|energetic|technical|instrumental|dense|progressive|surreal|eclectic|quirky
+738,99,Heaven or Las Vegas,Cocteau Twins,17 September 1990,406,18137,dreampop,etherealwave|shoegaze,ethereal|atmospheric|warm|lush|soothing|femalevocals|romantic|cryptic|sensual|melodic
+739,100,Innervisions,Stevie Wonder,3 August 1973,410,11015,soul,funk|smoothsoul|psychedelicsoul,passionate|political|malevocals|romantic|melodic|urban|warm|conscious|mellow|soft
+740,101,Purple Rain,Prince and The Revolution,25 June 1984,407,14678,poprock|filmsoundtrack|synthfunk,dancepop|funkrock,sexual|playful|energetic|sensual|melodic|love|romantic|rhythmic|malevocals|anthemic
+741,102,Hatful of Hollow,The Smiths,12 November 1984,409,12718,janglepop|indiepop,postpunk,melancholic|melodic|introspective|lonely|malevocals|romantic|bittersweet|existential|poetic|sentimental
+742,103,Selected Ambient Works 85-92,Aphex Twin,9 November 1992,402,24216,ambienttechno|idm,ambient,atmospheric|ethereal|futuristic|instrumental|hypnotic|soothing|mellow|rhythmic|mysterious|calm
+743,104,Carrie & Lowell,Sufjan Stevens,31 March 2015,404,19282,indiefolk|singersongwriter,chamberfolk|ambientpop,death|sad|melancholic|acoustic|peaceful|poetic|introspective|soft|melodic|malevocals
+744,105,My Favorite Things,John Coltrane,March 1961,411,10278,modaljazz|postbop,,instrumental|warm|improvisation|passionate|technical|bittersweet|playful|uplifting|acoustic|summer
+745,106,Mingus Ah Um,Charles Mingus,14 September 1959,410,10904,postbop,hardbop|cooljazz,instrumental|energetic|passionate|playful|improvisation|uplifting|acoustic|melodic|complex|quirky
+746,107,Soundtrack From Twin Peaks,Angelo Badalamenti,31 August 1990,411,8622,televisionmusic|darkjazz,dreampop|lounge|ambient,mysterious|nocturnal|ominous|atmospheric|suspenseful|surreal|dark|mellow|ethereal|melancholic
+747,108,Mezzanine,Massive Attack,20 April 1998,403,21714,triphop,dub|postindustrial,dark|nocturnal|mysterious|atmospheric|urban|anxious|hypnotic|melancholic|suspenseful|sexual
+748,109,Symbolic,Death,21 March 1995,407,12414,technicaldeathmetal,progressivemetal,philosophical|complex|technical|passionate|introspective|existential|heavy|malevocals|progressive|melodic
+749,110,Everybody Knows This Is Nowhere,Neil Young,14 May 1969,407,12020,countryrock|singersongwriter,folkrock|hardrock,bittersweet|raw|pastoral|melancholic|malevocals|melodic|sentimental|romantic|introspective|passionate
+750,111,The Lonesome Crowded West,Modest Mouse,18 November 1997,405,15488,indierock,posthardcore|midwestemo,anxious|angry|lonely|passionate|sarcastic|raw|existential|malevocals|alcohol|nihilistic
+751,112,The Kinks Are the Village Green Preservation Society,The Kinks,22 November 1968,407,11623,poprock,baroquepop|psychedelicpop|sunshinepop,warm|melodic|bittersweet|summer|pastoral|quirky|malevocals|sentimental|conceptalbum|playful
+752,113,Donuts,J Dilla,7 February 2006,404,16072,instrumentalhiphop,experimentalhiphop|soul|plunderphonics,instrumental|sampling|eclectic|playful|bittersweet|repetitive|urban|warm|rhythmic|longing
+753,114,Karma,Pharoah Sanders,May 1969,410,7758,spiritualjazz,souljazz|freejazz,spiritual|uplifting|passionate|religious|epic|avantgarde|psychedelic|malevocals|warm|hypnotic
+754,115,Nevermind,Nirvana,24 September 1991,391,39281,grunge|alternativerock,punkrock,energetic|rebellious|angry|malevocals|sarcastic|apathetic|passionate|alienation|anxious|selfhatred
+755,116,Forever Changes,Love,November 1967,403,17068,psychedelicpop|psychedelicrock|psychedelicfolk,baroquepop,psychedelic|philosophical|summer|melodic|warm|introspective|bittersweet|existential|conscious|poetic
+756,117,In utero,Nirvana,21 September 1993,396,29573,grunge|alternativerock,noiserock|posthardcore,raw|noisy|sarcastic|angry|pessimistic|anxious|rebellious|dissonant|malevocals|introspective
+757,118,Five Leaves Left,Nick Drake,1 September 1969,404,15377,singersongwriter|chamberfolk|contemporaryfolk,folkbaroque,mellow|lonely|melancholic|peaceful|poetic|introspective|acoustic|melodic|malevocals|pastoral
+758,119,Sticky Fingers,The Rolling Stones,23 April 1971,403,15159,bluesrock,countryrock|hardrock|rhythmblues,drugs|sexual|malevocals|energetic|rebellious|hedonistic|passionate|raw|melodic
+759,120,Led Zeppelin,Led Zeppelin,12 January 1969,397,26316,hardrock|bluesrock,,energetic|raw|heavy|sexual|malevocals|rebellious|passionate|hedonistic|boastful|rhythmic
+760,121,"Il buono, il brutto, il cattivo",Ennio Morricone,23 December 1966,411,4673,filmscore|spaghettiwestern,mexicanmusic,epic|desert|atmospheric|instrumental|suspenseful|triumphant|martial|mysterious|sombre|warm
+761,122,The Downward Spiral,Nine Inch Nails,8 March 1994,400,20284,industrialrock,industrialmetal|electroindustrial|artrock,misanthropic|nihilistic|angry|suicide|depressive|dark|selfhatred|aggressive|conceptalbum|sexual
+762,123,Superfly,Curtis Mayfield,July 1972,408,7907,filmsoundtrack|funk|chicagosoul,psychedelicsoul,drugs|urban|crime|rhythmic|passionate|malevocals|conscious|melodic|conceptalbum|political
+763,124,Clube da Esquina,Milton Nascimento,April 1972,410,6616,mpb,psychedelicpop|baroquepop|contemporaryfolk,passionate|malevocals|lush|bittersweet|warm|melodic|eclectic|summer|tropical|poetic
+764,125,The Infamous,Mobb Deep,25 April 1995,406,9765,eastcoasthiphop|gangstarap|boombap,jazzrap,crime|urban|dark|atmospheric|violence|sampling|rhythmic|malevocals|cold|drugs
+765,126,Ege bamyası,Can,October 1972,403,15469,krautrock,psychedelicrock|experimentalrock|funkrock,rhythmic|atmospheric|hypnotic|cryptic|psychedelic|surreal|malevocals|improvisation|mysterious|avantgarde
+766,127,Music for 18 Musicians,Steve Reich,April 1978,407,8198,minimalism,,hypnotic|repetitive|rhythmic|minimalistic|atmospheric|ethereal|soothing|femalevocals|avantgarde|polyphonic
+767,128,Deathconsciousness,Have a Nice Life,25 January 2008,400,18850,postpunk|shoegaze,drone|postrock|postindustrial|lofislackerrock|gothicrock,depressive|dark|sombre|atmospheric|lofi|suicide|misanthropic|death|existential|nihilistic
+768,129,Another Green World,Eno,September 1975,402,16837,artrock,electronic|ambient|artpop,peaceful|mysterious|atmospheric|calm|meditative|surreal|futuristic|sombre|malevocals|optimistic
+769,130,Raw Power,Iggy and The Stooges,February 1973,403,14026,protopunk|garagerock|hardrock,,raw|energetic|sexual|noisy|rebellious|heavy|lofi|nihilistic|malevocals|hedonistic
+770,131,Rust in Peace,Megadeth,21 September 1990,400,16443,thrashmetal,technicalthrashmetal|heavymetal,political|energetic|war|technical|malevocals|aggressive|heavy|conscious|apocalyptic|complex
+771,132,Songs of Love and Hate,Leonard Cohen,17 March 1971,405,10936,singersongwriter|contemporaryfolk,chamberfolk,acoustic|melancholic|poetic|sombre|malevocals|dark|introspective|sparse|pessimistic|depressive
+772,133,ATLiens,OutKast,27 August 1996,405,11456,southernhiphop,conscioushiphop,mellow|urban|atmospheric|malevocals|conscious|sciencefiction|philosophical|nocturnal|melancholic|drugs
+773,134,All Things Must Pass,George Harrison,30 November 1970,405,10506,poprock|singersongwriter|folkrock,folkrock|jamband|psychedelicpop,wallofsound|spiritual|uplifting|introspective|melodic|existential|religious|passionate|malevocals|autumn
+774,135,Rumours,Fleetwood Mac,4 February 1977,399,18062,poprock|softrock,folkpop|countrypop,breakup|bittersweet|melodic|femalevocals|mellow|malevocals|melancholic|passionate|soft|warm
+775,136,Fear of Music,Talking Heads,3 August 1979,401,16866,newwave|postpunk,funkrock,anxious|rhythmic|sarcastic|energetic|playful|malevocals|quirky|urban|abstract|mysterious
+776,137,Velocity : Design : Comfort,Sweet Trip,17 June 2003,403,12366,glitchpop|idm|shoegaze,dreampop|glitch|ambientpop|shoegaze|noisepop|indietronica,futuristic|playful|mechanical|atmospheric|abstract|femalevocals|ethereal|lush|love|psychedelic
+777,138,Pornography,The Cure,3 May 1982,400,17920,gothicrock|postpunk,coldwave,dark|cold|sombre|depressive|nihilistic|atmospheric|anxious|malevocals|ominous|pessimistic
+778,139,Journey in Satchidananda,Alice Coltrane featuring Pharoah Sanders,February 1971,407,6613,spiritualjazz|avantgardejazz,hindustaniclassicalmusic|postbop,instrumental|meditative|hypnotic|spiritual|psychedelic|avantgarde|ethereal|warm|improvisation|lush
+779,140,Mm.. Food,MF DOOM,16 November 2004,402,15595,eastcoasthiphop|abstracthiphop,experimentalhiphop|jazzrap|plunderphonics,sampling|conceptalbum|playful|humorous|abstract|malevocals|quirky|alcohol|drugs|rhythmic
+780,141,Meddle,Pink Floyd,5 November 1971,397,25197,progressiverock,spacerock|psychedelicrock|folkrock,mellow|psychedelic|atmospheric|mysterious|malevocals|progressive|calm|surreal|hypnotic|epic
+781,142,To Be Kind,Swans,13 May 2014,398,17999,experimentalrock|postrock,noiserock|drone|nowave|totalism,repetitive|epic|atmospheric|noisy|aggressive|heavy|hypnotic|malevocals|misanthropic|ominous
+782,143,Led Zeppelin II,Led Zeppelin,22 October 1969,395,24731,hardrock|bluesrock,,energetic|sexual|heavy|malevocals|raw|hedonistic|passionate|rebellious|boastful|rhythmic
+783,144,Larks' Tongues in Aspic,King Crimson,23 March 1973,402,14182,progressiverock,experimentalrock|avantprog,uncommontimesignatures|complex|technical|anxious|progressive|malevocals|avantgarde|cryptic|philosophical|dissonant
+784,145,Ready to Die,The Notorious B.I.G.,13 September 1994,401,13000,eastcoasthiphop|gangstarap|boombap,,crime|boastful|sexual|vulgar|urban|drugs|nihilistic|rhythmic|malevocals|death
+785,146,Harvest,Neil Young,25 February 1972,401,15549,countryrock|folkrock|singersongwriter,,pastoral|bittersweet|warm|autumn|sentimental|malevocals|melodic|mellow|longing|introspective
+786,147,Blue,Joni Mitchell,June 1971,402,13152,singersongwriter|contemporaryfolk,,acoustic|melancholic|femalevocals|melodic|breakup|love|bittersweet|romantic|sentimental|mellow
+787,148,Turn On the Bright Lights,Interpol,20 August 2002,395,24247,postpunkrevival,postrock,urban|melancholic|atmospheric|anxious|malevocals|introspective|nocturnal|dark|romantic|rhythmic
+788,149,"""Heroes""",David Bowie,14 October 1977,398,20386,artrock,ambient|electronic|artpop|krautrock,futuristic|atmospheric|malevocals|anxious|abstract|cold|progressive|complex|mysterious|passionate
+789,150,Selling England by the Pound,Genesis,12 October 1973,400,13480,progressiverock|symphonicprog,symphonicprog,epic|satirical|medieval|complex|melodic|progressive|philosophical|malevocals|uncommontimesignatures|technical
+790,151,Cosmo's Factory,Creedence Clearwater Revival,25 July 1970,404,9417,swamprock,countryrock|bluesrock,energetic|malevocals|passionate|melodic|political|raw|conscious|playful|uplifting|breakup
+791,152,Since I Left You,The Avalanches,27 November 2000,398,18618,plunderphonics|dance,instrumentalhiphop|nudisco,sampling|summer|tropical|warm|eclectic|party|rhythmic|uplifting|bittersweet|energetic
+792,153,Violator,Depeche Mode,19 March 1990,399,17254,synthpop,darkwave,dark|sombre|romantic|sensual|malevocals|atmospheric|nocturnal|melodic|rhythmic|passionate
+793,154,Late Registration,Kanye West,30 August 2005,395,25513,hiphop,conscioushiphop|poprap|neosoul|jazzrap,warm|humorous|passionate|conscious|sampling|malevocals|lush|introspective|uplifting|energetic
+794,155,"Sign ""☮︎"" the Times",Prince,30 March 1987,402,7968,poprock|contemporaryrb|funkrock,synthfunk|soul|funk|contemporaryrb,eclectic|sexual|playful|warm|passionate|malevocals|sensual|rhythmic|androgynousvocals|conscious
+795,156,Surfer Rosa,Pixies,21 March 1988,396,22467,indierock|alternativerock,noiserock|posthardcore,raw|energetic|playful|humorous|noisy|malevocals|anxious|femalevocals|chaotic|manic
+796,157,If You're Feeling Sinister,Belle and Sebastian,18 November 1996,398,16777,chamberpop|tweepop|indiepop,chamberfolk,bittersweet|warm|melancholic|romantic|melodic|soft|poetic|sentimental|autumn|lush
+797,158,Ys,Joanna Newsom,14 November 2006,398,14583,chamberfolk|singersongwriter|progressivefolk,avantfolk,poetic|passionate|pastoral|femalevocals|complex|spring|lush|melodic|progressive|warm
+798,159,Who's Next,The Who,25 August 1971,397,17540,hardrock,artrock,energetic|uplifting|passionate|melodic|malevocals|anthemic|rebellious|triumphant|bittersweet|love
+799,160,Perfect From Now On,Built to Spill,28 January 1997,402,11246,indierock,postrock|midwestemo,melancholic|malevocals|philosophical|bittersweet|atmospheric|introspective|complex|anxious|melodic|existential
+800,161,Let It Bleed,The Rolling Stones,29 November 1969,399,14589,bluesrock,countryrock|rockroll,sexual|rebellious|malevocals|raw|energetic|hedonistic|bittersweet|passionate|melodic|warm
+801,162,Exile on Main St.,The Rolling Stones,26 May 1972,399,13688,bluesrock|rock,countryrock|rootsrock|rhythmblues,sexual|playful|rebellious|raw|malevocals|energetic|hedonistic|drugs|passionate|alcohol
+802,163,The Dreaming,Kate Bush,1 September 1982,402,10716,artpop|progressivepop,artrock|experimentalrock|baroquepop,manic|playful|femalevocals|anxious|complex|surreal|quirky|progressive|eclectic|philosophical
+803,164,Lateralus,Tool,15 May 2001,393,20060,alternativemetal|progressivemetal,progressivemetal|postmetal,uncommontimesignatures|philosophical|complex|existential|malevocals|progressive|introspective|heavy|atmospheric|mysterious
+804,165,Astral Weeks,Van Morrison,29 November 1968,399,13343,singersongwriter|chamberfolk,blueeyedsoul|jazz|celticfolkmusic,passionate|warm|acoustic|romantic|introspective|poetic|pastoral|lush|spring|bittersweet
+805,166,Art Blakey and The Jazz Messengers [Moanin'],Art Blakey and The Jazz Messengers,January 1959,405,6175,hardbop,,instrumental|improvisation|rhythmic|passionate|acoustic|melodic|warm|playful|energetic|technical
+806,167,Symphony No. 9,Berliner Philharmoniker,1963,407,1128,symphony|romanticism,choral,symphony|choral|orchestral|epic|acoustic|uplifting|triumphant|complex|melodic|passionate
+807,168,Blue Train,John Coltrane,January 1958,403,10669,hardbop,,instrumental|improvisation|energetic|melodic|uplifting|acoustic|technical|nocturnal|rhythmic|urban
+808,169,Reign in Blood,Slayer,7 October 1986,396,17567,thrashmetal,,aggressive|satanic|death|angry|manic|energetic|antireligious|heavy|violence|malevocals
+809,170,Music Has the Right to Children,Boards of Canada,20 April 1998,396,19877,idm|downtempo,downtempo|ambient,atmospheric|mellow|hypnotic|mysterious|instrumental|rhythmic|psychedelic|warm|nature|sampling
+810,171,Silent Hill 2: Original Soundtrack,山岡晃 [Akira Yamaoka],3 October 2001,405,4158,videogamemusic|ambient,triphop|darkambient|industrial|alternativerock,sombre|dark|melancholic|ominous|lonely|surreal|atmospheric|cold|instrumental|scary
+811,172,Grace,Jeff Buckley,23 August 1994,396,19535,singersongwriter|alternativerock,,passionate|melancholic|romantic|love|bittersweet|introspective|malevocals|poetic|existential|sad
+812,173,Painkiller,Judas Priest,3 September 1990,400,9734,heavymetal,speedmetal,energetic|malevocals|fantasy|sciencefiction|epic|anthemic|heavy|apocalyptic|war|rebellious
+813,174,Acabou chorare,Novos Baianos,November 1972,406,4227,mpb|samba,sambarock|tropicália,happy|playful|summer|energetic|warm|tropical|uplifting|melodic|malevocals|femalevocals
+814,175,Powerslave,Iron Maiden,3 September 1984,397,14283,heavymetal,,epic|energetic|history|malevocals|melodic|triumphant|anthemic|war|violence|rhythmic
+815,176,Is This It,The Strokes,20 August 2001,391,27783,indierock|garagerockrevival,postpunkrevival,malevocals|energetic|melodic|urban|apathetic|rebellious|bittersweet|rhythmic|love|raw
+816,177,Rage Against the Machine,Rage Against the Machine,10 November 1992,393,20031,rapmetal|alternativemetal,funkmetal|politicalhiphop,political|protest|aggressive|energetic|rebellious|angry|malevocals|heavy|rhythmic|conscious
+817,178,"Crooked Rain, Crooked Rain",Pavement,14 February 1994,397,16418,indierock,noisepop,bittersweet|playful|satirical|melodic|sarcastic|summer|cryptic|energetic|malevocals|melancholic
+818,179,Siamese Dream,Smashing Pumpkins,26 July 1993,395,20686,alternativerock,shoegaze|grunge|dreampop,bittersweet|melancholic|dense|introspective|melodic|malevocals|noisy|passionate|alienation|heavy
+819,180,The Stone Roses,The Stone Roses,13 March 1989,398,15968,baggymadchester,neopsychedelia|janglepop,melodic|psychedelic|energetic|rhythmic|uplifting|playful|malevocals|summer|hypnotic|optimistic
+820,181,Blues & Roots,Charlie Mingus,March 1960,405,5613,postbop,hardbop|avantgardejazz,passionate|improvisation|instrumental|energetic|uplifting|acoustic|playful|warm|spiritual|chaotic
+821,182,Thick as a Brick,Jethro Tull,10 March 1972,400,10746,progressiverock,folkrock|progressivefolk|satire,satirical|complex|epic|conceptalbum|malevocals|suite|progressive|sarcastic|technical|poetic
+822,183,Sabbath Bloody Sabbath,Black Sabbath,28 December 1973,398,14239,heavymetal|hardrock,progressiverock,malevocals|heavy|philosophical|progressive|introspective|pessimistic|ominous|dark|sombre|eclectic
+823,184,Swordfishtrombones,Tom Waits,September 1983,400,11474,singersongwriter|experimentalrock,blues|beatpoetry|jazz|darkcabaret|brassband,poetic|dark|atmospheric|urban|avantgarde|eclectic|surreal|malevocals|passionate|alcohol
+824,185,The Freewheelin' Bob Dylan,Bob Dylan,27 May 1963,398,15245,contemporaryfolk|singersongwriter,acousticblues|talkingblues,acoustic|poetic|malevocals|political|protest|conscious|mellow|introspective|autumn|humorous
+825,186,Fresh Fruit for Rotting Vegetables,Dead Kennedys,2 September 1980,398,13591,hardcorepunk|punkrock,anarchopunk|surfpunk,political|satirical|sarcastic|energetic|rebellious|humorous|raw|malevocals|manic|aggressive
+826,187,A Charlie Brown Christmas,Vince Guaraldi,December 1965,404,5167,christmasmusic|cooljazz|televisionmusic,carols,christmas|winter|instrumental|peaceful|soothing|sentimental|acoustic|warm|melodic|mellow
+827,188,Die Mensch-Maschine,Kraftwerk,19 May 1978,397,14545,synthpop|electronic,progressiveelectronic,mechanical|futuristic|sciencefiction|repetitive|malevocals|hypnotic|melodic|atmospheric|minimalistic|cold
+828,189,First Utterance,Comus,19 February 1971,400,9221,progressivefolk|psychedelicfolk|freakfolk,avantfolk,pagan|psychedelic|ritualistic|manic|folklore|occult|forest|dark|disturbing|violence
+829,190,Arthur or the Decline and Fall of the British Empire,The Kinks,10 October 1969,402,6904,poprock,baroquepop|rockopera|psychedelicpop,history|satirical|melodic|sarcastic|war|conceptalbum|malevocals|rockopera|bittersweet|quirky
+830,191,Axis: Bold as Love,The Jimi Hendrix Experience,1 December 1967,398,13844,psychedelicrock|bluesrock,hardrock|acidrock,psychedelic|surreal|malevocals|energetic|passionate|warm|sexual|rebellious|philosophical|introspective
+831,192,A Tribute to Jack Johnson,Miles Davis,24 February 1971,402,5729,jazzfusion|jazzrock|filmscore,avantgardejazz|funkrock,energetic|improvisation|instrumental|psychedelic|hypnotic|mysterious|warm|progressive|rhythmic|urban
+832,193,The Bends,Radiohead,13 March 1995,384,41882,alternativerock,britpop,melancholic|lonely|anxious|melodic|introspective|malevocals|bittersweet|existential|alienation|longing
+833,194,Weezer [Blue Album],Weezer,10 May 1994,390,25131,powerpop|alternativerock,poppunk,melodic|energetic|summer|malevocals|bittersweet|passionate|lonely|introspective|playful|alienation
+834,195,Curtis,Curtis Mayfield,September 1970,403,6548,chicagosoul,funk|psychedelicsoul,conscious|passionate|political|warm|uplifting|rhythmic|malevocals|lush|optimistic|energetic
+835,196,Leaves Turn Inside You,Unwound,17 April 2001,399,9541,posthardcore|indierock,postrock|artrock,sombre|mysterious|cold|malevocals|lonely|autumn|atmospheric|melancholic|cryptic|hypnotic
+836,197,Songs for the Deaf,Queens of the Stone Age,27 August 2002,393,20562,stonerrock|alternativerock,,desert|energetic|conceptalbum|malevocals|drugs|heavy|summer|psychedelic|rhythmic|melodic
+837,198,Townes Van Zandt,Townes Van Zandt,September 1969,401,5931,country|singersongwriter|contemporaryfolk,,melancholic|acoustic|malevocals|pastoral|poetic|sad|bittersweet|love|longing|mellow
+838,199,Physical Graffiti,Led Zeppelin,24 February 1975,394,17419,hardrock,bluesrock|folkrock,energetic|malevocals|rhythmic|epic|eclectic|melodic|passionate|raw|longing|sexual
+839,200,Expensive Shit,Fela Kuti,1975,402,6398,afrobeat,jazzfunk|afrojazz,energetic|rhythmic|protest|passionate|repetitive|rebellious|playful|tropical|malevocals|conscious
+840,201,Get Up With It,Miles Davis,22 November 1974,403,4433,jazzfusion|jazzfunk,avantgardejazz|ambient|jazzrock,hypnotic|atmospheric|surreal|psychedelic|instrumental|repetitive|suspenseful|avantgarde|rhythmic|chaotic
+841,202,Ænima,Tool,1 October 1996,391,18181,alternativemetal,progressivemetal|progressiverock,angry|satirical|philosophical|misanthropic|malevocals|aggressive|nihilistic|sarcastic|dark|heavy
+842,203,The Moon & Antarctica,Modest Mouse,13 June 2000,395,15608,indierock,artrock|neopsychedelia,philosophical|existential|lonely|cold|anxious|sarcastic|melancholic|malevocals|poetic|space
+843,204,Treasure,Cocteau Twins,1 November 1984,396,13913,dreampop|etherealwave,,ethereal|atmospheric|mysterious|cryptic|lush|melodic|femalevocals|nocturnal|surreal|hypnotic
+844,205,Piñata,Freddie Gibbs & Madlib,18 March 2014,396,14335,gangstarap,jazzrap,crime|urban|drugs|sampling|boastful|malevocals|violence|vulgar|aggressive|lush
+845,206,Trans Europa Express,Kraftwerk,March 1977,397,12325,electronic,progressiveelectronic|synthpop,mechanical|futuristic|repetitive|cold|urban|minimalistic|malevocals|hypnotic|atmospheric|rhythmic
+846,207,Blackwater Park,Opeth,12 March 2001,393,13939,progressivemetal,deathmetal|progressiverock,sombre|dark|atmospheric|ominous|epic|malevocals|progressive|heavy|melancholic|cold
+847,208,Yankee Hotel Foxtrot,Wilco,23 April 2002,392,19702,indierock|alternativerock,americana|artrock|altcountry|indierock,melancholic|bittersweet|malevocals|poetic|sentimental|atmospheric|melodic|autumn|love|introspective
+848,209,Entertainment!,Gang of Four,25 September 1979,396,13256,postpunk,dancepunk|artpunk,political|rhythmic|anxious|energetic|sarcastic|rebellious|malevocals|conscious|protest|urban
+849,210,Le sacre du printemps,New York Philharmonic,1958,403,2192,modernclassical|orchestral,expressionism,ritualistic|orchestral|dissonant|instrumental|polyphonic|apocalyptic|spring|mysterious|uncommontimesignatures|suspenseful
+850,211,Jane Doe,Converge,4 September 2001,393,12248,mathcore|metalcore,hardcorepunk,angry|chaotic|manic|passionate|aggressive|breakup|noisy|heavy|technical|raw
+851,212,Geogaddi,Boards of Canada,18 February 2002,396,14868,idm,ambient|downtempo|ambienttechno|radiobroadcastrecordings,mysterious|psychedelic|atmospheric|ominous|surreal|hypnotic|melancholic|dark|sampling|instrumental
+852,213,A Tábua de Esmeralda,Jorge Ben,1974,403,4115,mpb|sambarock,sambasoul|psychedelicpop,warm|uplifting|tropical|lush|occult|summer|playful|malevocals|romantic|happy
+853,214,C'era una volta il West,Ennio Morricone,1968,403,2244,filmscore|spaghettiwestern,modernclassical|cinematicclassical,instrumental|epic|desert|suspenseful|orchestral|lush|pastoral|sentimental|passionate|chambermusic
+854,215,Dirt,Alice in Chains,29 September 1992,392,16408,grunge|alternativemetal,heavymetal|alternativerock,drugs|depressive|heavy|angry|pessimistic|malevocals|dark|selfhatred|sombre|anxious
+855,216,Dopethrone,Electric Wizard,9 October 2000,396,12299,stonermetal|doommetal,sludgemetal,heavy|drugs|occult|psychedelic|nihilistic|noisy|dense|misanthropic|malevocals|raw
+856,217,Seventh Son of a Seventh Son,Iron Maiden,11 April 1988,396,11077,heavymetal,progressivemetal,epic|fantasy|melodic|malevocals|progressive|energetic|passionate|philosophical|conceptalbum|anthemic
+857,218,Mount Eerie,The Microphones,21 January 2003,398,9259,avantfolk|psychedelicfolk,drone|fieldrecordings|tribalambient|experimental|ambient,death|nature|atmospheric|spiritual|avantgarde|conceptalbum|ritualistic|epic|lonely|mythology
+858,219,Beggars Banquet,The Rolling Stones,6 December 1968,397,12052,rootsrock|rock,bluesrock|countryrock|rootsrock,rebellious|raw|malevocals|hedonistic|warm|drugs|passionate|acoustic|energetic|melodic
+859,220,Deceit,This Heat,September 1981,397,9905,experimentalrock|postpunk,avantprog|industrial|tapemusic|krautrock,apocalyptic|anxious|war|dark|political|avantgarde|malevocals|complex|dissonant|chaotic
+860,221,Zombie,Fela Kuti,1977,402,5152,afrobeat,jazzfunk,rhythmic|protest|energetic|political|passionate|repetitive|conscious|rebellious|malevocals|war
+861,222,Born to Run,Bruce Springsteen,25 August 1975,396,12368,heartlandrock,singersongwriter|pianorock,passionate|energetic|triumphant|melodic|bittersweet|poetic|malevocals|sentimental|epic|anthemic
+862,223,The Shape of Jazz to Come,Ornette Coleman,November 1959,399,8368,avantgardejazz,freejazz,instrumental|passionate|avantgarde|improvisation|energetic|dissonant|complex|playful|technical|anxious
+863,224,Out to Lunch,Eric Dolphy,August 1964,399,8122,avantgardejazz,postbop|freejazz,instrumental|uncommontimesignatures|avantgarde|dissonant|complex|playful|rhythmic|anxious|improvisation|technical
+864,225,Otis Blue: Otis Redding Sings Soul,Otis Redding,15 September 1965,401,6242,deepsoul|southernsoul,rhythmblues|soulblues|blues,passionate|malevocals|love|romantic|longing|melodic|bittersweet|raw|energetic|warm
+865,226,Symphonie Nr.5,Wiener Philharmoniker,1975,404,829,symphony|romanticism,,instrumental|acoustic|triumphant|symphony|epic|orchestral|passionate|lush|energetic|political
+866,227,Pink Flag,Wire,December 1977,394,14814,punkrock|artpunk,postpunk,energetic|malevocals|raw|minimalistic|sarcastic|rebellious|cryptic|abstract|playful|quirky
+867,228,Construção,Chico Buarque,1971,401,4269,mpb|singersongwriter,samba,political|poetic|urban|malevocals|passionate|conscious|existential|protest|serious|melancholic
+868,229,Discipline,King Crimson,22 September 1981,396,12598,artrock|progressiverock|newwave,newwave|avantprog,uncommontimesignatures|anxious|technical|rhythmic|complex|progressive|malevocals|energetic|abstract|cryptic
+869,230,Untrue,Burial,5 November 2007,392,18323,futuregarage|dubstep,2step|ambient,urban|atmospheric|lonely|melancholic|nocturnal|cold|sampling|mysterious|dark|rain
+870,231,Bryter Layter,Nick Drake,1 November 1970,396,13656,singersongwriter|chamberfolk|contemporaryfolk,baroquepop|jazzpop,mellow|acoustic|poetic|lush|introspective|melodic|lonely|malevocals|melancholic|autumn
+871,232,The End of Evangelion,Shiro Sagisu,26 September 1997,403,1462,filmscore|orchestral|modernclassical,choral|baroquemusic,apocalyptic|orchestral|ethereal|spiritual|suspenseful|epic|death|love|melancholic|depressive
+872,233,Kyuss [Welcome to Sky Valley],Kyuss,21 June 1994,395,12343,stonerrock|stonermetal,heavypsych|psychedelicrock,desert|heavy|dense|warm|psychedelic|hypnotic|malevocals|drugs|rhythmic|introspective
+873,234,We got it from Here… Thank You 4 Your service,A Tribe Called Quest,11 November 2016,396,11371,conscioushiphop|eastcoasthiphop|jazzrap,politicalhiphop|boombap,political|conscious|bittersweet|urban|sampling|mellow|malevocals|death|rhythmic|melancholic
+874,235,Bone Machine,Tom Waits,8 September 1992,398,8654,experimentalrock|singersongwriter,bluesrock|gothiccountry|blues|postindustrial,dark|raw|ominous|manic|nocturnal|death|quirky|malevocals|eclectic|passionate
+875,236,Let Love In,Nick Cave and The Bad Seeds,19 April 1994,396,11089,alternativerock|postpunk,punkblues|gothicrock,dark|love|passionate|atmospheric|anxious|poetic|ominous|death|malevocals|religious
+876,237,Human,Death,22 October 1991,395,9709,technicaldeathmetal|deathmetal,progressivemetal,aggressive|technical|philosophical|complex|existential|death|malevocals|heavy|energetic|progressive
+877,238,The Number of the Beast,Iron Maiden,22 March 1982,392,16034,nwobhm|heavymetal,,energetic|melodic|malevocals|heavy|passionate|anthemic|epic|history|rebellious|war
+878,239,Maggot Brain,Funkadelic,12 July 1971,396,12108,funkrock|funk,psychedelicsoul|psychedelicrock,psychedelic|apocalyptic|passionate|hypnotic|political|drugs|rhythmic|philosophical|malevocals|dark
+879,240,Moondance,Van Morrison,28 February 1970,397,8700,singersongwriter|folkrock,rhythmblues|blueeyedsoul|jazzpop,romantic|mellow|warm|pastoral|malevocals|acoustic|passionate|poetic|spiritual|autumn
+880,241,The Seer,Swans,28 August 2012,392,15022,experimentalrock|postrock,drone|noiserock|neofolk,apocalyptic|repetitive|epic|mysterious|ominous|dark|atmospheric|ritualistic|spiritual|suspenseful
+881,242,Bridge Over Troubled Water,Simon and Garfunkel,26 January 1970,396,10510,folkpop|singersongwriter,folkrock|contemporaryfolk,melodic|soothing|warm|mellow|soft|malevocals|melancholic|love|peaceful|autumn
+882,243,Tabula rasa,Staatsorchester Stuttgart,September 1984,399,4903,minimalism|modernclassical,chambermusic,instrumental|melancholic|passionate|atmospheric|mysterious|spiritual|minimalistic|acoustic|sparse|meditative
+883,244,A Moon Shaped Pool,Radiohead,8 May 2016,388,25373,artpop|artrock|chamberpop,ambientpop|electronic,atmospheric|melancholic|sombre|introspective|lush|mellow|malevocals|mysterious|soft|orchestral
+884,245,Thriller,Michael Jackson,30 November 1982,391,16233,contemporaryrb|pop|dancepop,disco|funk|dancepop|popsoul|synthfunk,energetic|romantic|party|melodic|malevocals|rhythmic|playful|sensual|love|passionate
+885,246,Strange Days,The Doors,25 September 1967,394,14930,psychedelicrock,bluesrock|acidrock|psychedelicpop,psychedelic|malevocals|mysterious|melancholic|cryptic|poetic|alienation|surreal|lonely|warm
+886,247,Foxtrot,Genesis,6 October 1972,396,9871,progressiverock|symphonicprog,symphonicprog,fantasy|epic|uncommontimesignatures|philosophical|malevocals|complex|progressive|playful|melodic|quirky
+887,248,Still Life,Opeth,18 October 1999,394,9629,progressivemetal,deathmetal|progressiverock,conceptalbum|melodic|complex|heavy|dark|love|progressive|passionate|malevocals|romantic
+888,249,Minecraft: Volume Alpha,C418,4 March 2011,399,7268,videogamemusic|ambient,impressionism|electronic|soundsandeffects|progressiveelectronic,peaceful|atmospheric|soothing|mellow|instrumental|melancholic|lonely|meditative|soft|mysterious
+889,250,Flower Boy,"Tyler, the Creator",21 July 2017,388,23775,westcoasthiphop|neosoul,neosoul|synthfunk|alternativerb|poprap|neopsychedelia,introspective|lgbt|lonely|lush|warm|malevocals|longing|love|summer|bittersweet
+890,251,Houses of the Holy,Led Zeppelin,28 March 1973,392,18213,hardrock,folkrock|bluesrock|progressiverock,malevocals|energetic|eclectic|passionate|rhythmic|longing|spring|uncommontimesignatures|melodic
+891,252,Tonight's the Night,Neil Young,20 June 1975,397,8295,countryrock|singersongwriter|folkrock,bluesrock,introspective|drugs|death|sombre|raw|dark|lonely|malevocals|alienation|alcohol
+892,253,Olé Coltrane,John Coltrane,November 1961,401,4563,modaljazz,postbop,instrumental|warm|passionate|improvisation|mellow|melodic|acoustic|energetic|technical|complex
+893,254,"""Chrono Trigger"" Original Sound Version",Yasunori Mitsuda,25 March 1995,400,1459,videogamemusic|16bit,newage|ambient|fanfare|orchestral|cinematicclassical|soundsandeffects,epic|fantasy|instrumental|sciencefiction|eclectic|atmospheric|mysterious|melancholic|ethereal|warm
+894,255,Mother 2: ギーグの逆襲,田中宏和 [Hirokazu Tanaka],2 November 1994,402,1391,videogamemusic|16bit,dub|neopsychedelia|darkambient|lounge|psychedelicpop|plunderphonics|jazzfusion,quirky|eclectic|atmospheric|psychedelic|surreal|bittersweet|instrumental|ominous|playful|sampling
+895,256,The Piper at the Gates of Dawn,Pink Floyd,4 August 1967,387,26190,psychedelicrock|psychedelicpop,spacerock|experimentalrock,psychedelic|drugs|fantasy|surreal|playful|abstract|cryptic|malevocals|quirky|hypnotic
+896,257,Fragile,Yes,26 November 1971,394,15096,progressiverock,symphonicprog,epic|uncommontimesignatures|complex|technical|progressive|nature|malevocals|uplifting|lush|optimistic
+897,258,Head Hunters,Herbie Hancock,13 October 1973,396,10871,jazzfusion|jazzfunk,,rhythmic|instrumental|playful|energetic|happy|improvisation|uplifting|psychedelic|warm|progressive
+898,259,Machine Head,Deep Purple,25 March 1972,394,11387,hardrock,bluesrock|heavymetal,energetic|heavy|malevocals|melodic|passionate|rhythmic|technical
+899,260,Transformer,Lou Reed,8 November 1972,392,16146,glamrock|poprock,artrock,sexual|lgbt|drugs|urban|humorous|malevocals|melodic|bittersweet|hedonistic|deadpan
+900,261,You Will Never Know Why,Sweet Trip,28 September 2009,399,6762,indiepop|dreampop,indietronica|progressivepop|shoegaze|tweepop,melancholic|bittersweet|ethereal|soothing|femalevocals|love|mellow|melodic|malevocals|lush
+901,262,Ascension [Edition I],John Coltrane,February 1966,398,6260,freejazz|spiritualjazz,experimentalbigband,chaotic|instrumental|dense|spiritual|avantgarde|improvisation|passionate|complex|manic|dissonant
+902,263,You Won't Get What You Want,Daughters,26 October 2018,390,17307,noiserock|industrialrock,nowave|artpunk|posthardcore,noisy|anxious|dark|malevocals|dissonant|manic|heavy|nihilistic|pessimistic|misanthropic
+903,264,Moment of Truth,Gang Starr,31 March 1998,399,4919,eastcoasthiphop|boombap,conscioushiphop,urban|optimistic|philosophical|malevocals|sampling|conscious|rhythmic|mellow|boastful|melodic
+904,265,ゼルダの伝説: ムジュラの仮面 (The Legend of Zelda: Majora's Mask),近藤浩治 [Koji Kondo],23 June 2000,400,1077,videogamemusic|sequencertracker,darkambient|ritualambient|chambermusic|fanfare|soundsandeffects,ominous|dark|apocalyptic|atmospheric|ritualistic|sombre|melancholic|instrumental|fantasy|epic
+905,266,Here Come the Warm Jets,Eno,February 1974,395,11578,artrock|experimentalrock,glamrock,playful|surreal|quirky|malevocals|manic|sarcastic|abstract|energetic|eclectic|humorous
+906,267,Africa / Brass,The John Coltrane Quartet,1 September 1961,400,4015,modaljazz|postbop,,instrumental|warm|mellow|acoustic|complex|improvisation|nocturnal|technical|melodic|dense
+907,268,Post,Björk,15 June 1995,390,20512,artpop|electronic,triphop|alternativedance|tribalhouse,eclectic|playful|passionate|femalevocals|futuristic|melodic|abstract|lush|atmospheric|quirky
+908,269,Black on Both Sides,Mos Def,12 October 1999,396,8714,eastcoasthiphop|conscioushiphop,boombap|neosoul|jazzrap,conscious|urban|poetic|political|passionate|malevocals|spiritual|rhythmic|boastful|uplifting
+909,270,The Nocturnes,Artur Rubinstein,1967,402,1864,romanticism,,instrumental|mellow|nocturnal|melancholic|soothing|melodic|sparse|peaceful|acoustic|soft
+910,271,Donkey Kong Country 2: Diddy's Kong Quest,David Wise,1 October 1995,400,1167,videogamemusic|16bit,ambient|psybient|soundsandeffects|seashanties,forest|atmospheric|tribal|melancholic|instrumental|melodic|ethereal|jingle|warm|bittersweet
+911,272,Discovery,Daft Punk,13 March 2001,389,21598,frenchhouse,electrodisco|dancepop|synthfunk|funkyhouse|synthpop,energetic|futuristic|party|playful|sampling|happy|rhythmic|malevocals|repetitive|optimistic
+912,273,It Takes a Nation of Millions to Hold Us Back,Public Enemy,14 April 1988,393,11638,politicalhiphop|eastcoasthiphop|hardcorehiphop|conscioushiphop,turntablism,political|angry|protest|raw|urban|sampling|energetic|malevocals|rhythmic|dense
+913,274,The Lamb Lies Down on Broadway,Genesis,18 November 1974,396,8369,progressiverock|rockopera,symphonicprog|artrock,surreal|complex|uncommontimesignatures|rockopera|fantasy|melodic|malevocals|progressive|urban|suspenseful
+914,275,Persona5 Original Soundtrack,目黒将司 [Shoji Meguro],17 January 2017,399,1684,videogamemusic|acidjazz|lounge|jazzfunk,jazzfusion|nujazz|alternativerock|disco,energetic|rhythmic|rebellious|femalevocals|triumphant|eclectic|instrumental|passionate|melancholic|mellow
+915,276,Black Sabbath Vol. 4,Black Sabbath,25 September 1972,393,14158,heavymetal|hardrock,traditionaldoommetal,heavy|malevocals|drugs|sombre|rhythmic|dark|nocturnal|psychedelic|introspective|alienation
+916,277,Paul's Boutique,Beastie Boys,25 July 1989,392,13116,eastcoasthiphop,experimentalhiphop|plunderphonics,energetic|sampling|urban|humorous|playful|sexual|malevocals|crime|rhythmic|complex
+917,278,C'era una volta in America,Ennio Morricone,1984,401,1217,filmscore|cinematicclassical,bigband,melancholic|instrumental|orchestral|atmospheric|melodic|sentimental|lush|urban|bittersweet|passionate
+918,279,Boris at Last -Feedbacker-,Boris,25 December 2003,394,9560,dronemetal|postmetal|drone|noiserock,noise|psychedelicrock|postrock,noisy|atmospheric|epic|heavy|hypnotic|dense|repetitive|passionate|malevocals|raw
+919,280,Twin Peaks: Fire Walk With Me,Angelo Badalamenti,11 August 1992,401,2537,filmscore|darkjazz,darkambient|lounge,dark|nocturnal|surreal|melancholic|suspenseful|mysterious|instrumental|atmospheric|disturbing|romantic
+920,281,ファイナルファンタジーVI (Final Fantasy VI) Original Sound Version,植松伸夫 [Nobuo Uematsu],25 March 1994,399,1081,videogamemusic|16bit,classicalmarch|orchestral|cinematicclassical,medieval|fantasy|instrumental|melancholic|war|martial|epic|dark|suspenseful|anthemic
+921,282,Sister,The Sonic Youth,June 1987,393,13379,noiserock|alternativerock,postpunk|experimentalrock,raw|noisy|dissonant|anxious|apathetic|surreal|malevocals|femalevocals|urban|introspective
+922,283,Moving Pictures,Rush,9 February 1981,391,13482,progressiverock|hardrock,,complex|melodic|malevocals|energetic|sciencefiction|progressive|uncommontimesignatures|technical|optimistic|philosophical
+923,284,Star Wars: The Empire Strikes Back,John Williams,21 April 1980,397,1636,filmscore|cinematicclassical|orchestral,,epic|space|instrumental|ominous|orchestral|melodic|triumphant|uplifting|sciencefiction|fantasy
+924,285,Final Fantasy VII Original Sound Track,植松伸夫 [Nobuo Uematsu],10 February 1997,397,1678,videogamemusic|sequencertracker,orchestral|cinematicclassical,bittersweet|epic|suspenseful|urban|mechanical|sentimental|orchestral|mysterious|triumphant|fantasy
+925,286,( ),Sigur Rós,28 October 2002,391,15226,postrock,ambient,melancholic|ethereal|atmospheric|soothing|calm|lush|sombre|winter|bittersweet|cold
+926,287,Filosofem,Burzum,31 January 1996,390,14448,atmosphericblackmetal|ambient,ambient|dungeonsynth|blackambient,lofi|atmospheric|repetitive|cold|raw|meditative|hypnotic|pagan|malevocals|melancholic
+927,288,Mirage,Camel,1 March 1974,395,8241,symphonicprog|progressiverock,canterburyscene,complex|melodic|fantasy|progressive|epic|uncommontimesignatures|malevocals|atmospheric|desert|mellow
+928,289,Let My Children Hear Music,Charles Mingus,February 1972,399,3712,thirdstream|experimentalbigband|avantgardejazz,,instrumental|avantgarde|energetic|complex|dense|progressive|passionate|technical|suspenseful|improvisation
+929,290,Star Wars,John Williams,June 1977,398,1990,filmscore|cinematicclassical|orchestral,,epic|instrumental|space|orchestral|melodic|anthemic|triumphant|uplifting|atmospheric
+930,291,The Lord of the Rings: The Fellowship of the Ring,Howard Shore,20 November 2001,398,2134,filmscore|cinematicclassical|orchestral,,epic|fantasy|orchestral|suspenseful|ominous|lush|mysterious|acoustic|choral|triumphant
+931,292,The Ape of Naples,Coil,2 December 2005,393,9554,postindustrial|electronic|experimental,darkambient|neoclassicaldarkwave|industrial,death|melancholic|lonely|cold|ominous|philosophical|surreal|cryptic|sombre|depressive
+932,293,The Magnolia Electric Co.,Magnolia Electric Co.,4 March 2003,397,6084,altcountry|countryrock,folkrock|americana|singersongwriter,melancholic|sad|passionate|poetic|lonely|introspective|melodic|bittersweet|longing|pastoral
+933,294,Chairs Missing,Wire,August 1978,394,9369,postpunk|artpunk,,mysterious|cryptic|anxious|abstract|malevocals|sarcastic|surreal|suspenseful|eclectic|energetic
+934,295,Pastel Blues,Nina Simone,October 1965,398,4515,vocaljazz|soul|rhythmblues,blues,passionate|melancholic|femalevocals|melodic|conscious|spiritual|rhythmic|love|eclectic|longing
+935,296,XO,Elliott Smith,25 August 1998,394,11105,singersongwriter|indiepop,indiefolk|chamberpop,melancholic|melodic|bittersweet|malevocals|alienation|warm|poetic|love|introspective|selfhatred
+936,297,Stress: The Extinction Agenda,Organized Konfusion,16 August 1994,397,3563,eastcoasthiphop|boombap|conscioushiphop|jazzrap,hardcorehiphop|abstracthiphop,apocalyptic|angry|urban|conscious|rhythmic|political|anxious|malevocals|dark|aggressive
+937,298,John Lennon / Plastic Ono Band,John Lennon,11 December 1970,393,10511,singersongwriter,contemporaryfolk|bluesrock,raw|introspective|passionate|existential|malevocals|anxious|angry|alienation|conscious|political
+938,299,宇宙 日本 世田谷 (Uchū Nippon Setagaya),Fishmans,24 July 1997,396,6573,dreampop|downtempo|ambientpop,dub|neopsychedelia|triphop,soothing|mellow|atmospheric|lush|warm|peaceful|playful|androgynousvocals|nocturnal|bittersweet
+939,300,NieR:Automata Original Soundtrack,岡部啓一 [Keiichi Okabe],29 March 2017,396,1390,videogamemusic|newage,ambient|classicalcrossover|cinematicclassical|neoclassicalnewage,femalevocals|atmospheric|epic|melancholic|mysterious|lush|choral|ethereal|cryptic|orchestral
+940,301,Getz / Gilberto,Stan Getz & João Gilberto featuring Antônio Carlos Jobim,April 1964,396,7695,bossanova,cooljazz|sambacanção|sambajazz,mellow|tropical|romantic|warm|soft|summer|peaceful|calm|soothing|malevocals
+941,302,Sound of Silver,LCD Soundsystem,12 March 2007,389,16419,dancepunk|indietronica,alternativedance|electrodisco,energetic|rhythmic|repetitive|urban|bittersweet|sarcastic|malevocals|introspective|quirky|playful
+942,303,Third,Portishead,28 April 2008,390,15017,electronic|experimentalrock,krautrock|postindustrial,anxious|dark|mysterious|atmospheric|cold|sombre|femalevocals|introspective|pessimistic|sad
+943,304,Horses,Patti Smith,13 December 1975,392,12388,protopunk|singersongwriter|artrock,garagerock|poetry|artpunk|pianorock,poetic|energetic|femalevocals|rebellious|raw|passionate|lgbt|cryptic|chaotic|heavy
+944,305,Rising,Rainbow,17 May 1976,393,7293,hardrock|heavymetal,progressiverock,epic|energetic|melodic|malevocals|triumphant|fantasy|passionate|heavy|uplifting|rhythmic
+945,306,The Wall,Pink Floyd,30 November 1979,380,33522,rockopera|artrock,symphonicrock,misanthropic|rockopera|lonely|introspective|anxious|epic|conceptalbum|malevocals|dark|passionate
+946,307,Automatic for the People,R.E.M.,6 October 1992,390,14966,alternativerock|poprock,janglepop|acousticrock,melancholic|bittersweet|passionate|melodic|sombre|malevocals|atmospheric|sad|acoustic|lonely
+947,308,Symphonie Nr. 5,Berliner Philharmoniker,1962,401,465,symphony|classicalperiod|romanticism,,symphony|lush|epic|instrumental|romantic|orchestral|uplifting|triumphant|passionate|acoustic
+948,309,Murmur,R.E.M.,12 April 1983,391,13341,janglepop|alternativerock,postpunk,cryptic|melodic|malevocals|atmospheric|poetic|introspective|melancholic|spring|mysterious|bittersweet
+949,310,Cowboy Bebop CD-Box Original Soundtrack,菅野よう子 [Yoko Kanno],21 June 2002,398,477,televisionmusic|jazz|pop,blues|electronic|rock|ambient|bigband|spaghettiwestern,malevocals|femalevocals|eclectic|melodic|mysterious|improvisation|playful
+950,311,Cowboy Bebop,The Seatbelts,21 May 1998,398,3474,televisionmusic|jazz,bigband|blues|swing|spaghettiwestern|hardbop,instrumental|energetic|eclectic|uplifting|playful|rhythmic
+951,312,Relationship of Command,At the Drive-In,12 September 2000,390,14633,posthardcore,emo,energetic|passionate|anxious|cryptic|angry|aggressive|technical|malevocals|melodic|rebellious
+952,313,Time Out,The Dave Brubeck Quartet,14 December 1959,395,8863,cooljazz,,uncommontimesignatures|instrumental|mellow|playful|melodic|rhythmic|acoustic|soothing|complex|urban
+953,314,Only Built 4 Cuban Linx...,Raekwon,1 August 1995,393,7806,eastcoasthiphop|gangstarap|boombap|hardcorehiphop,,crime|urban|drugs|violence|sampling|dark|malevocals|boastful|rhythmic|atmospheric
+954,315,The Soft Bulletin,The Flaming Lips,22 June 1999,388,17575,neopsychedelia|psychedelicpop,artpop|progressivepop|chamberpop,psychedelic|warm|bittersweet|lush|uplifting|melodic|atmospheric|melancholic|malevocals|existential
+955,316,Deep Purple in Rock,Deep Purple,3 June 1970,392,9244,hardrock,heavymetal|progressiverock,energetic|heavy|malevocals|sexual|aggressive|hedonistic|raw|psychedelic
+956,317,Voodoo,D'Angelo,25 January 2000,395,6984,neosoul,funk|contemporaryrb|psychedelicsoul|hiphop|smoothsoul,sexual|romantic|sensual|rhythmic|love|passionate|urban|mellow|malevocals|lush
+957,318,ニンテンドーDS ポケモン ダイヤモンド&パール スーパーミュージックコレクション  (Nintendo DS Pokémon Diamond & Pearl Super Music Collection),増田順一 [Junichi Masuda],22 December 2006,399,570,videogamemusic|sequencertracker,cooljazz|soundsandeffects|jazzfusion|classicalwaltz|ambient|romanticism,soothing|instrumental|happy|triumphant|uplifting|energetic|eclectic|melodic|playful|calm
+958,319,Have One on Me,Joanna Newsom,23 February 2010,393,8623,chamberfolk|singersongwriter|progressivefolk,,poetic|pastoral|warm|passionate|lush|autumn|complex|femalevocals|melodic|bittersweet
+959,320,Double Nickels on the Dime,Minutemen,October 1984,392,10186,postpunk|artpunk|punkrock,funkrock|posthardcore,political|satirical|sarcastic|humorous|rhythmic|energetic|playful|malevocals|rebellious|philosophical
+960,321,Mingus Mingus Mingus Mingus Mingus,Charles Mingus,May 1964,397,4347,postbop,hardbop|thirdstream,instrumental|energetic|warm|acoustic|melodic|bittersweet|playful|technical|improvisation|complex
+961,322,Igor,"Tyler, the Creator",17 May 2019,384,25001,neosoul|psychedelicsoul,alternativerb|synthfunk|neopsychedelia|experimentalhiphop,breakup|malevocals|love|lgbt|conceptalbum|warm|lush|sentimental|psychedelic|longing
+962,323,154,Wire,23 September 1979,394,7897,postpunk|artpunk,experimentalrock,anxious|ominous|malevocals|philosophical|atmospheric|cryptic|cold|complex|futuristic|eclectic
+963,324,Lanquidity,Sun Ra,1978,396,5168,jazzfusion,avantgardejazz|jazzfunk|experimentalbigband|souljazz,instrumental|improvisation|mysterious|atmospheric|spiritual|surreal|hypnotic|rhythmic|nocturnal|psychedelic
+964,325,Chrono Cross: Original Soundtrack,Yasunori Mitsuda,18 December 1999,395,713,videogamemusic|sequencertracker,ambient|neoclassicalnewage|celticnewage|traditionalfolkmusic,epic|tropical|peaceful|instrumental|eclectic|atmospheric|calm|warm|rhythmic|melodic
+965,326,Vaudeville Villain,Viktor Vaughn,16 September 2003,394,7594,abstracthiphop|eastcoasthiphop,experimentalhiphop|hardcorehiphop|glitchhop,dark|sampling|ominous|futuristic|cold|nocturnal|malevocals|cryptic|atmospheric|abstract
+966,327,The Legend of Zelda: Original Sound Track [Ocarina of Time],近藤浩治 [Koji Kondo],18 December 1998,398,1562,videogamemusic|sequencertracker,ambient|fanfare|darkambient|newage|modernclassical|traditionalfolkmusic,fantasy|ominous|epic|atmospheric|instrumental|forest|nature|mysterious|folklore|dark
+967,328,Saxophone Colossus,Sonny Rollins,April 1957,396,5060,hardbop,,warm|instrumental|improvisation|acoustic|energetic|passionate|melodic|mellow|happy|urban
+968,329,Fôrça bruta,Jorge Ben,1970,398,2683,sambasoul|sambarock|mpb,,happy|uplifting|summer|playful|tropical|romantic|passionate|energetic|malevocals|warm
+969,330,Rock Bottom,Robert Wyatt,26 July 1974,392,9042,canterburyscene|artrock,jazzrock|avantprog|singersongwriter,sombre|atmospheric|melancholic|surreal|poetic|malevocals|romantic|cryptic|mysterious|progressive
+970,331,Aja,Steely Dan,23 September 1977,392,8923,jazzrock|poprock,funkrock|softrock|yachtrock|jazzpop,mellow|soft|lush|malevocals|warm|complex|nocturnal|melodic|bittersweet|rhythmic
+971,332,Different Class,Pulp,30 October 1995,392,10361,britpop,glamrock|artrock,sexual|sarcastic|melodic|satirical|malevocals|bittersweet|uplifting|passionate|quirky|anthemic
+972,333,Let It Be,The Replacements,September 1984,392,9933,alternativerock,punkrock|powerpop|garagerock,melodic|passionate|energetic|bittersweet|malevocals|raw|rebellious|alienation|anxious|lonely
+973,334,The Ascension,Glenn Branca,November 1981,392,8359,nowave|noiserock|experimentalrock|totalism,totalism|postrock|postminimalism|drone,instrumental|dissonant|suspenseful|noisy|avantgarde|repetitive|rhythmic|apocalyptic|complex|raw
+974,335,Music for 18 Musicians,Steve Reich and Musicians,31 March 1998,397,2025,minimalism,,hypnotic|repetitive|minimalistic|ethereal|rhythmic|instrumental|polyphonic|soothing|complex|dense
+975,336,Super Mario Galaxy: Original Soundtrack,Mario Galaxy Orchestra,24 January 2008,397,871,videogamemusic|cinematicclassical|orchestral,classicalwaltz|spaceambient|romanticism,orchestral|triumphant|space|uplifting|instrumental|playful|melodic|sentimental|atmospheric|lush
+976,337,There's a Riot Goin' On,Sly & The Family Stone,20 November 1971,394,7230,funk|psychedelicsoul|soul,psychedelicsoul,rhythmic|psychedelic|lofi|drugs|mellow|warm|urban|conscious|malevocals|introspective
+977,338,Exodus,Bob Marley,3 June 1977,394,6284,rootsreggae|reggae,popreggae|loversrock,uplifting|political|warm|malevocals|optimistic|summer|melodic|rhythmic|mellow|tropical
+978,339,L.A. Woman,The Doors,29 April 1971,390,13472,bluesrock|psychedelicrock,acidrock,psychedelic|poetic|malevocals|cryptic|sexual|urban|mysterious|dark|nocturnal|summer
+979,340,Before and After Science,Brian Eno,December 1977,393,8923,artrock,ambient|newwave|electronic|artpop,atmospheric|surreal|malevocals|playful|mellow|futuristic|calm|lush|ethereal|quirky
+980,341,Ram,Paul McCartney,17 May 1971,394,6733,poprock,folkpop|bluesrock|progressivepop|artpop,playful|warm|melodic|malevocals|pastoral|spring|quirky|uplifting|happy|eclectic
+981,342,I Can Hear the Heart Beating as One,Yo La Tengo,22 April 1997,390,12015,indierock|noisepop,dreampop|shoegaze|indiepop,warm|autumn|mellow|atmospheric|soothing|calm|noisy|nocturnal|love|femalevocals
+982,343,Astigmatic,Komeda Quintet,December 1966,396,3495,avantgardejazz|postbop,,instrumental|hypnotic|improvisation|complex|avantgarde|nocturnal|acoustic|rhythmic|uncommontimesignatures|suspenseful
+983,344,Symphonic Suite AKIRA,Geinoh Yamashirogumi,27 July 1988,398,1711,filmscore|tribalambient,choral|gamelan|noh|ritualambient|postminimalism|shōmyō|tribalambient|gamelanjegog|electronic|kecak,tribal|choral|ritualistic|atmospheric|rhythmic|futuristic|eclectic|sciencefiction|suspenseful|ominous
+984,345,Pinkerton,Weezer,24 September 1996,383,20813,alternativerock|powerpop,emo|noisepop,lonely|love|anxious|passionate|raw|malevocals|sad|melodic|longing|breakup
+985,346,Aqualung,Jethro Tull,19 March 1971,391,11877,progressiverock,folkrock|hardrock,malevocals|poetic|progressive|sarcastic|philosophical|epic|medieval|complex|antireligious|misanthropic
+986,347,The Sound of Perseverance,Death,15 September 1998,389,9128,technicaldeathmetal|progressivemetal,progressivemetal,technical|philosophical|malevocals|complex|existential|aggressive|uncommontimesignatures|passionate|progressive|poetic
+987,348,Song for My Father,The Horace Silver Quintet,January 1965,397,2964,hardbop,latinjazz,instrumental|acoustic|improvisation|mellow|autumn|energetic|passionate|summer|warm|soothing
+988,349,Led Zeppelin III,Led Zeppelin,5 October 1970,385,21771,hardrock|folkrock,bluesrock,malevocals|pastoral|passionate|energetic|longing|rhythmic|eclectic|hedonistic|melodic|sexual
+989,350,Electric Warrior,T. Rex,October 1971,392,8838,glamrock,,sexual|malevocals|love|playful|sensual|energetic|fantasy|passionate|melodic|space
+990,351,Quadrophenia,The Who,26 October 1973,391,8424,rockopera|hardrock,symphonicrock|progressiverock,epic|introspective|energetic|passionate|rockopera|rebellious|malevocals|bittersweet|dense|conceptalbum
+991,352,Flood,Boris,15 December 2000,391,8663,drone|postrock,ambient|dronemetal|minimalism|postmetal,atmospheric|hypnotic|repetitive|melancholic|minimalistic|meditative|epic|mellow|aquatic|instrumental
+992,353,El jardín de los presentes,Invisible,29 September 1976,397,2152,progressiverock,jazzrock|artrock|psychedelicrock,poetic|melancholic|existential|progressive|mellow|complex|passionate|malevocals|melodic|urban
+993,354,Youth of America,Wipers,11 November 1981,393,6516,postpunk|punkrock,artpunk|noiserock,anxious|passionate|dark|political|rebellious|energetic|malevocals|sombre|raw|serious
+994,355,Quebec,Ween,5 August 2003,394,6484,artrock|psychedelicrock|alternativerock|neopsychedelia,experimentalrock|neopsychedelia|folkrock|poprock|progressiverock,drugs|eclectic|psychedelic|surreal|melancholic|atmospheric|bittersweet|malevocals|alienation|melodic
+995,356,NieR Gestalt & RepliCant Original Soundtrack,岡部啓一 [Keiichi Okabe],21 April 2010,394,733,videogamemusic,classicalcrossover|neoclassicalnewage|cinematicclassical|newage|choral,epic|femalevocals|atmospheric|ethereal|lush|fantasy|choral|passionate|sombre|apocalyptic
+996,357,None So Vile,Cryptopsy,3 July 1996,391,6175,brutaldeathmetal|technicaldeathmetal,,aggressive|technical|heavy|death|violence|malevocals|misanthropic|manic|infernal|chaotic
+997,358,Amnesiac,Radiohead,4 June 2001,379,34387,artrock|experimentalrock,electronic|jazzrock,anxious|sombre|atmospheric|melancholic|cryptic|cold|abstract|malevocals|mysterious|surreal
+998,359,Pawn Hearts,Van der Graaf Generator,October 1971,393,5853,progressiverock,symphonicprog|jazzrock|avantprog,dark|philosophical|complex|lonely|eclectic|epic|malevocals|progressive|dissonant|poetic
+999,360,On the Corner,Miles Davis,11 October 1972,394,6362,jazzfusion|jazzfunk,avantgardejazz,rhythmic|instrumental|avantgarde|repetitive|dense|improvisation|urban|hypnotic|surreal|nocturnal
+40,361,Mellon Collie and the Infinite Sadness,The Smashing Pumpkins,23 October 1995,387,17772,alternativerock,dreampop|grunge|artrock|hardrock|alternativemetal,melancholic|passionate|bittersweet|angry|malevocals|eclectic|epic|introspective|dense|nocturnal
+41,362,Safe as Milk,Captain Beefheart and His Magic Band,September 1967,390,11269,bluesrock|psychedelicrock,garagerock|experimentalrock|electricblues,playful|energetic|raw|psychedelic|surreal|malevocals|quirky|rhythmic|humorous|eclectic
+42,363,Zen Arcade,Hüsker Dü,July 1984,390,10532,posthardcore|hardcorepunk,alternativerock|noiserock,energetic|conceptalbum|noisy|raw|passionate|rebellious|angry|aggressive|malevocals|anxious
+43,364,Somethin' Else,Cannonball Adderley,August 1958,395,5029,hardbop,cooljazz,instrumental|improvisation|mellow|autumn|melodic|acoustic|soothing|nocturnal
+44,365,The Goldberg Variations,Glenn Gould,2 September 1982,397,2165,baroquemusic,,instrumental|acoustic|technical|polyphonic|complex|melodic|peaceful|soothing|suite|passionate
+45,366,塊魂サウンドトラック「塊フォルテッシモ魂」 (Katamari Damacy Soundtrack: Katamari Fortissimo Damacy),三宅優 [Yu Miyake],19 May 2004,397,1911,videogamemusic|shibuyakei|picopop,lounge|jpop|jazz,happy|uplifting|playful|warm|eclectic|melodic|energetic|lush|optimistic|malevocals
+46,367,The Mollusk,Ween,24 June 1997,390,10779,artrock|neopsychedelia,seashanties|psychedelicrock|comedyrock|psychedelicpop|experimentalrock|psychedelicfolk,aquatic|playful|humorous|psychedelic|eclectic|surreal|quirky|fantasy|melodic|malevocals
+47,368,加爾基 精液 栗ノ花 (Kalk samen kuri no hana),椎名林檎 [Sheena Ringo],23 February 2003,394,5373,artpop|artrock|progressivepop,chamberpop|progressivepop|jazzpop|noisepop,eclectic|anxious|dense|playful|femalevocals|lush|complex|progressive|melodic|philosophical
+48,369,Obscura,Gorguts,23 June 1998,390,5914,technicaldeathmetal|avantgardemetal,,technical|dissonant|complex|uncommontimesignatures|chaotic|heavy|atonal|dark|avantgarde|ominous
+49,370,You're Living All Over Me,Dinosaur,July 1987,388,13670,noiserock|indierock|alternativerock,lofislackerrock|posthardcore|noisepop,noisy|lofi|raw|malevocals|anxious|energetic|melancholic|melodic|lonely|dense
+50,371,Darkness on the Edge of Town,Bruce Springsteen,2 June 1978,392,7629,heartlandrock|singersongwriter,pianorock,bittersweet|melodic|passionate|poetic|malevocals|urban|romantic|energetic|sentimental|anthemic
+51,372,Something Else by The Kinks,The Kinks,15 September 1967,392,7067,poprock|baroquepop,psychedelicpop|sunshinepop|mod|musichall,bittersweet|playful|melodic|autumn|malevocals|poetic|quirky|eclectic|psychedelic|warm
+52,373,Through Silver in Blood,Neurosis,2 April 1996,391,6557,atmosphericsludgemetal|sludgemetal,doommetal,apocalyptic|dark|heavy|angry|atmospheric|tribal|dense|nihilistic|malevocals|aggressive
+53,374,Storm of the Light's Bane,Dissection,17 November 1995,392,6500,melodicblackmetal,melodicdeathmetal,cold|melodic|winter|dark|sombre|heavy|death|misanthropic|ominous|occult
+54,375,Stravinsky Conducts Le Sacre du printemps,Columbia Symphony Orchestra,April 1961,397,849,modernclassical,expressionism,avantgarde|suspenseful|ritualistic|epic|instrumental|dissonant|apocalyptic|polyphonic|orchestral|complex
+55,376,Stand!,Sly and The Family Stone,3 May 1969,394,5639,funk|psychedelicsoul,psychedelicrock,uplifting|protest|optimistic|energetic|psychedelic|conscious|happy|rhythmic|philosophical|political
+56,377,Hot Buttered Soul,Isaac Hayes,May 1969,394,4957,soul,funk|deepsoul|smoothsoul|spokenword|psychedelicsoul,malevocals|lush|passionate|love|breakup|romantic|psychedelic|soothing|warm|melodic
+57,378,White Pony,Deftones,20 June 2000,387,13209,alternativemetal,numetal|shoegaze|posthardcore|postmetal,anxious|atmospheric|sexual|malevocals|melancholic|heavy|drugs|romantic|sombre|sensual
+58,379,Stratosphere,Duster,24 February 1998,391,9461,slowcore|lofislackerrock,spacerock|dreampop|postrock,lofi|warm|melancholic|atmospheric|space|mellow|bittersweet|lethargic|calm|hypnotic
+59,380,Computerwelt,Kraftwerk,10 May 1981,391,9124,synthpop|electronic,minimalsynth|electro,mechanical|futuristic|rhythmic|playful|malevocals|conceptalbum|melodic|quirky|deadpan|hypnotic
+60,381,Ghost Reveries,Opeth,30 August 2005,390,9031,progressivemetal,progressiverock|deathmetal,ominous|occult|malevocals|progressive|fantasy|melodic|complex|heavy|conceptalbum|nocturnal
+61,382,Scott 4,Scott Engel,November 1969,392,7347,baroquepop|singersongwriter,,lush|poetic|sombre|melodic|melancholic|malevocals|lonely|atmospheric|orchestral|bittersweet
+62,383,Ghosts of the Great Highway,Sun Kil Moon,4 November 2003,392,6890,folkrock|singersongwriter,altcountry|slowcore,melancholic|sad|bittersweet|pastoral|mellow|sports|passionate|malevocals|poetic|introspective
+63,384,Plastic Surgery Disasters,Dead Kennedys,November 1982,392,6400,hardcorepunk|punkrock,anarchopunk,satirical|sarcastic|energetic|raw|angry|humorous|political|rebellious|manic|pessimistic
+64,385,Ashes Against the Grain,Agalloch,8 August 2006,390,8349,postmetal,postrock|doommetal|darkfolk|progressivemetal|blackmetal,melancholic|cold|winter|atmospheric|sombre|nature|pagan|epic|malevocals|forest
+65,386,In the Nightside Eclipse,Emperor,21 February 1994,390,8173,symphonicblackmetal|blackmetal,,atmospheric|cold|nocturnal|fantasy|epic|dark|occult|winter|mysterious|satanic
+66,387,もののけ姫 (Mononoke-hime),久石譲 [Joe Hisaishi],2 July 1997,396,1235,filmscore|cinematicclassical,kagura|neoclassicalnewage,epic|orchestral|forest|melancholic|fantasy|spiritual|triumphant|bittersweet|passionate|nature
+67,388,Seasons in the Abyss,Slayer,9 October 1990,389,9536,thrashmetal,,energetic|aggressive|death|malevocals|angry|war|dark|heavy|rhythmic|misanthropic
+68,389,Anthems to the Welkin at Dusk,Emperor,8 July 1997,392,6155,symphonicblackmetal,,epic|dense|malevocals|fantasy|energetic|atmospheric|heavy|complex|triumphant|technical
+69,390,Things Fall Apart,The Roots,23 February 1999,391,7858,eastcoasthiphop,boombap|jazzrap,urban|rhythmic|malevocals|boastful|nocturnal|playful|dark|raw|atmospheric
+70,391,Individual Thought Patterns,Death,30 June 1993,390,7665,technicaldeathmetal,progressivemetal,philosophical|technical|complex|uncommontimesignatures|progressive|malevocals|heavy|conscious|death|aggressive
+71,392,Déjà vu,"Crosby, Stills, Nash & Young",11 March 1970,392,7045,folkrock,countryrock|contemporaryfolk,melodic|warm|malevocals|mellow|rhythmic|calm|introspective|soothing|peaceful|sentimental
+72,393,Close to a World Below,Immolation,7 November 2000,392,3484,deathmetal,technicaldeathmetal,infernal|antireligious|misanthropic|hateful|nihilistic|heavy|dissonant|pessimistic|dark|dense
+73,394,Panopticon,Isis,19 October 2004,389,8982,atmosphericsludgemetal|postmetal,postrock,atmospheric|melancholic|dense|heavy|hypnotic|malevocals|epic|complex|conceptalbum|progressive
+74,395,Don't Break the Oath,Mercyful Fate,7 September 1984,390,5272,heavymetal,,satanic|energetic|occult|malevocals|melodic|dark|suspenseful|heavy|passionate|anthemic
+75,396,Visions of the Country,Robbie Basho,1978,395,2419,americanprimitivism,progressivefolk,meditative|peaceful|pastoral|nature|acoustic|malevocals|spiritual|longing|sentimental|sparse
+76,397,The Fragile,Nine Inch Nails,21 September 1999,389,10566,industrialrock|artrock|alternativerock,industrialmetal|ambient,sad|angry|depressive|dark|sombre|introspective|atmospheric|existential|noisy|mysterious
+77,398,Third,Soft Machine,6 June 1970,390,7548,canterburyscene|jazzrock|jazzfusion,experimentalrock,complex|uncommontimesignatures|atmospheric|mysterious|progressive|malevocals|improvisation|avantgarde|instrumental|hypnotic
+78,399,Wrong,NoMeansNo,November 1989,392,5497,posthardcore|hardcorepunk,artpunk|mathrock,manic|energetic|satirical|humorous|rhythmic|technical|sarcastic|raw|malevocals|complex
+79,400,Roforofo Fight,Fela Kuti,1972,395,2717,afrobeat,,repetitive|rhythmic|conscious|political|energetic|passionate|malevocals|protest|warm|hypnotic
+80,401,Keep It Like a Secret,Built to Spill,2 February 1999,391,8529,indierock,,melodic|philosophical|malevocals|bittersweet|summer|introspective|uplifting|melancholic|existential|warm
+81,402,Hemispheres,Rush,29 October 1978,389,7664,progressiverock|hardrock,,uncommontimesignatures|complex|mythology|progressive|fantasy|sciencefiction|technical|malevocals|philosophical|epic
+82,403,Script of the Bridge,The Chameleons,1 August 1983,391,7028,postpunk,gothicrock|dreampop,melancholic|ethereal|atmospheric|introspective|philosophical|sombre|malevocals|cold|dark|existential
+83,404,No Other,Gene Clark,September 1974,394,3029,singersongwriter|countryrock,psychedelicrock|baroquepop|folkrock,melancholic|introspective|spiritual|malevocals|lonely|psychedelic|philosophical|autumn|lush|atmospheric
+84,405,Titanic Rising,Weyes Blood,5 April 2019,385,16223,baroquepop|artpop,progressivepop|dreampop|psychedelicpop,lush|femalevocals|ethereal|melodic|romantic|longing|warm|soft|bittersweet|love
+85,406,Red House Painters [Rollercoaster],Red House Painters,24 May 1993,391,7107,slowcore,dreampop|folkrock,melancholic|sombre|lonely|depressive|introspective|sad|autumn|lethargic|malevocals|mellow
+86,407,Matthäus-Passion,Collegium Vocale Gent,16 November 1999,395,717,baroquemusic|oratorio|christianliturgicalmusic,choral,oratorio|religious|epic|orchestral|malevocals|spiritual|melancholic|femalevocals|complex|passionate
+87,408,A Crow Looked at Me,Mount Eerie,24 March 2017,386,12234,singersongwriter|indiefolk|contemporaryfolk,slowcore,death|introspective|love|melancholic|raw|lonely|sad|sombre|malevocals|sparse
+88,409,Altars of Madness,Morbid Angel,12 May 1989,389,7297,deathmetal,,satanic|aggressive|occult|heavy|malevocals|hateful|misanthropic|technical|infernal|dark
+89,410,The Inner Mounting Flame,Mahavishnu Orchestra,3 November 1971,391,5998,jazzfusion|jazzrock,progressiverock,instrumental|technical|energetic|passionate|spiritual|warm|complex|improvisation|uncommontimesignatures|playful
+90,411,Mothership Connection,Parliament,15 December 1975,393,5654,pfunk,synthfunk,sciencefiction|uplifting|playful|rhythmic|party|energetic|malevocals|hedonistic|futuristic|quirky
+91,412,Bergtatt: Et eeventyr i 5 capitler,Ulver,February 1995,389,9799,atmosphericblackmetal|paganblackmetal,darkfolk|folkmetal,forest|atmospheric|nature|fantasy|mythology|nocturnal|cold|conceptalbum|dark|melodic
+92,413,Black Messiah,D'Angelo and The Vanguard,15 December 2014,390,8335,neosoul,funk|psychedelicsoul|funkrock,romantic|political|urban|sexual|conscious|passionate|love|sensual|malevocals|psychedelic
+93,414,Dots and Loops,Stereolab,23 September 1997,391,7458,artpop|indietronica,spaceagepop|lounge|neopsychedelia|exotica|krautrock|cocktailnation,mellow|femalevocals|warm|political|psychedelic|abstract|eclectic|futuristic|uncommontimesignatures|rhythmic
+94,415,Lady Soul,Aretha Franklin,22 January 1968,394,3472,southernsoul,rhythmblues|deepsoul,passionate|femalevocals|warm|love|melodic|uplifting|lush
+95,416,Crack the Skye,Mastodon,23 March 2009,387,10318,progressivemetal,sludgemetal|stonermetal|heavypsych,fantasy|psychedelic|conceptalbum|malevocals|progressive|heavy|atmospheric|melodic|epic|poetic
+96,417,Zuma,Neil Young,10 November 1975,391,7008,folkrock|singersongwriter,countryrock|hardrock,passionate|malevocals|pastoral|melancholic|romantic|melodic|sentimental|desert|summer|raw
+97,418,Abraxas,Santana,23 September 1970,392,6445,latinrock,psychedelicrock|bluesrock|jazzrock,warm|rhythmic|psychedelic|passionate|malevocals|summer|uplifting|atmospheric|sensual|tropical
+98,419,Hejira,Joni Mitchell,22 November 1976,393,4268,singersongwriter|folkrock,jazzfusion|vocaljazz,femalevocals|calm|poetic|melancholic|warm|introspective|autumn|mellow|desert|melodic
+99,420,"Orphans: Brawlers, Bawlers & Bastards",Tom Waits,20 November 2006,392,4037,singersongwriter|bluesrock|folkrock,experimentalrock|spokenword|cabaret|beatpoetry|darkcabaret|punkblues|americana|poetry,eclectic|dark|poetic|raw|malevocals|humorous|lofi|quirky|ballad|political
+100,421,Unearthed,Johnny Cash,25 November 2003,394,986,americana,hymns|rockabilly|countrygospel|contemporaryfolk,religious|pastoral|melancholic|poetic|introspective|malevocals|acoustic
+101,422,ワンダと巨像 大地の咆哮 (Wander and the Colossus: Roar of the Earth),大谷幸 [Ko Otani],7 December 2005,393,795,videogamemusic|orchestral|cinematicclassical,ambient|choral,epic|sombre|fantasy|atmospheric|orchestral|melancholic|choral|suspenseful|mysterious|mythology
+102,423,Kids See Ghosts,Kids See Ghosts,8 June 2018,379,24380,poprap|experimentalhiphop,artpop|neopsychedelia,spiritual|malevocals|uplifting|psychedelic|sampling|introspective|passionate|bittersweet|eclectic|atmospheric
+103,424,Down Colorful Hill,Red House Painters,14 September 1992,389,9658,slowcore,folkrock|dreampop|singersongwriter,melancholic|lonely|depressive|sombre|introspective|sad|lethargic|poetic|mellow|malevocals
+104,425,Sad Wings of Destiny,Judas Priest,23 March 1976,389,7070,heavymetal,hardrock,malevocals|melodic|energetic|dark|progressive|heavy|fantasy|apocalyptic|anthemic|eclectic
+105,426,Lifestylez ov da Poor & Dangerous,Big L,28 March 1995,391,6076,eastcoasthiphop|boombap|hardcorehiphop,gangstarap|jazzrap|horrorcore,violence|urban|vulgar|crime|dark|boastful|aggressive|sampling|technical|rhythmic
+106,427,África Brasil,Jorge Ben,1976,394,2766,sambarock|mpb|funk,sambasoul|afoxé|psychedelicsoul,energetic|rhythmic|sports|tropical|summer|psychedelic|playful|warm|passionate|malevocals
+107,428,Twin Fantasy,Car Seat Headrest,16 February 2018,384,14810,indierock,singersongwriter|powerpop,lgbt|passionate|sentimental|introspective|malevocals|love|lonely|conceptalbum|bittersweet|melancholic
+108,429,A Blaze in the Northern Sky,Darkthrone,26 February 1992,389,7919,blackmetal,deathmetal,cold|raw|nocturnal|satanic|winter|lofi|dark|aggressive|atmospheric|forest
+109,430,When the Pawn,Fiona Apple,9 November 1999,391,7899,singersongwriter|pianorock,artpop|chamberpop|jazzpop,breakup|femalevocals|melodic|bittersweet|poetic|passionate|introspective|sarcastic|romantic|longing
+110,431,Mos Def & Talib Kweli Are Black Star,Black Star,29 September 1998,390,6561,eastcoasthiphop|conscioushiphop|boombap,jazzrap|politicalhiphop|neosoul,urban|malevocals|political|conscious|rhythmic|nocturnal|mellow|calm|sampling|philosophical
+111,432,Mass in B minor,English Baroque Soloists,1985,395,948,baroquemusic|choral|christianliturgicalmusic,,religious|christian|choral|epic|spiritual|acoustic|complex|polyphonic|uplifting|passionate
+112,433,Free for All,Art Blakey & The Jazz Messengers,July 1965,395,1814,hardbop,avantgardejazz,instrumental|energetic|technical|improvisation|acoustic|passionate|manic
+113,434,Final Fantasy IX Original Soundtrack,植松伸夫 [Nobuo Uematsu],30 August 2000,392,789,videogamemusic|sequencertracker,medievalclassicalmusic|modernclassical|electronic|cinematicclassical|baroquemusic|ragtime|progressiverock|newage,fantasy|atmospheric|epic|instrumental|medieval|energetic
+114,435,Those Once Loyal,Bolt Thrower,14 November 2005,392,3265,deathmetal,,war|heavy|rhythmic|history|pessimistic|aggressive|malevocals|epic|death|dense
+115,436,The Modern Lovers,The Modern Lovers,August 1976,389,7944,protopunk|garagerock,garagerock,romantic|energetic|anxious|playful|raw|malevocals|happy|love|urban|optimistic
+116,437,Sextant,Herbie Hancock,30 March 1973,393,4115,jazzfusion|avantgardejazz,jazzfunk|progressiveelectronic|afrojazz,futuristic|space|instrumental|improvisation|psychedelic|avantgarde|hypnotic|spiritual|surreal|sciencefiction
+117,438,Artaud,Pescado Rabioso,October 1973,393,3078,folkrock|singersongwriter,psychedelicrock|psychedelicfolk|progressivefolk|contemporaryfolk|bluesrock,philosophical|poetic|malevocals|psychedelic|melodic|mellow|autumn|melancholic|passionate|warm
+118,439,"Mercy, Mercy, Mercy!",The Cannonball Adderley Quintet,February 1967,396,940,hardbop|souljazz,,melodic|passionate|playful|uplifting|rhythmic|energetic|improvisation|optimistic
+119,440,Emergency & I,The Dismemberment Plan,26 October 1999,387,10726,indierock,posthardcore|mathrock|postpunk,anxious|lonely|energetic|uncommontimesignatures|rhythmic|bittersweet|malevocals|alienation|playful|introspective
+120,441,Angel Dust,Faith No More,8 June 1992,385,10835,alternativemetal|alternativerock,funkmetal|experimentalrock,sarcastic|energetic|humorous|eclectic|misanthropic|malevocals|playful|dark|complex|heavy
+121,442,Desire,Bob Dylan,5 January 1976,389,8798,folkrock|singersongwriter,contemporaryfolk|progressivecountry|countryrock,malevocals|poetic|bittersweet|passionate|history|femalevocals|political|warm|angry|conscious
+122,443,Transa,Caetano Veloso,16 February 1972,392,3867,mpb|singersongwriter,tropicália|afoxé,passionate|rhythmic|poetic|introspective|malevocals|melodic|tropical|lonely|bittersweet|warm
+123,444,Godbluff,Van der Graaf Generator,October 1975,392,3707,progressiverock,jazzrock,complex|philosophical|poetic|malevocals|eclectic|progressive|melodic|dark|uncommontimesignatures|cold
+124,445,Fare Forward Voyagers (Soldier's Choice),John Fahey,June 1973,393,3484,americanprimitivism,,meditative|acoustic|instrumental|epic|hypnotic|spiritual|technical|passionate|progressive|pastoral
+125,446,Like an Ever Flowing Stream,Dismember,29 May 1991,391,3482,deathmetal,,aggressive|heavy|energetic|angry|misanthropic|malevocals|violence|rhythmic|death|hateful
+126,447,Deltron 3030,Deltron 3030,17 October 2000,388,9387,westcoasthiphop|experimentalhiphop|abstracthiphop,boombap|abstracthiphop|conscioushiphop|turntablism,sciencefiction|futuristic|conceptalbum|malevocals|sampling|mysterious|urban|epic|satirical|philosophical
+127,448,The Yes Album,Yes,29 January 1971,389,9395,progressiverock,symphonicprog,melodic|uplifting|malevocals|progressive|complex|uncommontimesignatures|optimistic|energetic|sciencefiction|fantasy
+128,449,Slanted and Enchanted,Pavement,20 April 1992,384,15500,lofislackerrock|indierock|noisepop,noiserock,lofi|playful|raw|humorous|noisy|malevocals|melodic|anxious|apathetic|deadpan
+129,450,Talking Book,Stevie Wonder,28 October 1972,391,6250,soul,funk|popsoul,love|passionate|malevocals|mellow|warm|uplifting|melodic|lush|rhythmic|breakup
+130,451,Microphones in 2020,The Microphones,7 August 2020,387,8525,singersongwriter|indiefolk|avantfolk,drone|psychedelicfolk|progressivefolk|slowcore,introspective|repetitive|existential|sentimental|malevocals|melancholic|meditative|bittersweet|poetic|hypnotic
+131,452,Bizarre Ride II the Pharcyde,The Pharcyde,24 November 1992,390,5738,westcoasthiphop|boombap|jazzrap,abstracthiphop,playful|humorous|drugs|energetic|malevocals|happy|sampling|vulgar|rhythmic|sexual
+132,453,Melissa,Mercyful Fate,30 October 1983,390,5066,heavymetal,,satanic|dark|occult|malevocals|melodic|heavy|progressive|epic|suspenseful|raw
+133,454,Our Mother the Mountain,Townes Van Zandt,April 1969,392,3766,singersongwriter|country|contemporaryfolk,progressivecountry,pastoral|malevocals|acoustic|bittersweet|love|warm|poetic|melancholic|longing|sentimental
+134,455,Ridin' Dirty,UGK,31 July 1996,391,3790,gangstarap|dirtysouth|southernhiphop,,crime|drugs|nocturnal|boastful|malevocals|sombre|introspective|urban|mellow|violence
+135,456,Duke Ellington's Far East Suite,Duke Ellington,June 1967,394,2674,bigband,thirdstream,suite|instrumental|energetic|warm|acoustic|complex|passionate|rhythmic|lush|improvisation
+136,457,In the Land of Grey and Pink,Caravan,8 April 1971,391,5989,canterburyscene|progressiverock,psychedelicrock,melodic|progressive|happy|warm|optimistic|quirky|mellow|malevocals|complex|spring
+137,458,DK Jamz: The Original Donkey Kong Country Soundtrack,David Wise,1 March 1995,393,898,videogamemusic|16bit,ambient|tribalambient|calypso,nature|atmospheric|tribal|ominous|rhythmic|instrumental|forest|soothing|playful|soft
+138,459,"Symphony No. 9 ""Choral""",Berliner Philharmoniker,1986,392,363,symphony|romanticism,choral,orchestral|choral|epic|acoustic|uplifting
+139,460,Selected Ambient Works Volume II,Aphex Twin,7 March 1994,386,12367,ambient|electronic,darkambient|ambienttechno,atmospheric|mysterious|ominous|sparse|minimalistic|surreal|ethereal|instrumental|melancholic|sombre
+140,461,Rocket to Russia,Ramones,4 November 1977,388,8078,punkrock,poppunk,energetic|melodic|playful|malevocals|rebellious|humorous|urban|anthemic|repetitive|raw
+141,462,NEU! '75,NEU!,1975,390,7219,krautrock,ambient|protopunk,rhythmic|repetitive|atmospheric|mellow|progressive|mechanical|malevocals|hypnotic|eclectic|energetic
+142,463,Meditations,John Coltrane,August 1966,392,3558,freejazz|spiritualjazz,avantgardejazz,instrumental|improvisation|spiritual|chaotic|dense|passionate|avantgarde|dissonant|hypnotic|energetic
+143,464,Repeater,Fugazi,20 March 1990,387,12173,posthardcore,,political|energetic|passionate|rebellious|malevocals|conscious|angry|raw|rhythmic|protest
+144,465,The Argument,Fugazi,11 October 2001,389,7795,posthardcore|indierock,artrock,political|anxious|atmospheric|rebellious|sombre|malevocals|protest|noisy|dissonant|aggressive
+145,466,Reasonable Doubt,Jay-Z,25 June 1996,388,8332,eastcoasthiphop|boombap,gangstarap,crime|boastful|urban|malevocals|sombre|drugs|rhythmic|introspective|serious|sampling
+146,467,The Band,The Band,22 September 1969,388,6979,folkrock|rootsrock|countryrock,americana,bittersweet|malevocals|history|passionate|pastoral|poetic|mellow|melodic|nature|raw
+147,468,千と千尋の神隠し (Sen to Chihiro no kamikakushi),久石譲 [Joe Hisaishi],18 July 2001,393,1496,filmscore|cinematicclassical|modernclassical,japanesefolkmusic,fantasy|orchestral|ensemble|sentimental|sad|energetic|ominous|bittersweet|epic
+148,469,Os afro-sambas de Baden e Vinícius,Baden Powell,February 1966,394,1514,samba,candomblémusic|sambaderoda,passionate|femalevocals|religious|mythology|malevocals|poetic|dark|spiritual|melodic|raw
+149,470,California,Mr. Bungle,13 July 1999,387,8863,experimentalrock|artrock,surfrock|doowop|avantgardemetal|poprock|baroquepop|jazzrock|easylistening|vocalsurf|cocktailnation,eclectic|playful|humorous|avantgarde|complex|surreal|malevocals|quirky|energetic|manic
+150,471,Conan the Barbarian,Basil Poledouris,1982,391,839,filmscore|orchestral|cinematicclassical,neomedievalfolk,epic|martial|triumphant|orchestral|choral|fantasy|melodic|anthemic|energetic
+151,472,Feldman Edition 6: String Quartet No. 2,FLUX Quartet,2002,391,751,modernclassical|chambermusic,,stringquartet|sparse|instrumental|acoustic|atonal|hypnotic|meditative|surreal|calm|dissonant
+152,473,Music for 18 Musicians,Grand Valley State University New Music Ensemble,16 October 2007,393,441,minimalism,,minimalistic|ensemble|repetitive|ethereal|hypnotic|instrumental
+153,474,Die Kunst der Fuge,Tatiana Nikolayeva,August 1992,394,357,baroquemusic,,acoustic|instrumental|technical|melodic
+154,475,Superunknown,Soundgarden,8 March 1994,386,12762,grunge|alternativerock,hardrock|alternativemetal|stonerrock,dark|uncommontimesignatures|heavy|sad|sombre|malevocals|psychedelic|passionate|melancholic|anxious
+155,476,Jenny Death: The Powers That B Disc 2,Death Grips,19 March 2015,387,8827,experimentalhiphop|industrialhiphop|noiserock|abstracthiphop,synthpunk|hardcorehiphop|experimentalrock|digitalhardcore|noiserock|raprock|glitchhop,noisy|aggressive|cryptic|manic|raw|abstract|malevocals|misanthropic|nihilistic|psychedelic
+156,477,Pieces of a Man,Gil Scott-Heron,September 1971,392,4343,soul,jazzfunk|souljazz|spokenword|singersongwriter|poetry,political|conscious|urban|introspective|poetic|sombre|malevocals|passionate|bittersweet|lush
+157,478,A Night at the Opera,Queen,2 December 1975,382,14562,hardrock|artrock,glamrock|progressiverock|musichall,melodic|malevocals|epic|eclectic|progressive|playful|triumphant|passionate|anthemic|complex
+158,479,Sketches of Spain,Miles Davis,18 July 1960,389,8821,thirdstream|modaljazz,saeta|flamencojazz,instrumental|orchestral|mellow|ominous|warm|acoustic|mysterious|improvisation|complex|sombre
+159,480,Willy and the Poor Boys,Creedence Clearwater Revival,2 November 1969,391,6138,swamprock,countryrock|bluesrock|rockroll,energetic|melodic|malevocals|political|uplifting|warm|sentimental|bittersweet
+160,481,The 6 String Quartets,Takács Quartet,1 December 1997,392,862,modernclassical|chambermusic,,stringquartet|instrumental|suspenseful|acoustic|anxious|sombre|complex|chambermusic|dissonant|atmospheric
+161,482,Within the Realm of a Dying Sun,Dead Can Dance,July 1987,389,7796,neoclassicaldarkwave,,sombre|atmospheric|ethereal|mysterious|nocturnal|epic|dark|spiritual|medieval|ominous
+162,483,Symphonie No. 4,Wiener Philharmoniker,6 January 1998,393,989,romanticism|symphony,,instrumental|orchestral|symphony|acoustic|passionate|melodic|polyphonic|epic|suspenseful|complex
+163,484,Faust IV,Faust,21 September 1973,389,8782,krautrock,psychedelicrock|drone,playful|avantgarde|futuristic|abstract|psychedelic|progressive|malevocals|warm|quirky|energetic
+164,485,More Songs About Buildings and Food,Talking Heads,7 July 1978,386,12876,newwave|postpunk|artpunk,funkrock,anxious|energetic|playful|urban|quirky|malevocals|rhythmic|conscious|humorous|sarcastic
+165,486,To Bring You My Love,PJ Harvey,28 February 1995,388,8730,alternativerock|singersongwriter,artrock|blues,dark|passionate|love|sexual|femalevocals|raw|nocturnal|ominous|desert|mysterious
+166,487,Sobrevivendo no inferno,Racionais MC's,October 1997,393,1040,conscioushiphop|boombap|hardcorehiphop,politicalhiphop|gfunk|gangstarap,urban|crime|political|conscious|malevocals|violence|poetic|drugs|death|hypnotic
+167,488,Elliott Smith,Elliott Smith,21 July 1995,388,9677,singersongwriter|indiefolk,contemporaryfolk,acoustic|melancholic|lofi|sad|lonely|drugs|malevocals|bittersweet|melodic|poetic
+168,489,This Year's Model,Elvis Costello,17 March 1978,387,8723,newwave|poprock,powerpop,sarcastic|playful|energetic|melodic|angry|malevocals|rebellious|satirical|passionate|manic
+169,490,Screaming for Vengeance,Judas Priest,14 July 1982,388,7749,heavymetal,hardrock,energetic|anthemic|malevocals|rebellious|heavy|boastful|melodic|triumphant|passionate|love
+170,491,The Goldberg Variations,Glenn Gould,1 March 1956,393,2243,baroquemusic,,instrumental|technical|complex|acoustic|energetic|polyphonic|melodic|uplifting|meditative|spiritual
+171,492,Jackson C. Frank,Jackson C. Frank,December 1965,391,4584,contemporaryfolk|singersongwriter,acousticblues,lonely|melancholic|depressive|acoustic|introspective|poetic|malevocals|longing|breakup|calm
+172,493,Monk's Music,Thelonious Monk Septet,November 1957,392,2711,hardbop,,instrumental|acoustic|improvisation|melodic|passionate|soothing
+173,494,The Smiths,The Smiths,20 February 1984,383,17859,janglepop|indiepop,postpunk,melancholic|poetic|introspective|melodic|bittersweet|sarcastic|malevocals|love|lgbt|lonely
+174,495,The Clash,The Clash,8 April 1977,385,12653,punkrock,,political|energetic|angry|rebellious|raw|rhythmic|conscious|anthemic|malevocals|melodic
+175,496,Leviathan,Mastodon,31 August 2004,385,10911,sludgemetal|progressivemetal,,energetic|technical|conceptalbum|aquatic|heavy|poetic|aggressive|progressive|malevocals|epic
+176,497,Hvis lyset tar oss,Burzum,April 1994,385,9861,atmosphericblackmetal|blackmetal,ambient|dungeonsynth,cold|lofi|raw|atmospheric|sombre|ominous|malevocals|dark|winter|repetitive
+177,498,Nebraska,Bruce Springsteen,20 September 1982,387,9144,singersongwriter|contemporaryfolk|americana,folkrock,melancholic|sombre|acoustic|lonely|malevocals|sparse|sad|nocturnal|dark|lofi
+178,499,I Never Loved a Man the Way I Love You,Aretha Franklin,10 March 1967,391,4388,deepsoul|southernsoul,rhythmblues,passionate|femalevocals|love|melodic|warm|uplifting|mellow|introspective|bittersweet|romantic
+179,500,Requiem,Wiener Philharmoniker,1987,393,810,choral|classicalperiod|christianliturgicalmusic,,choral|christian|death|orchestral|epic|religious|acoustic|femalevocals|malevocals|lush
+180,501,1999,Prince,27 October 1982,389,7056,synthfunk,dancepop|contemporaryrb|poprock,sexual|party|rhythmic|vulgar|sensual|energetic|urban|futuristic|melodic|malevocals
+181,502,Catch a Fire,Bob Marley,April 1973,390,4764,rootsreggae|reggae,rocksteady,mellow|rhythmic|melodic|conscious|summer|malevocals|tropical|uplifting|warm|passionate
+182,503,Twin Peaks: Limited Event Series Soundtrack,Angelo Badalamenti,8 September 2017,392,1893,ambient|televisionmusic,darkambient|darkjazz|drone,dark|forest|atmospheric|ominous|suspenseful|instrumental|mysterious|nocturnal|ethereal|melancholic
+183,504,Tim,The Replacements,October 1985,389,6430,alternativerock|powerpop,janglepop|punkrock,melodic|malevocals|bittersweet|lonely|introspective|passionate|sarcastic|energetic|melancholic|sentimental
+184,505,Sleeping Beauty,Sun Ra and His Arkestra,1979,392,2357,jazzfusion|spiritualjazz,avantgardejazz,spring|spiritual|peaceful|warm|space|rhythmic|hypnotic|romantic|calm|mellow
+185,506,Yoshimi Battles the Pink Robots,The Flaming Lips,16 July 2002,382,18534,neopsychedelia|psychedelicpop,dreampop|electronic|spacerock,sciencefiction|psychedelic|warm|philosophical|malevocals|summer|existential|melodic|lush|uplifting
+186,507,Overkill,Motörhead,24 March 1979,388,5877,heavymetal|hardrock,speedmetal,energetic|rebellious|malevocals|heavy|raw|aggressive|rhythmic|alcohol|anthemic|dense
+187,508,0,青葉市子 [Ichiko Aoba],23 October 2013,391,4366,contemporaryfolk|singersongwriter,fieldrecordings|avantfolk,soft|warm|femalevocals|calm|acoustic|soothing|sparse|mellow|melodic|bittersweet
+188,509,Mental Funeral,Autopsy,22 April 1991,389,3881,deathmetal,deathdoommetal,death|heavy|raw|disturbing|violence|vulgar|rhythmic|infernal|dark|ominous
+189,510,Holy Diver,Dio,25 May 1983,386,7605,heavymetal,hardrock,fantasy|energetic|malevocals|epic|anthemic|heavy|melodic|uplifting|passionate|nocturnal
+190,511,H to He Who Am the Only One,Van der Graaf Generator,December 1970,391,4010,progressiverock,symphonicprog|jazzrock,lonely|complex|philosophical|progressive|existential|malevocals|poetic|alienation|pessimistic|introspective
+191,512,...And Justice for All,Metallica,25 August 1988,380,20592,thrashmetal,progressivemetal,political|angry|technical|energetic|malevocals|heavy|progressive|aggressive|dark|misanthropic
+192,513,Peter Gabriel,Peter Gabriel,30 May 1980,389,6451,artrock,newwave|progressivepop|artpop|postpunk,dark|passionate|suspenseful|anxious|malevocals|mechanical|ominous|sombre|political|futuristic
+193,514,Musick to Play in the Dark,Coil,September 1999,389,4926,electronic|postindustrial|experimental,darkambient|spokenword|berlinschool|glitch|darkjazz,nocturnal|atmospheric|surreal|cryptic|ominous|cold|malevocals|occult|dark|hypnotic
+194,515,ABC Music: The Radio 1 Sessions,Stereolab,14 October 2002,394,654,noisepop|artpop|indierock,krautrock,repetitive|warm|hypnotic|rhythmic|femalevocals|uplifting|wallofsound|energetic|political|psychedelic
+195,516,Somewhere in Time,Iron Maiden,29 September 1986,386,9338,heavymetal,progressivemetal,epic|malevocals|sciencefiction|history|melodic|progressive|energetic|anthemic|passionate|heavy
+196,517,Arise,Sepultura,20 March 1991,388,5708,thrashmetal,deathmetal,aggressive|angry|violence|energetic|death|heavy|malevocals|political|conscious|apocalyptic
+197,518,The Mantle,Agalloch,13 August 2002,384,10509,folkmetal|postmetal,darkfolk|blackmetal|neofolk|postrock|atmosphericblackmetal,melancholic|pagan|atmospheric|winter|cold|sombre|nature|forest|dark|malevocals
+198,519,Unquestionable Presence,Atheist,21 October 1991,386,6722,technicaldeathmetal|progressivemetal,technicalthrashmetal|jazzfusion,technical|uncommontimesignatures|complex|energetic|philosophical|malevocals|existential|progressive|heavy|spiritual
+199,520,Heart of The Congos,The Congos,1977,391,3518,rootsreggae,dub,mellow|warm|religious|spiritual|rhythmic|lofi|tropical|malevocals|psychedelic|melodic
+200,521,Monk's Dream,The Thelonious Monk Quartet,14 January 1963,392,3348,hardbop,,instrumental|playful|improvisation|acoustic|soothing
+201,522,Heaven and Hell,Black Sabbath,25 April 1980,385,9981,heavymetal,hardrock,energetic|malevocals|heavy|epic|anthemic|sombre|melodic|bittersweet|passionate
+202,523,Empyrean Isles,Herbie Hancock,December 1964,391,3591,hardbop|postbop,modaljazz|avantgardejazz,instrumental|improvisation|passionate|mellow|uncommontimesignatures|rhythmic|acoustic
+203,524,Koyaanisqatsi,Philip Glass,1983,390,3270,minimalism|filmscore,choral,hypnotic|minimalistic|repetitive|choral|sombre|orchestral|atmospheric|ominous|epic|mysterious
+204,525,Symphonie No. 9 / Moldau,Wiener Philharmoniker,1985,391,355,romanticism|symphony,tonepoem,melodic|instrumental|symphony|epic|acoustic|orchestral|uplifting
+205,526,Xenogears,光田康典 [Yasunori Mitsuda],1 March 1998,390,374,videogamemusic|sequencertracker,celticnewage|cinematicclassical|celticfolkmusic|electronic,epic|atmospheric|mysterious|war|melancholic|happy|warm|melodic|sciencefiction|orchestral
+206,527,Beneath the Remains,Sepultura,5 September 1989,387,6066,thrashmetal,deathmetal,violence|angry|aggressive|energetic|malevocals|heavy|death|apocalyptic|political|dark
+207,528,Masked Dancers: Concern in So Many Things You Forget Where You Are,The Brave Little Abacus,1 August 2009,390,3143,midwestemo|mathrock,experimentalrock,passionate|bittersweet|malevocals|anxious|introspective|sad|energetic|uncommontimesignatures|complex|poetic
+208,529,Symphony No. 3,London Sinfonietta,24 April 1992,389,2344,symphony|modernclassical,minimalism,sad|passionate|melancholic|femalevocals|orchestral|atmospheric|symphony|sentimental|acoustic|minimalistic
+209,530,You Forgot It in People,Broken Social Scene,15 October 2002,386,10284,indierock,chamberpop|postrock|artrock,bittersweet|melancholic|malevocals|melodic|ethereal|femalevocals|lush|dense|passionate|energetic
+210,531,Ace of Spades,Motörhead,8 November 1980,386,8179,heavymetal|hardrock,speedmetal|rockroll,energetic|malevocals|aggressive|sexual|heavy|rhythmic|drugs|raw|rebellious|warm
+211,532,Wild Is the Wind,Nina Simone,June 1966,392,2518,vocaljazz|soul,souljazz,femalevocals|sentimental|melancholic|romantic|love|longing|melodic|passionate|breakup|sensual
+212,533,The Lord of the Rings: The Return of the King,Howard Shore,25 November 2003,391,1413,filmscore|orchestral|cinematicclassical,celticfolkmusic|romanticism,epic|fantasy|orchestral|triumphant|suspenseful|sentimental|acoustic|choral|martial|sombre
+213,534,White Light From the Mouth of Infinity,Swans,5 June 1991,386,10719,gothicrock|postpunk,neofolk,sombre|atmospheric|lush|malevocals|cold|pessimistic|lonely|poetic|existential|epic
+214,535,Taking Tiger Mountain (By Strategy),Eno,November 1974,387,8276,artrock|artpop,glamrock|experimentalrock,playful|surreal|quirky|malevocals|avantgarde|sarcastic|eclectic|conceptalbum|melodic|abstract
+215,536,Mystic Stylez,Three-6 Mafia,25 May 1995,389,5318,memphisrap|horrorcore|southernhiphop,gangstarap,dark|crime|satanic|violence|drugs|lofi|sexual|raw|sampling|atmospheric
+216,537,Free Jazz,The Ornette Coleman Double Quartet,September 1961,390,4216,freejazz,,improvisation|chaotic|instrumental|avantgarde|dissonant|technical|energetic|acoustic|anxious|complex
+217,538,Black Unity,Pharoah Sanders,February 1972,392,2397,spiritualjazz,jazzfunk|freejazz,energetic|instrumental|hypnotic|progressive|rhythmic|spiritual|avantgarde|passionate|improvisation|dense
+218,539,Mosaic,Art Blakey & The Jazz Messengers,January 1962,393,1365,hardbop,,instrumental|energetic|warm|improvisation|acoustic|rhythmic|playful
+219,540,The Lord of the Rings: The Two Towers,Howard Shore,10 December 2002,392,1452,filmscore|orchestral|cinematicclassical,celticfolkmusic,epic|complex|fantasy|suspenseful|acoustic|choral|martial|melodic|orchestral|sombre
+220,541,A Clockwork Orange,Various Artists,January 1972,392,1636,filmsoundtrack|westernclassicalmusic|romanticism,electronic,triumphant|instrumental|playful|orchestral|quirky|surreal|melodic|epic|polyphonic
+221,542,Persona4: Original Soundtrack,目黒将司 [Shoji Meguro],23 July 2008,394,815,videogamemusic,pianorock|poprock|dancepop|citypop|shibuyakei|modernclassical|alternativerock,eclectic|passionate|urban|femalevocals|energetic|uplifting|happy|instrumental|nocturnal|bittersweet
+222,543,Amadeus,Academy of St Martin in the Fields,1984,393,537,classicalperiod|filmsoundtrack,choral|filmscore|orchestral|concerto|symphony|christianliturgicalmusic|opera,orchestral|acoustic|choral|triumphant|opera|epic
+223,544,Symphony No. 9 'From the New World',Chicago Symphony Orchestra,1984,395,284,romanticism|symphony,,symphony|epic|orchestral|instrumental|acoustic|lush|energetic
+224,545,Symphony No. 3 (Symphony of Sorrowful Songs); 3 Olden Style Pieces,Narodowa Orkiestra Symfoniczna Polskiego Radia w Katowicach,28 June 1994,391,534,modernclassical,symphony,sad|femalevocals|melancholic|orchestral|atmospheric|sentimental|acoustic|passionate|symphony
+225,546,Toxicity,System of a Down,4 September 2001,378,18125,alternativemetal,numetal|avantgardemetal,political|manic|heavy|aggressive|malevocals|playful|conscious|energetic|protest|anxious
+226,547,Mista Thug Isolation,Lil Ugly Mane,11 February 2012,386,9270,memphisrap|southernhiphop,horrorcore|choppedandscrewed|gangstarap|jazzrap|experimentalhiphop,drugs|misanthropic|vulgar|dark|crime|humorous|sexual|boastful|nocturnal|sampling
+227,548,Desertshore,Nico,December 1970,387,7714,avantfolk|chamberfolk,chambermusic|neomedievalfolk,sombre|lonely|femalevocals|poetic|dark|medieval|cold|funereal|apocalyptic|ominous
+228,549,Tender Prey,Nick Cave and The Bad Seeds,19 September 1988,388,7732,postpunk|gothicrock,punkblues|artrock,nocturnal|death|anxious|religious|dark|malevocals|energetic|poetic|sad|sombre
+229,550,Hell Hath No Fury,Clipse,28 November 2006,388,5985,southernhiphop|gangstarap,experimentalhiphop,drugs|crime|boastful|malevocals|urban|rhythmic|violence|hedonistic|vulgar|dark
+230,551,One Size Fits All,Frank Zappa,25 June 1975,389,5204,jazzrock|progressiverock,satire|avantprog|experimentalrock,humorous|satirical|complex|technical|malevocals|uncommontimesignatures|dense|progressive|energetic|rhythmic
+231,552,Vision Creation Newsun,Boredoms,10 December 1999,386,8925,experimentalrock|neopsychedelia|psychedelicrock,krautrock|spacerock|noiserock,energetic|warm|psychedelic|rhythmic|epic|tribal|uplifting|summer|dense|ethereal
+232,553,Jailbreak,Thin Lizzy,March 1976,388,5088,hardrock,,energetic|malevocals|rebellious|passionate|melodic|anthemic|playful|love|sentimental|triumphant
+233,554,Sun Ship,John Coltrane,August 1971,391,2354,spiritualjazz|avantgardejazz,freejazz,avantgarde|improvisation|passionate|instrumental|spiritual|chaotic|energetic|technical|complex|lush
+234,555,Times of Grace,Neurosis,4 May 1999,389,4293,atmosphericsludgemetal|sludgemetal,postrock|doommetal|posthardcore,heavy|atmospheric|apocalyptic|malevocals|nihilistic|sombre|dense|misanthropic|dark|depressive
+235,556,Koyaanisqatsi,Philip Glass,27 October 1998,391,749,minimalism|filmscore,choral,existential|hypnotic|minimalistic|repetitive|sombre|suspenseful|orchestral|ominous|choral|epic
+236,557,I Could Live in Hope,Low,18 February 1994,386,9219,slowcore,dreampop,lonely|melancholic|sad|lethargic|mellow|depressive|introspective|minimalistic|apathetic|alienation
+237,558,Sechs Suiten für Violoncello Solo BWV 1007-1012,Pierre Fournier,1961,393,789,baroquemusic,,suite|instrumental|soothing|soft|acoustic|chambermusic|passionate|melodic
+238,559,Jet Set Radio Future Sound Track (ジェットセットラジオフューチャー サウンドトラック),長沼英樹 [Hideki Naganuma],20 March 2002,393,768,videogamemusic|bigbeat,turntablism|techno|alternativedance|triphop|funktronica,party|energetic|rhythmic|urban|playful|futuristic|psychedelic
+239,560,Requiem,BBC Symphony Orchestra,1967,394,414,classicalperiod|choral|christianliturgicalmusic,,christian|religious|choral|death|apocalyptic|acoustic
+240,561,Yank Crime,Drive Like Jehu,9 June 1994,387,6717,posthardcore|mathrock,noiserock|emo,energetic|anxious|noisy|aggressive|dissonant|passionate|angry|malevocals|complex|uncommontimesignatures
+241,562,Defenders of the Faith,Judas Priest,24 January 1984,388,5374,heavymetal,,malevocals|energetic|melodic|anthemic|heavy|rebellious|futuristic|triumphant|passionate|epic
+242,563,The Sidewinder,Lee Morgan,July 1964,391,2812,hardbop,souljazz,instrumental|energetic|playful|acoustic|happy|passionate|improvisation|urban|warm
+243,564,Sorrow Tears and Blood,Fela Kuti,1977,393,1796,afrobeat,jazzfunk,rhythmic|protest|political|angry|malevocals|violence|repetitive|warm|rebellious|conscious
+244,565,Skylarking,XTC,27 October 1986,386,7864,psychedelicpop|poprock,chamberpop|sunshinepop,psychedelic|summer|melodic|lush|bittersweet|pastoral|malevocals|conceptalbum|warm|poetic
+245,566,Bee Thousand,Guided by Voices,21 June 1994,385,9161,lofislackerrock|indierock,powerpop|indiepop|garagerock,lofi|melodic|surreal|malevocals|playful|energetic|cryptic|passionate|raw|psychedelic
+246,567,The Shape of Punk to Come,Refused,February 1998,384,8979,posthardcore|hardcorepunk,artpunk|metalcore,protest|energetic|angry|political|aggressive|anarchism|rebellious|passionate|malevocals|eclectic
+247,568,Supreme Clientele,Ghostface Killah,8 February 2000,387,5875,eastcoasthiphop|hardcorehiphop|abstracthiphop,boombap,abstract|violence|urban|crime|malevocals|rhythmic|humorous|cryptic|aggressive|boastful
+248,569,Stained Class,Judas Priest,10 February 1978,388,5608,heavymetal,,energetic|malevocals|heavy|melodic|rebellious|anthemic|sciencefiction|war|rhythmic|technical
+249,570,At the Heart of Winter,Immortal,28 February 1999,388,5057,blackmetal,melodicblackmetal|thrashmetal,winter|cold|melodic|epic|heavy|malevocals|fantasy|energetic|atmospheric|complex
+250,571,Ironman,Ghostface Killah,29 October 1996,389,4792,eastcoasthiphop|hardcorehiphop|boombap,gangstarap,aggressive|crime|urban|sexual|boastful|malevocals|violence|rhythmic|sampling|energetic
+251,572,Daughter of Darkness,Natural Snow Buildings,27 January 2009,389,1651,drone|freefolk|ritualambient|psychedelicfolk,noise|avantfolk|tribalambient,ritualistic|hypnotic|spiritual|noisy|dark|dense|repetitive|psychedelic|suspenseful|avantgarde
+252,573,Final Fantasy VIII Original Soundtrack,植松伸夫 [Nobuo Uematsu],1 March 1999,392,768,videogamemusic|sequencertracker,ambient|modernclassical|jazzfusion|orchestral|electronic|cinematicclassical,fantasy|romantic|eclectic|sciencefiction|mood|playful|atmospheric|epic
+253,574,Stankonia,OutKast,31 October 2000,385,11877,southernhiphop,dirtysouth|conscioushiphop|funk|experimentalhiphop|poprap,energetic|urban|playful|political|eclectic|malevocals|passionate|love|protest|conscious
+254,575,Speak No Evil,Wayne Shorter,April 1966,390,3866,postbop,modaljazz|hardbop,instrumental|acoustic|mysterious|mellow|nocturnal|improvisation|calm|rain|passionate
+255,576,Search for the New Land,Lee Morgan,July 1966,392,1446,postbop,hardbop|modaljazz,instrumental|improvisation|warm|acoustic|passionate
+256,577,For Your Pleasure,Roxy Music,23 March 1973,387,7468,artrock|glamrock,,sexual|dark|nocturnal|malevocals|anxious|sensual|energetic|hedonistic|melodic|psychedelic
+257,578,Exuma,Exuma,May 1970,388,6545,caribbeanfolkmusic|freakfolk,junkanoo|calypso|goombay|psychedelicfolk,tribal|occult|ritualistic|tropical|manic|acoustic|spiritual|psychedelic|passionate|rhythmic
+258,579,The Good Son,Nick Cave & The Bad Seeds,16 April 1990,388,6697,singersongwriter,darkcabaret|artrock,sombre|melancholic|malevocals|religious|nocturnal|romantic|lonely|dark|lush|poetic
+259,580,Tango: Zero Hour / Nuevo Tango: Hora Zero,Astor Piazzolla and The New Tango Quintet,September 1986,392,1664,tangonuevo,modernclassical,instrumental|passionate|mellow|complex|sensual|romantic|urban|technical|lonely|sombre
+260,581,"Power, Corruption & Lies",New Order,2 May 1983,382,14732,synthpop|newwave|postpunk,alternativedance,rhythmic|malevocals|melancholic|mechanical|energetic|anxious|bittersweet|melodic|romantic|passionate
+261,582,Speaking in Tongues,Talking Heads,1 June 1983,385,11910,newwave|synthfunk,synthfunk|artrock|funk,playful|energetic|party|rhythmic|malevocals|quirky|sarcastic|urban|anxious|anthemic
+262,583,The Main Ingredient,Pete Rock & C.L. Smooth,8 November 1994,390,2245,eastcoasthiphop|boombap|conscioushiphop,jazzrap,mellow|urban|sampling|conscious|malevocals|rhythmic|sexual|atmospheric
+263,584,The Fountain,Clint Mansell,21 November 2006,388,2196,filmscore|modernclassical|cinematicclassical,postrock|ambient|postminimalism,instrumental|melancholic|atmospheric|epic
+264,585,The Godfather,Nino Rota,March 1972,392,1287,filmscore|cinematicclassical,italianfolkmusic|thirdstream|modernclassical,sombre|instrumental|pastoral|orchestral|ominous|crime|atmospheric|folklore|acoustic|dark
+265,586,For Philip Guston,The California EAR Unit,18 November 1997,388,921,modernclassical|chambermusic,,meditative|sombre|instrumental|sparse|minimalistic|acoustic|calm|mysterious|chambermusic|suspenseful
+266,587,Ladies and Gentlemen We Are Floating in Space,Spiritualized®,16 June 1997,382,14491,neopsychedelia|spacerock|artrock,dreampop|noisepop|symphonicrock|shoegaze,lonely|drugs|melancholic|romantic|psychedelic|space|introspective|dense|malevocals|atmospheric
+267,588,Violent Femmes,Violent Femmes,13 April 1983,383,12461,folkpunk|alternativerock|acousticrock|postpunk,folkrock,anxious|lonely|sexual|acoustic|malevocals|humorous|rebellious|playful|energetic|raw
+268,589,Crimson,Edge of Sanity,2 April 1996,385,4618,melodicdeathmetal|progressivemetal,,fantasy|epic|progressive|apocalyptic|melodic|heavy|dark|conceptalbum|malevocals|sciencefiction
+269,590,Dead as Dreams,Weakling,2000,388,3139,blackmetal|atmosphericblackmetal,depressiveblackmetal,apocalyptic|atmospheric|dense|war|depressive|hypnotic|malevocals|epic|infernal|raw
+270,591,Tropicália ou panis et circencis,Various Artists,July 1968,392,1674,tropicália,psychedelicpop|psychedelicrock,satirical|tropical|psychedelic|history|protest|eclectic|melodic|progressive|urban|conscious
+271,592,The Complete Works,Concertgebouworkest,15 September 1998,389,954,modernclassical,musiqueconcrète|electronic|orchestral|futurism,orchestral|dissonant|complex|avantgarde|dense|eclectic|manic|suspenseful|chaotic|scary
+272,593,Die Kunst der Fuge,Evgeni Koroliov,1990,392,594,baroquemusic,,instrumental|acoustic|polyphonic|melodic|complex|mellow|technical
+273,594,Complete / Sämtliche / Les 21 Nocturnes,Claudio Arrau,1978,392,335,romanticism,,instrumental|bittersweet|acoustic|nocturnal|melancholic|calm
+274,595,channel ORANGE,Frank Ocean,10 July 2012,378,20903,alternativerb|contemporaryrb,neosoul|psychedelicsoul,romantic|summer|lonely|warm|sexual|bittersweet|lgbt|introspective|sensual|malevocals
+275,596,3 Gymnopédies & Other Piano Works · und andere Klavierstücke,Pascal Rogé,2 May 1984,391,1710,impressionism,,instrumental|mellow|melancholic|minimalistic|soothing|peaceful|melodic|acoustic|playful|atmospheric
+276,597,Funkentelechy vs. the Placebo Syndrome,Parliament,28 November 1977,391,2511,pfunk,synthfunk,humorous|playful|rhythmic|sciencefiction|malevocals|uplifting|happy|quirky|conceptalbum|warm
+277,598,Don Cherry,Don Cherry,1977,391,2148,spiritualjazz,jazzfusion|hindustaniclassicalmusic,psychedelic|hypnotic|surreal|spiritual|avantgarde|ritualistic|atmospheric|mysterious|malevocals
+278,599,Symphonie Nr.7,Wiener Philharmoniker,1976,394,292,symphony|classicalperiod,romanticism,symphony|acoustic|instrumental|epic|lush|orchestral
+279,600,Ten,Pearl Jam,27 August 1991,378,18678,grunge|alternativerock|hardrock,,passionate|energetic|malevocals|melancholic|melodic|angry|heavy|anthemic|lonely|bittersweet
+280,601,And Their Refinement of the Decline,Stars of the Lid,2 April 2007,387,5753,ambient|drone,minimalism,peaceful|atmospheric|mellow|melancholic|instrumental|warm|calm|meditative|minimalistic|soothing
+281,602,Court and Spark,Joni Mitchell,17 January 1974,388,5053,singersongwriter|folkpop,jazzpop,femalevocals|poetic|melodic|lush|acoustic|romantic|introspective|soft|love|mellow
+282,603,Glassworks,Philip Glass,March 1982,389,4866,minimalism,postminimalism,repetitive|instrumental|hypnotic|orchestral|minimalistic|lush|mysterious|atmospheric|complex|surreal
+283,604,Arnold Schoenberg 2: Streichquartette I-IV,Arditti String Quartet,1994,390,938,expressionism|chambermusic|serialism,,stringquartet|complex|avantgarde|atonal|anxious|technical|dissonant|atmospheric|sombre|instrumental
+284,605,Iron Maiden,Iron Maiden,14 April 1980,383,11760,nwobhm|heavymetal,,energetic|malevocals|rebellious|heavy|melodic|raw|fantasy|anthemic|rhythmic
+285,606,The Idiot,Iggy Pop,18 March 1977,385,9628,artrock|postpunk,industrialrock,dark|cold|drugs|hedonistic|anxious|nihilistic|atmospheric|nocturnal|alienation|malevocals
+286,607,South of Heaven,Slayer,5 July 1988,385,8996,thrashmetal,,angry|dark|malevocals|death|heavy|energetic|aggressive|infernal|misanthropic|war
+287,608,Juju,Siouxsie and The Banshees,6 June 1981,387,6714,gothicrock|postpunk,artrock,femalevocals|dark|nocturnal|mysterious|anxious|energetic|sombre|rhythmic|psychedelic|cryptic
+288,609,Fear of a Black Planet,Public Enemy,10 April 1990,386,6651,politicalhiphop|eastcoasthiphop|conscioushiphop,experimentalhiphop|hardcorehiphop,angry|political|protest|sampling|urban|energetic|dense|conscious|malevocals|rebellious
+289,610,Matthäus-Passion,La Petite Bande,13 April 2010,391,351,baroquemusic|oratorio|christianliturgicalmusic,,acoustic|orchestral|oratorio|spiritual|melodic|epic|passionate|christian|malevocals|femalevocals
+290,611,Bottomless Pit,Death Grips,6 May 2016,380,17637,industrialhiphop|abstracthiphop|experimentalhiphop,digitalhardcore|noiserock|glitchhop|electroindustrial|synthpunk,aggressive|chaotic|noisy|manic|energetic|vulgar|cryptic|misanthropic|malevocals|nihilistic
+291,612,EVOL,Sonic Youth,May 1986,384,11462,noiserock|experimentalrock,nowave|postpunk,atmospheric|noisy|mysterious|surreal|raw|sombre|dissonant|anxious|dark|abstract
+292,613,Histoire de Melody Nelson,Serge Gainsbourg,24 March 1971,385,7674,frenchpop|artpop,spokenword|baroquepop|psychedelicpop|funk,sexual|sensual|conceptalbum|hedonistic|malevocals|lush|poetic|melodic|disturbing|mysterious
+293,614,The Cold Vein,Cannibal Ox,15 May 2001,385,7295,abstracthiphop|eastcoasthiphop|experimentalhiphop|conscioushiphop,hardcorehiphop|boombap,cold|futuristic|urban|ethereal|mechanical|abstract|atmospheric|cryptic|conscious|malevocals
+294,615,Blood Fire Death,Bathory,8 October 1988,386,6629,blackmetal|thrashmetal,vikingmetal,mythology|war|history|raw|aggressive|malevocals|epic|dark|energetic|heavy
+295,616,Let's Get It On,Marvin Gaye,28 August 1973,389,5389,smoothsoul,,sexual|romantic|sensual|love|passionate|warm|malevocals|melodic|urban|lush
+296,617,Money Jungle,Duke Ellington,February 1963,389,3841,hardbop,postbop|avantgardejazz,improvisation|energetic|instrumental|acoustic|rhythmic|melodic|dissonant|urban|technical
+297,618,Vertigo,Bernard Herrmann,July 1958,390,891,filmscore|cinematicclassical|orchestral,,suspenseful|orchestral|instrumental|romantic|mysterious
+298,619,悪魔城ドラキュラX～月下の夜想曲～ オリジナル・ゲーム・サントラ (Akumajo Dracula X ~Gekka no Nocturne~ Original Game Soundtrack),山根ミチル [Michiru Yamane],9 April 1997,389,639,videogamemusic|sequencertracker|neoclassicaldarkwave,baroquemusic|symphonicmetal|neoclassicaldarkwave|horrorsynth|symphonicrock,fantasy|orchestral|atmospheric|nocturnal|epic|ominous|dark|sombre|melodic|eclectic
+299,620,Oceanic,Isis,16 September 2002,385,6777,atmosphericsludgemetal|postmetal,postrock,aquatic|atmospheric|malevocals|heavy|conceptalbum|dense|epic|melancholic|aggressive|death
+300,621,Pétrouchka; Le Sacre du printemps,Cleveland Orchestra,3 August 1992,389,444,modernclassical|orchestral,,orchestral|avantgarde|acoustic|instrumental
+301,622,Love Deluxe,Sade,11 November 1992,389,3784,smoothsoul|sophistipop,downtempo|smoothjazz|contemporaryrb|neosoul|ambientpop|triphop,sensual|soothing|romantic|love|femalevocals|mellow|atmospheric|nocturnal|sentimental|lonely
+302,623,Idle Moments,Grant Green,March 1965,390,2962,hardbop,modaljazz|cooljazz,instrumental|mellow|improvisation|warm|nocturnal|acoustic|soothing|atmospheric
+303,624,69 Love Songs,The Magnetic Fields,7 September 1999,384,8633,indiepop,chamberpop|synthpop|tweepop|indiefolk|altcountry,love|romantic|sarcastic|humorous|lgbt|conceptalbum|melodic|bittersweet|femalevocals|malevocals
+304,625,The Miseducation of Lauryn Hill,Lauryn Hill,25 August 1998,385,7765,neosoul|contemporaryrb|eastcoasthiphop,conscioushiphop|boombap,breakup|femalevocals|romantic|warm|love|passionate|urban|christian|rhythmic|melodic
+305,626,Brilliant Corners,Thelonious Monk,April 1957,388,4798,hardbop,,instrumental|mellow|improvisation|acoustic|technical|complex|playful
+306,627,The Stooges,The Stooges,5 August 1969,383,12368,garagerock|protopunk,psychedelicrock,rebellious|raw|sexual|noisy|apathetic|nihilistic|energetic|psychedelic|malevocals|hedonistic
+307,628,The Great Annihilator,Swans,23 January 1995,385,9671,postpunk|experimentalrock,gothicrock|noiserock|industrialrock|industrial|neofolk|artrock,sombre|misanthropic|atmospheric|apocalyptic|ominous|malevocals|lonely|pessimistic|mysterious|repetitive
+308,629,Permanent Waves,Rush,14 January 1980,385,7272,progressiverock|hardrock,,malevocals|philosophical|sciencefiction|uncommontimesignatures|complex|progressive|melodic|introspective|ideology|energetic
+309,630,A Farewell to Kings,Rush,1 September 1977,386,7097,progressiverock|hardrock,,sciencefiction|progressive|malevocals|fantasy|technical|complex|philosophical|epic|uncommontimesignatures|passionate
+310,631,Green River,Creedence Clearwater Revival,3 August 1969,388,6253,swamprock,countryrock|bluesrock,malevocals|passionate|pastoral|uplifting|melodic|rebellious|warm|energetic
+311,632,Epicus Doomicus Metallicus,Candlemass,10 June 1986,386,6301,traditionaldoommetal|doommetal,,epic|heavy|sombre|ominous|occult|fantasy|dark|melodic|malevocals|death
+312,633,Mule Variations,Tom Waits,27 April 1999,387,6107,singersongwriter|bluesrock,experimentalrock|altcountry|americana|countryblues,malevocals|atmospheric|raw|poetic|mysterious|dark|melancholic|eclectic|nocturnal|sombre
+313,634,The Blues and the Abstract Truth,Oliver Nelson,1 September 1961,390,2399,hardbop,postbop|cooljazz|modaljazz,instrumental|playful|passionate|acoustic
+314,635,Ask the Ages,Sonny Sharrock,6 August 1991,390,2153,avantgardejazz,postbop|freejazz|jazzfusion,instrumental|energetic|technical|passionate|improvisation|complex|manic|noisy|rhythmic|chaotic
+315,636,Cartola,Cartola,April 1976,392,1410,sambachoro,sambacanção|sambadeterreiro,melancholic|poetic|romantic|bittersweet|melodic|malevocals|soft|breakup|femalevocals|acoustic
+316,637,Neue Wiener Schule: Die Streichquartette,LaSalle Quartett,1971,391,588,serialism|chambermusic,expressionism|romanticism,instrumental|atonal|acoustic|stringquartet
+317,638,Requiem; Lontano; Continuum,hr-Sinfonieorchester,1968,390,591,modernclassical|choral,orchestral|sonorism|serialism,scary|avantgarde|dense|choral|suspenseful|complex|ominous|dissonant|dark|polyphonic
+318,639,The Nutcracker,Симфонический оркестр Мариинского театра [Mariinsky Orchestra],5 October 1998,391,460,romanticism|orchestral,classicalwaltz,instrumental|playful|warm|lush|romantic|suite|winter|acoustic|melodic|orchestral
+319,640,Aladdin Sane,David Bowie,12 April 1973,382,15880,glamrock|artrock,hardrock|pianorock,malevocals|melodic|playful|energetic|passionate|quirky|rebellious|urban|anthemic|sexual
+320,641,Veedon Fleece,Van Morrison,October 1974,389,2937,singersongwriter|contemporaryfolk|folkrock,blueeyedsoul|chamberfolk,pastoral|poetic|warm|malevocals|autumn|longing|passionate|melodic|sentimental|lush
+321,642,Lightning to the Nations,Diamond Head,3 October 1980,388,2704,nwobhm|heavymetal,hardrock,energetic|malevocals|melodic|anthemic|heavy|sexual|vulgar
+322,643,Estudando o samba,Tom Zé,1976,390,1703,samba|mpb,sambacanção|avantfolk|sambarock,malevocals|avantgarde|humorous|complex|playful|quirky|melodic|political|surreal|melancholic
+323,644,Jacques Brel [Ces gens-là],Jacques Brel,23 June 1966,391,1565,chansonàtexte,baroquepop|cabaret,poetic|passionate|lush|malevocals|love|romantic|orchestral|sarcastic|sentimental|bittersweet
+324,645,Symphonie Nr. 7,Berliner Philharmoniker,1962,393,337,symphony|romanticism,,symphony|orchestral|acoustic|instrumental
+325,646,Strawberry Jam,Animal Collective,10 September 2007,379,17581,neopsychedelia|artpop,psychedelicpop|electronic|noisepop,manic|playful|psychedelic|energetic|surreal|bittersweet|dense|melodic|malevocals|passionate
+326,647,Cosmogramma,Flying Lotus,3 May 2010,380,15708,idm|glitchhop|wonky,nujazz|instrumentalhiphop|wonky|glitchhop,futuristic|space|instrumental|rhythmic|chaotic|psychedelic|lush|atmospheric|dense|playful
+327,648,Band on the Run,Paul McCartney & Wings,7 December 1973,387,6492,poprock,artrock|folkpop|progressivepop,melodic|happy|malevocals|uplifting|playful
+328,649,Atomizer,Big Black,1986,385,8699,noiserock|posthardcore,industrialrock|postpunk,misanthropic|mechanical|aggressive|noisy|raw|malevocals|violence|nihilistic|rebellious|angry
+329,650,4 Balladen; Barcarolle; Fantasie,Krystian Zimerman,8 July 1988,392,310,romanticism,,instrumental|acoustic|mellow|ballad|technical|passionate
+330,651,And Then Nothing Turned Itself Inside-Out,Yo La Tengo,22 February 2000,385,8365,dreampop|indierock,ambientpop|slowcore,nocturnal|mellow|atmospheric|melancholic|soft|bittersweet|introspective|soothing|lonely|warm
+331,652,Blues for the Red Sun,Kyuss,30 June 1992,386,7972,stonerrock|stonermetal,heavypsych|psychedelicrock,desert|heavy|psychedelic|malevocals|warm|dense|drugs|atmospheric|cryptic|ominous
+332,653,Leprosy,Death,16 November 1988,385,7581,deathmetal,,aggressive|death|heavy|malevocals|energetic|angry|pessimistic|violence|manic|ominous
+333,654,From Mars to Sirius,Gojira,27 September 2005,384,7089,progressivemetal|deathmetal,groovemetal|sludgemetal,heavy|apocalyptic|nature|fantasy|conscious|aggressive|conceptalbum|sciencefiction|malevocals|progressive
+334,655,Repetition,Unwound,9 April 1996,388,4767,posthardcore|noiserock,postpunk,anxious|noisy|dissonant|repetitive|melancholic|misanthropic|raw|apathetic|malevocals|cryptic
+335,656,The Real McCoy,McCoy Tyner,October 1967,390,2253,postbop,modaljazz,instrumental|rhythmic|technical|passionate|improvisation|acoustic|energetic|suspenseful|playful
+336,657,Mulholland Dr.,Angelo Badalamenti,9 October 2001,391,1119,filmsoundtrack|filmscore,darkambient|darkjazz|experimentalrock|modernclassical|cinematicclassical,dark|mysterious|atmospheric|surreal|suspenseful|instrumental|femalevocals
+337,658,Rhapsody in Blue; An American in Paris,Columbia Symphony Orchestra,1959,391,811,modernclassical,tonepoem|bigband|jazz,melodic|urban|tonepoem|orchestral|instrumental|energetic|acoustic|complex|lush|epic
+338,659,Persona3: Original Soundtrack,目黒将司 [Shoji Meguro],19 July 2006,391,665,videogamemusic|electronic,dancepop|hiphop|illbient|sophistipop|triphop|jpop|house|alternativerock|nuskoolbreaks,urban|energetic|bittersweet|playful|surreal|fantasy|futuristic|melodic|femalevocals|malevocals
+339,660,Requiem,Wiener Philharmoniker,1971,391,343,classicalperiod|choral|christianliturgicalmusic|orchestral,,orchestral|funereal|acoustic|death|sombre|femalevocals|malevocals|choral|christian
+340,661,Ascension [Edition II],John Coltrane,1966,393,328,freejazz|spiritualjazz,experimentalbigband,improvisation|acoustic|spiritual|avantgarde|passionate|instrumental|chaotic|dense
+341,662,Choir Concerto,Государственный камерный хор Министерства культуры СССР [USSR Ministry of Culture Chamber Choir],1994,393,306,modernclassical|choral|concerto,,atmospheric|epic|dissonant|choral
+342,663,Symphonie Nr. 6 »Pastorale«,Wiener Philharmoniker,1971,393,284,symphony|romanticism|classicalperiod,tonepoem,symphony|orchestral|instrumental|pastoral|acoustic
+343,664,Some Rap Songs,Earl Sweatshirt,30 November 2018,379,16306,abstracthiphop|experimentalhiphop,jazzrap|glitchhop,lofi|death|introspective|sampling|abstract|malevocals|deadpan|sombre|dark|lethargic
+344,665,Blowout Comb,Digable Planets,10 October 1994,387,4613,jazzrap|eastcoasthiphop|conscioushiphop,boombap|abstracthiphop,malevocals|femalevocals|urban|mellow|conscious|rhythmic|political|warm|soothing|protest
+345,666,Painful,Yo La Tengo,5 October 1993,386,6835,indierock|noisepop,dreampop|shoegaze,nocturnal|melancholic|mellow|atmospheric|noisy|femalevocals|malevocals|lonely|romantic|bittersweet
+346,667,The Legend of Zelda: Breath of the Wild Original Soundtrack,片岡真央 [Manaka Kataoka],25 April 2018,389,448,videogamemusic|ambient|modernclassical,eastasianclassicalmusic|postminimalism|reductionism|cinematicclassical|impressionism|16bit|newage,minimalistic|epic|instrumental|bittersweet|lush|pastoral|eclectic|suspenseful|natural|calm
+347,668,6 Feet Deep,Gravediggaz,9 August 1994,387,4464,horrorcore|eastcoasthiphop,boombap,dark|humorous|occult|violence|death|misanthropic|malevocals|sampling|drugs|suicide
+348,669,Imaginations From the Other Side,Blind Guardian,5 April 1995,383,3886,powermetal,,fantasy|epic|melodic|malevocals|heavy|medieval|energetic|passionate|triumphant|anthemic
+349,670,Nada como um dia após o outro dia,Racionais MC's,27 October 2002,391,677,hardcorehiphop|conscioushiphop,boombap|spokenword|gfunk,conscious|crime|urban|protest|malevocals|pessimistic|uplifting|atmospheric
+350,671,Richard D. James Album,Aphex Twin,4 November 1996,381,15961,idm|drillandbass,drillandbass,playful|instrumental|mechanical|complex|energetic|atmospheric|quirky|rhythmic|melodic|manic
+351,672,XXX,Danny Brown,15 August 2011,382,13276,hardcorehiphop,experimentalhiphop,drugs|vulgar|sexual|depressive|boastful|manic|energetic|hedonistic|malevocals|playful
+352,673,Boxer,The National,22 May 2007,381,13046,indierock|postpunkrevival,chamberpop,melancholic|lonely|bittersweet|introspective|sombre|malevocals|lush|autumn|poetic|nocturnal
+353,674,Peace Sells... But Who's Buying?,Megadeth,19 September 1986,383,10921,thrashmetal|speedmetal,heavymetal,technical|energetic|aggressive|sarcastic|malevocals|political|war|ominous|death|angry
+354,675,The Colour of Spring,Talk Talk,March 1986,385,8673,artpop,progressivepop|newromantic,spring|passionate|lush|malevocals|mellow|bittersweet|melodic|introspective|warm|atmospheric
+355,676,Doggystyle,Snoop Doggy Dogg,23 November 1993,383,8878,gfunk|westcoasthiphop|gangstarap,,vulgar|sexual|drugs|humorous|hedonistic|crime|urban|party|malevocals|boastful
+356,677,American IV: The Man Comes Around,Johnny Cash,5 November 2002,388,5487,americana,contemporaryfolk,introspective|melancholic|sombre|malevocals|serious|death|lonely|longing|poetic|bittersweet
+357,678,I'm Still in Love With You,Al Green,October 1972,390,2227,southernsoul,smoothsoul|funk,romantic|passionate|love|warm|melodic|malevocals|sensual|mellow|summer|uplifting
+358,679,Maiden Voyage,Herbie Hancock,February 1966,389,4174,modaljazz,hardbop|postbop,instrumental|acoustic|improvisation|aquatic|mellow|melodic|calm|conceptalbum|lush
+359,680,Gnossiennes; Gymnopédies; Ogives; Trois sarabandes; Petite ouverture à danser,Reinbert de Leeuw,1 October 1995,390,1222,impressionism,,melancholic|sparse|instrumental|autumn|pastoral|calm|lonely|soft|soothing|sombre
+360,681,Da lama ao caos,Chico Science & Nação Zumbi,9 April 1994,391,1072,manguebeat,maracatu|funkrock|coco|alternativedance,rhythmic|political|energetic|conscious|malevocals|protest|playful|tropical|passionate|angry
+361,682,The G​.​A​.​T​.​.​.,Mach-Hommy,28 September 2017,390,652,jazzrap|eastcoasthiphop|conscioushiphop,boombap|abstracthiphop,lofi|sampling|rhythmic|repetitive|boastful|mellow|warm|malevocals|urban|crime
+362,683,Songs From the Big Chair,Tears for Fears,1 February 1985,385,7565,synthpop|newwave|poprock,sophistipop|progressivepop,anthemic|passionate|malevocals|melodic|lush|introspective|melancholic|love|bittersweet|sentimental
+363,684,ファイナルファンタジーX オリジナル・サウンドトラック (Final Fantasy X Original Soundtrack),仲野順也 [Junya Nakano],1 August 2001,390,724,videogamemusic|sequencertracker,ambient|electronic|choral|newage|orchestral|modernclassical|sequencertracker|cinematicclassical,fantasy|epic|eclectic|atmospheric|sciencefiction|romantic|bittersweet|choral|mellow|femalevocals
+364,685,Demon Days,Gorillaz,24 May 2005,377,22432,artpop,hiphop|alternativerock|electronic|alternativedance|triphop,eclectic|melancholic|malevocals|political|lonely|conscious|cryptic|urban|rhythmic|anxious
+365,686,This Nation's Saving Grace,The Fall,23 September 1985,386,6714,postpunk,artpunk,sarcastic|apathetic|deadpan|satirical|urban|malevocals|energetic|cryptic|repetitive|misanthropic
+366,687,Scheherazade and Other Stories,Renaissance,July 1975,389,2409,symphonicprog,progressivefolk,epic|femalevocals|fantasy|melodic|progressive|complex|medieval|conceptalbum|suite|uncommontimesignatures
+367,688,The Velvet Rope,Janet,7 October 1997,387,2551,contemporaryrb,neosoul|triphop|dancepop|artpop|newjackswing,introspective|sexual|lgbt|sensual|dark|nocturnal|depressive|urban|love|warm
+368,689,Apostrophe ('),Frank Zappa,22 March 1974,385,7822,jazzrock|artrock|experimentalrock,comedyrock|progressiverock,humorous|complex|eclectic|malevocals|playful|surreal|technical|uncommontimesignatures|quirky|conceptalbum
+369,690,Talking Heads: 77,Talking Heads,16 September 1977,381,15462,newwave|artpunk,postpunk|funkrock,anxious|playful|energetic|rhythmic|malevocals|quirky|urban|humorous|melodic|manic
+370,691,Operation: Doomsday,MF DOOM,October 1999,384,11046,eastcoasthiphop|abstracthiphop,turntablism|experimentalhiphop|jazzrap,sampling|humorous|playful|malevocals|abstract|conceptalbum|rhythmic|mellow|raw|poetic
+371,692,De mysteriis dom Sathanas,Mayhem,24 May 1994,383,8567,blackmetal,,satanic|cold|nocturnal|dark|aggressive|sombre|malevocals|misanthropic|death|occult
+372,693,Barry Lyndon,Various Artists,1975,392,424,filmsoundtrack|westernclassicalmusic,baroquemusic|irishfolkmusic|classicalmarch|classicalperiod|romanticism,instrumental|acoustic|melodic|epic
+373,694,Souls at Zero,Neurosis,19 May 1992,387,3617,atmosphericsludgemetal|sludgemetal,posthardcore,apocalyptic|dark|heavy|misanthropic|nihilistic|atmospheric|malevocals|angry|ominous|sombre
+374,695,João Gilberto,João Gilberto,1973,390,1619,bossanova,sambacanção|samba,warm|soothing|calm|acoustic|hypnotic|soft|repetitive|malevocals|minimalistic|poetic
+375,696,Octet; Music for a Large Ensemble; Violin Phase,Steve Reich,September 1980,390,1426,minimalism,,hypnotic|instrumental|repetitive|minimalistic|acoustic|soothing|passionate|rhythmic|uncommontimesignatures|orchestral
+376,697,The Devil and God Are Raging Inside Me,Brand New,21 November 2006,380,13004,emo|indierock,posthardcore|alternativerock,passionate|melancholic|depressive|angry|introspective|anxious|sombre|malevocals|sad|serious
+377,698,Portishead,Portishead,30 September 1997,383,12095,triphop,acidjazz|darkjazz,atmospheric|dark|sombre|melancholic|mysterious|femalevocals|nocturnal|cold|introspective|anxious
+378,699,Piece of Mind,Iron Maiden,16 May 1983,382,10855,heavymetal|nwobhm,,malevocals|energetic|epic|passionate|history|anthemic|mythology|heavy|fantasy|melodic
+379,700,Yeti,Amon Düül II,November 1970,385,7200,krautrock|psychedelicrock,heavypsych|jamband|experimentalrock,psychedelic|improvisation|dense|heavy|hypnotic|atmospheric|avantgarde|energetic|dark|malevocals
+380,701,The Modern Dance,Pere Ubu,January 1978,383,8493,postpunk|artpunk,experimentalrock,anxious|raw|energetic|sarcastic|dissonant|manic|malevocals|urban|surreal|chaotic
+381,702,Be,Common,24 May 2005,386,6538,conscioushiphop,jazzrap|neosoul,uplifting|conscious|mellow|happy|malevocals|urban|warm|love|passionate|sampling
+382,703,"My Arms, Your Hearse",Opeth,11 May 1998,384,6660,progressivemetal,deathmetal,dark|melancholic|atmospheric|sombre|death|progressive|malevocals|heavy|conceptalbum|paranormal
+383,704,Pierced From Within,Suffocation,23 May 1995,387,2947,brutaldeathmetal,technicaldeathmetal,aggressive|technical|complex|malevocals|dense|heavy|energetic|uncommontimesignatures|hateful|dark
+384,705,Call Me,Al Green,May 1973,389,2753,southernsoul,smoothsoul,passionate|romantic|warm|love|melodic|sensual|malevocals|uplifting|lush|christian
+385,706,Nocturnes,Maurizio Pollini,October 2005,392,298,romanticism,,instrumental|nocturnal|soothing|calm|melancholic|acoustic|mellow|complex|bittersweet|melodic
+386,707,De-Loused in the Comatorium,The Mars Volta,17 June 2003,379,14795,progressiverock|posthardcore,posthardcore|experimentalrock|artrock,energetic|technical|cryptic|complex|anxious|passionate|conceptalbum|psychedelic|progressive|uncommontimesignatures
+387,708,Juju,Wayne Shorter,June 1965,389,2381,modaljazz,postbop,instrumental|passionate|acoustic|improvisation|warm|technical
+388,709,The Blueprint,Jay-Z,11 September 2001,383,8581,eastcoasthiphop,poprap|hardcorehiphop,boastful|sampling|malevocals|rhythmic|triumphant|crime|urban|introspective|sentimental|lush
+389,710,Nursery Cryme,Genesis,12 November 1971,385,7738,progressiverock|symphonicprog,symphonicprog,fantasy|surreal|malevocals|progressive|quirky|playful|melodic|uncommontimesignatures|humorous|warm
+390,711,The Slider,T. Rex,23 July 1972,387,4483,glamrock,,sexual|playful|malevocals|melodic|mellow|energetic|dense|wallofsound
+391,712,Nespithe,Demilich,8 February 1993,386,4064,technicaldeathmetal,,technical|complex|cryptic|surreal|uncommontimesignatures|sciencefiction|dark|malevocals|heavy|death
+392,713,Abigail,King Diamond,15 June 1987,385,3951,heavymetal,progressivemetal,paranormal|conceptalbum|ominous|heavy|malevocals|suspenseful|melodic|atmospheric|nocturnal|complex
+393,714,Ommadawn,Mike Oldfield,21 October 1975,387,3926,progressiverock|newage,progressivefolk|celticnewage,mellow|meditative|epic|progressive|lush|calm|atmospheric|autumn|soothing|peaceful
+394,715,Harmony in Ultraviolet,Tim Hecker,16 October 2006,385,7210,ambient,drone|noise|glitch,melancholic|atmospheric|instrumental|dense|noisy|sombre|meditative|hypnotic|dark|soothing
+395,716,The Tired Sounds Of,Stars of the Lid,29 October 2001,384,6793,ambient|drone,minimalism|fieldrecordings,ethereal|soothing|peaceful|instrumental|warm|meditative|calm|atmospheric|sparse|repetitive
+396,717,This Heat,This Heat,September 1979,385,5828,experimentalrock|experimental,industrial|musiqueconcrète|avantprog|tapemusic|drone|krautrock,cold|ominous|mechanical|anxious|suspenseful|avantgarde|dark|political|malevocals|noisy
+397,718,We Insist! Max Roach's Freedom Now Suite,Max Roach,January 1961,388,2654,avantgardejazz,vocaljazz|afrojazz|hardbop,protest|femalevocals|avantgarde|rhythmic|political|serious|passionate|warm|conscious|energetic
+398,719,The Rocky Horror Picture Show,Various Artists,1975,388,1516,filmsoundtrack|glamrock|rockopera,showtunes|rockroll,lgbt|energetic|happy|sexual|rockopera|humorous|playful|femalevocals|melodic|uplifting
+399,720,Damnation,Opeth,22 April 2003,383,9576,progressiverock,contemporaryfolk,mellow|sombre|melancholic|atmospheric|malevocals|introspective|progressive|soft|autumn|depressive
+400,721,Just Got Back From the Discomfort—We're Alright,The Brave Little Abacus,29 May 2010,383,5767,midwestemo|experimentalrock,mathrock|posthardcore|artrock,passionate|bittersweet|uncommontimesignatures|introspective|anxious|energetic|existential|malevocals|poetic|cryptic
+401,722,3rd,Big Star,18 March 1978,385,5350,poprock|powerpop,baroquepop|artrock|folkpop,lonely|sad|melancholic|melodic|depressive|introspective|malevocals|sombre|nihilistic|sentimental
+402,723,Left Hand Path,Entombed,4 June 1990,385,4714,deathmetal,,dark|misanthropic|aggressive|heavy|energetic|malevocals|antireligious|death|angry|raw
+403,724,Argus,Wishbone Ash,28 April 1972,386,4231,hardrock|progressiverock,folkrock|bluesrock,medieval|epic|malevocals|triumphant|progressive|melodic|mythology|pastoral|christian
+404,725,Keeper of the Seven Keys Part II,Helloween,29 August 1988,382,4279,powermetal,heavymetal,fantasy|epic|melodic|energetic|malevocals|uplifting|optimistic|triumphant|anthemic|playful
+405,726,Mecca and the Soul Brother,Pete Rock & C.L. Smooth,9 June 1992,386,3474,eastcoasthiphop|boombap|conscioushiphop|jazzrap,,urban|rhythmic|conscious|sampling|malevocals|serious|boastful|nocturnal
+406,727,The Dance of the Moon and the Sun,Natural Snow Buildings,2006,385,4187,drone|psychedelicfolk|avantfolk,ambient|freefolk|postrock|ritualambient,cold|ethereal|winter|occult|hypnotic|ritualistic|atmospheric|lofi|melancholic|psychedelic
+407,728,Eat a Peach,The Allman Brothers Band,12 February 1972,387,3814,southernrock|jamband|bluesrock,,warm|pastoral|mellow|improvisation|malevocals|summer|melodic|introspective|love|psychedelic
+408,729,Still Life,Van der Graaf Generator,April 1976,388,2858,progressiverock,artrock|symphonicprog,poetic|complex|philosophical|existential|malevocals|nihilistic|depressive|progressive
+409,730,"""Al final de este viaje...""",Silvio Rodríguez,1978,390,1228,nuevatrova,,acoustic|passionate|malevocals|conscious|poetic|melancholic|melodic|warm|protest|love
+410,731,Jesus Christ Superstar,Andrew Lloyd Webber and Tim Rice,October 1970,386,1218,rockopera,symphonicprog|progressiverock|artrock|symphonicrock|poprock,religious|rockopera|conceptalbum|existential|epic|history|uplifting|energetic|passionate|melodic
+411,732,渋星 (Shibuboshi),渋さ知らズ [Shibusashirazu],18 January 2004,391,707,experimentalbigband|jazzfusion|progressivebigband,freejazz|postbop,epic|rhythmic|manic|dense|chaotic|aggressive|instrumental|dissonant|complex|noisy
+412,733,String Quartets Nos. 1-3,The Tale Quartet,February 1990,390,513,chambermusic|modernclassical,serialism,stringquartet|instrumental|acoustic|anxious|atonal|aggressive|dissonant|avantgarde|sombre|suspenseful
+413,734,Disco Elysium,British Sea Power,23 December 2019,390,383,videogamemusic|ambient|postrock,darkambient|artrock,melancholic|atmospheric|sombre|instrumental|cold|lonely|dark|urban|mysterious|winter
+414,735,Nightfall,Candlemass,9 November 1987,386,4142,traditionaldoommetal|doommetal,,epic|heavy|malevocals|sombre|religious|death|fantasy|melodic|dark|ominous
+415,736,Game Theory,The Roots,29 August 2006,387,4166,eastcoasthiphop,conscioushiphop|politicalhiphop|boombap|experimentalhiphop,dark|malevocals|atmospheric|sombre|urban|crime|rhythmic|political|angry|raw
+416,737,Consuming Impulse,Pestilence,25 December 1989,386,3052,deathmetal,thrashmetal,aggressive|malevocals|rhythmic|energetic|heavy|violence|anxious|dense|misanthropic|technical
+417,738,So,Peter Gabriel,19 May 1986,385,6756,artpop|poprock,newwave|ambientpop,passionate|melodic|malevocals|warm|sentimental|rhythmic|bittersweet|lush|introspective|melancholic
+418,739,Dusty in Memphis,Dusty Springfield,17 January 1969,387,3813,popsoul|blueeyedsoul,southernsoul,romantic|femalevocals|melodic|warm|mellow|uplifting|soothing|lush|love|sensual
+419,740,Saint Dominic's Preview,Van Morrison,July 1972,388,2678,singersongwriter|folkrock,blueeyedsoul|chamberfolk,pastoral|malevocals|poetic|passionate|sentimental|uplifting|warm|summer|autumn
+420,741,LISA Soundtrack,Widdly 2 Diddly,29 October 2014,388,486,videogamemusic|electronic|postindustrial,darkambient|instrumentalhiphop|ambient|sequencertracker|downtempo|electroindustrial|postindustrial|electronicdancemusic,eclectic|apocalyptic|dark|instrumental|energetic|melancholic|ominous|sampling|anxious|manic
+421,742,6 String Quartets,Emerson String Quartet,1988,389,291,modernclassical|chambermusic,,stringquartet|acoustic|instrumental|chambermusic|dissonant
+422,743,Ramones,Ramones,23 April 1976,379,12667,punkrock,poppunk,energetic|raw|urban|malevocals|rebellious|melodic|playful|repetitive|minimalistic|violence
+423,744,Kill 'Em All,Metallica,25 July 1983,377,20192,thrashmetal,speedmetal,energetic|rebellious|aggressive|heavy|malevocals|boastful|raw|anthemic|violence|hedonistic
+424,745,Crescent,John Coltrane Quartet,July 1964,388,2436,postbop,modaljazz|hardbop,instrumental|nocturnal|improvisation|warm|soothing|acoustic|spiritual|passionate|melancholic
+425,746,Walter Carlos' Clockwork Orange,Walter Carlos,1972,391,544,electronic|westernclassicalmusic|filmsoundtrack,,futuristic|humorous|suspenseful|atmospheric|melodic|poetic|avantgarde|dark|mechanical|apocalyptic
+426,747,American Football,American Football,14 September 1999,378,17862,midwestemo,mathrock|postrock,lonely|melancholic|breakup|autumn|bittersweet|malevocals|uncommontimesignatures|mellow|sentimental|introspective
+427,748,The Age of Adz,Sufjan Stevens,12 October 2010,380,12392,artpop|progressivepop|indietronica,glitchpop|folktronica|chamberpop,epic|futuristic|dense|complex|introspective|lush|passionate|love|anxious|malevocals
+428,749,Scary Monsters (And Super Creeps),David Bowie,12 September 1980,382,12165,artrock|newwave,artpop|postpunk|newwave,malevocals|melodic|rhythmic|playful|quirky|energetic|anxious|eclectic|futuristic|raw
+429,750,Freak Out!,The Mothers of Invention,27 June 1966,382,10949,experimentalrock|satire,doowop|psychedelicrock|artrock|musiqueconcrète|rockroll|rhythmblues,satirical|humorous|psychedelic|sarcastic|playful|malevocals|eclectic|avantgarde|surreal|complex
+430,751,Bad Brains,Bad Brains,5 February 1982,384,8313,hardcorepunk,reggae|dub,angry|energetic|raw|political|aggressive|passionate|rebellious|conscious|malevocals|manic
+431,752,Metal Box,PiL,23 November 1979,383,7742,postpunk|experimentalrock,dub|artpunk|krautrock|dancepunk,dark|anxious|repetitive|rhythmic|malevocals|cold|nihilistic|dissonant|mechanical|misanthropic
+432,753,"Straight, No Chaser",Thelonious Monk,20 March 1967,389,1620,postbop,,warm|peaceful|instrumental|soft
+433,754,ゼノブレイド Xenoblade Original Soundtrack,下村陽子 [Yoko Shimomura],23 June 2010,385,353,videogamemusic|cinematicclassical,symphonicmetal|ambient|symphonicrock|electronic|traditionalfolkmusic,epic|eclectic|sentimental|suspenseful|triumphant|atmospheric|instrumental|mysterious|lush|orchestral
+434,755,Berlin,Lou Reed,October 1973,384,8170,artrock,rockopera|singersongwriter,depressive|sad|rockopera|malevocals|poetic|urban|bittersweet|breakup|conceptalbum|drugs
+435,756,The Woods,Sleater-Kinney,24 May 2005,385,5930,indierock,noiserock|garagerock,energetic|passionate|noisy|raw|femalevocals|rebellious|heavy|anxious|aggressive|angry
+436,757,Under the Sign of the Black Mark,Bathory,11 May 1987,385,5566,blackmetal,thrashmetal,infernal|satanic|raw|death|aggressive|heavy|malevocals|dark|mythology|atmospheric
+437,758,Moonmadness,Camel,26 March 1976,386,4477,progressiverock|symphonicprog,,mellow|melancholic|epic|progressive|lonely|uncommontimesignatures|winter|nocturnal|psychedelic|melodic
+438,759,Jesus Christ Superstar: The Original Motion Picture Sound Track Album,Andrew Lloyd Webber & Tim Rice,1973,389,549,rockopera|filmsoundtrack|showtunes,progressiverock|symphonicprog,epic|religious|conceptalbum|christian|malevocals|femalevocals|energetic|rockopera
+439,760,The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do,Fiona Apple,19 June 2012,383,9402,singersongwriter|artpop,jazzpop|pianorock,introspective|femalevocals|poetic|breakup|melodic|sparse|anxious|bittersweet|love|melancholic
+480,761,Transilvanian Hunger,Darkthrone,17 February 1994,383,7489,blackmetal,,cold|raw|lofi|dark|atmospheric|satanic|repetitive|aggressive|misanthropic|nocturnal
+481,762,Can't Buy a Thrill,Steely Dan,October 1972,385,6301,poprock,jazzrock,sarcastic|melodic|playful|malevocals|urban|conscious|soft|mellow|warm|summer
+482,763,Operation: Mindcrime,Queensrÿche,3 May 1988,380,5945,heavymetal|progressivemetal,rockopera|uspowermetal,political|crime|rockopera|melodic|urban|malevocals|conceptalbum|progressive|epic|
+483,764,Long Live Rock 'n' Roll,Rainbow,7 May 1978,386,4008,hardrock|heavymetal,,fantasy|passionate|energetic|malevocals|uplifting|melodic|anthemic|heavy
+484,765,The Royal Scam,Steely Dan,May 1976,386,4003,poprock,jazzrock|funkrock|artrock,urban|malevocals|sarcastic|mellow|playful|drugs|rhythmic|melodic|complex|eclectic
+485,766,Soul Food,Goodie Mob,7 November 1995,387,2557,southernhiphop|conscioushiphop,soul|dirtysouth,sombre|conscious|urban|malevocals|rhythmic|political|introspective|existential|spiritual|optimistic
+486,767,Graceland,Paul Simon,25 August 1986,382,7972,poprock|singersongwriter,mbaqanga|mbube|zydeco|soukous,playful|rhythmic|warm|eclectic|poetic|introspective|malevocals|melodic|summer|conscious
+487,768,Bookends,Simon & Garfunkel,3 April 1968,385,6634,folkpop|folkrock,chamberfolk|singersongwriter,mellow|soft|melodic|pastoral|malevocals|warm|introspective|sentimental|poetic|passionate
+488,769,Paracletus,Deathspell Omega,8 November 2010,383,5630,blackmetal,progressivemetal|avantgardemetal,chaotic|philosophical|infernal|uncommontimesignatures|technical|satanic|dissonant|dark|dense|malevocals
+489,770,No More Shall We Part,Nick Cave and The Bad Seeds,10 April 2001,386,5817,singersongwriter,chamberpop|pianorock,melancholic|religious|lonely|depressive|sad|introspective|malevocals|poetic|winter|passionate
+490,771,Miles Smiles,Miles Davis Quintet,16 February 1967,387,3923,modaljazz|postbop,,instrumental|improvisation|energetic|playful|acoustic|passionate|complex|technical|uplifting|rhythmic
+491,772,Tim Burton's The Nightmare Before Christmas,Danny Elfman,12 October 1993,387,1535,filmscore|showtunes|holidaymusic,christmasmusic|halloweenmusic|darkcabaret|cinematicclassical,halloween|christmas|malevocals|playful|uplifting|lonely|ominous|melodic|femalevocals|paranormal
+492,773,Sonic the Hedgehog CD Original Soundtrack 20th Anniversary Edition,尾形雅史 [Masafumi Ogata],23 November 2011,389,424,videogamemusic|house,acidhouse|synthfunk|newjackswing|breakbeat|sequencertracker,rhythmic|sampling|playful|atmospheric|lush|energetic|instrumental|futuristic|dense
+493,774,Lola Versus Powerman and the Moneygoround (Part One),The Kinks,27 November 1970,386,4801,poprock,folkrock,satirical|sarcastic|melodic|conceptalbum|malevocals|playful|bittersweet|humorous|energetic|longing
+494,775,UNDERTALE Soundtrack,"Toby ""Radiation"" Fox",13 August 2015,386,2911,videogamemusic|sequencertracker,chiptune|16bit|ambient|electronicdancemusic,instrumental|uplifting|bittersweet|eclectic|playful|quirky|fantasy|mellow|melancholic|anthemic
+495,776,Verisäkeet,Moonsorrow,23 February 2005,383,2673,folkmetal|blackmetal|paganblackmetal,progressivemetal|nordicfolkmusic|naturerecordings|vikingmetal,epic|pagan|mythology|malevocals|dense|forest|atmospheric|passionate|heavy|nature
+496,777,The Jazz Composer's Orchestra,The Jazz Composer's Orchestra,1968,388,1079,experimentalbigband|freejazz,thirdstream,dense|avantgarde|improvisation|complex|instrumental|chaotic|passionate|aggressive|ominous|suspenseful
+497,778,Tristan und Isolde,Wilhelm Furtwängler,10 November 1952,388,464,opera|romanticism,,opera|epic|femalevocals|romantic|malevocals|suspenseful|love
+498,779,Hosianna Mantra,Popol Vuh,1972,385,6453,neoclassicalnewage,ambient|chambermusic|modernclassical,meditative|peaceful|femalevocals|ethereal|spiritual|soothing|mellow|calm|mysterious|uncommontimesignatures
+499,780,Divers,Joanna Newsom,23 October 2015,385,6003,chamberfolk|singersongwriter,progressivefolk|baroquepop,poetic|femalevocals|history|lush|pastoral|passionate|bittersweet|fantasy|complex|melodic
+500,781,Peace and Love,Dadawah,1974,389,2027,nyahbinghi,rootsreggae,ritualistic|religious|passionate|spiritual|soothing|hypnotic|repetitive|rhythmic|meditative|warm
+501,782,Clifford Brown and Max Roach,Clifford Brown and Max Roach,December 1954,388,1840,hardbop,,instrumental|acoustic|warm|energetic|improvisation|melodic|happy|urban|technical|rhythmic
+502,783,The Elder Scrolls III: Morrowind,Jeremy Soule,1 May 2002,389,723,videogamemusic|modernclassical|cinematicclassical,ambient|orchestral,atmospheric|melancholic|instrumental|medieval|epic|lonely|orchestral|suspenseful|fantasy
+503,784,Kingdom Hearts II Original Soundtrack,下村陽子 [Yoko Shimomura],25 January 2006,390,425,videogamemusic|cinematicclassical,sequencertracker,instrumental|passionate|melancholic|eclectic|epic|orchestral|melodic|atmospheric|playful|lush
+504,785,Endless,Frank Ocean,9 April 2018,383,7232,ambientpop|alternativerb|artpop,neosoul|experimentalhiphop|electronic,atmospheric|ethereal|mellow|malevocals|melancholic|bittersweet|lgbt|love|longing|lonely
+505,786,Per un pugno di dollari,Ennio Morricone,1966,390,1010,filmscore|spaghettiwestern,,atmospheric|desert|instrumental|sombre|mysterious|epic|warm|suspenseful
+506,787,Santana III,Santana,September 1971,388,2583,latinrock,psychedelicrock|jazzrock,rhythmic|energetic|tropical|passionate|psychedelic|warm|malevocals|playful|sexual|sensual
+507,788,Fight Songs: The Music of Team Fortress 2,Valve Studio Orchestra,21 April 2017,388,582,videogamemusic|jazzfusion|bigband,spaghettiwestern|surfrock|orchestral|klezmer|jazzrock|halloweenmusic|traditionalfolkmusic|cinematicclassical|thirdstream,eclectic|orchestral|epic|instrumental|anthemic|quirky|triumphant|ensemble|rhythmic|martial
+508,789,Goo,Sonic Youth,26 June 1990,380,14747,alternativerock|noiserock,,energetic|noisy|dissonant|rebellious|femalevocals|malevocals|apathetic|sexual|anxious|aggressive
+509,790,Steve McQueen,Prefab Sprout,22 June 1985,385,4842,sophistipop|poprock,janglepop|synthpop,romantic|bittersweet|passionate|melodic|breakup|malevocals|melancholic|longing|sentimental|lush
+510,791,Liege & Lief,Fairport Convention,December 1969,386,3906,britishfolkrock|folkrock,progressivefolk|celticfolkmusic,folklore|pastoral|melodic|femalevocals|poetic|passionate|energetic|bittersweet|progressive
+511,792,"Stories From the City, Stories From the Sea",PJ Harvey,24 October 2000,383,8652,alternativerock|singersongwriter,indierock,urban|melodic|femalevocals|optimistic|love|introspective|passionate|bittersweet|anxious|melancholic
+512,793,Floating Into the Night,Julee Cruise,12 September 1989,385,5532,dreampop|ambientpop,jazzpop|etherealwave|lounge,ethereal|nocturnal|atmospheric|soothing|mysterious|femalevocals|love|mellow|melancholic|lush
+513,794,Hex Enduction Hour,The Fall,8 March 1982,384,5797,postpunk|artpunk,noiserock|krautrock,sarcastic|repetitive|misanthropic|raw|energetic|cryptic|rebellious|malevocals|noisy|satirical
+514,795,Sackcloth 'n' Ashes,Sixteen Horsepower,6 February 1996,386,4149,gothiccountry|altcountry,americana,misanthropic|pessimistic|passionate|religious|poetic|pastoral|dark|anxious|christian|spiritual
+515,796,ピンポン オリジナルサウンドトラック,牛尾憲輔 [Kensuke Ushio],27 August 2014,388,335,televisionmusic|techno|electronicdancemusic,trance|idm|orchestral,orchestral|mechanical|instrumental|uplifting|rhythmic|lush|energetic|party
+516,797,Suite bergamasque; Children's Corner; Estampes; L'isle joyeuse; La fille aux cheveux de lin; La plus que lente; Etude pour les arpèges,Alexis Weissenberg,1985,390,324,impressionism,,instrumental|acoustic|technical|suite|complex|melancholic|peaceful
+517,798,Get in the Van,Henry Rollins,1994,388,318,spokenword,,rebellious|history|introspective|malevocals|misanthropic|angry|nihilistic|violence|selfhatred|serious
+518,799,Skeleton Tree,Nick Cave & The Bad Seeds,9 September 2016,383,8382,singersongwriter|artrock,ambient|spokenword|drone,death|introspective|dark|melancholic|atmospheric|malevocals|sombre|poetic|religious|sparse
+519,800,Modal Soul,Nujabes,11 November 2005,384,6955,jazzrap|instrumentalhiphop,,peaceful|soothing|mellow|sampling|melancholic|bittersweet|uplifting|rhythmic|warm|lush
+520,801,Goodbye Yellow Brick Road,Elton John,5 October 1973,384,6376,pianorock|poprock,glamrock|progressivepop,melodic|bittersweet|romantic|malevocals|melancholic|eclectic|lush|energetic|playful|sentimental
+521,802,Necroticism: Descanting the Insalubrious,Carcass,30 October 1991,385,4133,deathmetal,,violence|heavy|aggressive|death|malevocals|rhythmic|technical|energetic|poetic
+522,803,A divina comédia ou ando meio desligado,Mutantes,March 1970,388,2559,psychedelicrock|tropicália,psychedelicpop|acidrock,playful|psychedelic|warm|tropical|summer|malevocals|femalevocals|quirky|satirical|surreal
+523,804,The Crimson Idol,W.A.S.P.,1 August 1992,384,2277,heavymetal,rockopera,anxious|melodic|melancholic|conceptalbum|introspective|lonely|selfhatred|rockopera|epic|pessimistic
+524,805,Aretha Now,Aretha Franklin,14 June 1968,389,1548,southernsoul,rhythmblues,femalevocals|passionate|uplifting|summer|warm|melodic|love
+525,806,Alucinação,Belchior,1976,388,1163,mpb|singersongwriter|folkrock,contemporaryfolk,philosophical|passionate|rebellious|acoustic|poetic|conscious|melodic|mellow|sentimental|malevocals
+526,807,Run the Jewels 2,Run the Jewels,27 October 2014,379,15074,hardcorehiphop,experimentalhiphop|politicalhiphop,aggressive|energetic|political|angry|boastful|crime|urban|malevocals|rebellious|conscious
+527,808,'Round About Midnight,Miles Davis,4 March 1957,386,5591,hardbop,cooljazz|modaljazz,instrumental|nocturnal|acoustic|passionate|urban|rhythmic|soothing|improvisation|mellow|technical
+528,809,Giù la testa,Ennio Morricone,October 1971,390,566,filmscore|spaghettiwestern,,atmospheric|desert
+529,810,Merriweather Post Pavilion,Animal Collective,20 January 2009,371,25281,psychedelicpop|neopsychedelia,electronic|artpop|sunshinepop,summer|psychedelic|dense|warm|uplifting|happy|hypnotic|playful|melodic|malevocals
+530,811,Jeopardy,The Sound,November 1980,386,4877,postpunk,punkrock|newwave,anxious|energetic|malevocals|melancholic|raw|passionate|dark|conscious|alienation|existential
+531,812,The Grand Wazoo,The Mothers,27 November 1972,386,4805,jazzrock|jazzfusion,bigband,complex|instrumental|technical|quirky|eclectic|epic|triumphant
+532,813,Passion (Music for The Last Temptation of Christ),Peter Gabriel,6 June 1989,387,3004,filmscore|newage,turkishfolkmusic|africanfolkmusic|arabicfolkmusic|ambient|tribalambient|arabicmusic|kurdishfolkmusic,meditative|spiritual|tribal|atmospheric|instrumental|desert|mysterious|sombre|religious|christian
+533,814,"Ptah, the El Daoud",Alice Coltrane,July 1970,388,2556,spiritualjazz,postbop,instrumental|spiritual|meditative|soothing|mellow|atmospheric|avantgarde|warm|hypnotic|improvisation
+534,815,The Chronic,Dr. Dre,15 December 1992,380,10478,gfunk|westcoasthiphop|gangstarap,,crime|drugs|urban|vulgar|violence|sampling|malevocals|boastful|sexual|hedonistic
+535,816,Emperor Tomato Ketchup,Stereolab,11 March 1996,383,8230,artpop,krautrock|neopsychedelia|frenchpop|indietronica|postrock,hypnotic|political|playful|rhythmic|repetitive|psychedelic|futuristic|femalevocals|abstract|melodic
+536,817,Le mystère des voix bulgares : volume 1,Le Mystère des voix bulgares,1975,388,2018,bulgarianfolkmusic|polyphonicchant,acappella|choral,polyphonic|acappella|choral|ethereal|melancholic|passionate|femalevocals|spiritual|folklore|pastoral
+537,818,New World Symphony / The Moldau,Berliner Philharmoniker,August 1959,391,287,romanticism|symphony,tonepoem,orchestral|symphony|acoustic|instrumental
+538,819,Lust for Life,Iggy Pop,9 September 1977,383,9361,artrock,postpunk|punkrock|garagerock,energetic|sexual|playful|malevocals|passionate|raw|rebellious|love|anthemic|romantic
+539,820,Virgins,Tim Hecker,14 October 2013,383,8237,ambient|drone|electroacoustic,glitch|noise|postminimalism|darkambient,dark|atmospheric|instrumental|dense|noisy|ominous|dissonant|hypnotic|cold|repetitive
+540,821,Covenant,Morbid Angel,July 1993,385,4010,deathmetal,,satanic|misanthropic|angry|ominous|occult|aggressive|energetic|heavy|rhythmic|dark
+541,822,By Inheritance,Artillery,29 May 1990,386,2132,thrashmetal,technicalthrashmetal|speedmetal,melodic|energetic|technical|political|angry|malevocals|aggressive|pessimistic
+542,823,Is This Real?,Wipers,January 1980,386,4089,punkrock,postpunk,energetic|introspective|anxious|alienation|malevocals|passionate|longing|heavy|dark|raw
+543,824,Solid Air,John Martyn,February 1973,386,3379,singersongwriter|britishfolkrock,jazzrock|contemporaryfolk,mellow|nocturnal|romantic|malevocals|passionate|rhythmic|love|psychedelic|sensual|autumn
+544,825,Helplessness Blues,Fleet Foxes,3 May 2011,380,12344,indiefolk|chamberfolk,folkpop|chamberpop|progressivefolk,acoustic|autumn|romantic|lush|nature|poetic|pastoral|bittersweet|malevocals|melodic
+545,826,Music From Big Pink,The Band,1 July 1968,383,6830,folkrock|rootsrock,countryrock,peaceful|passionate|poetic|malevocals|bittersweet|spiritual|warm|lush|melancholic|autumn
+546,827,Little Girl Blue,Nina Simone,February 1959,387,2373,vocaljazz,souljazz|standards|cooljazz,melancholic|romantic|femalevocals|sentimental|melodic|passionate|bittersweet|soft|acoustic
+547,828,Complete Works Opp 1-31,Pierre Boulez,26 February 1991,387,682,serialism|modernclassical,expressionism|chambermusic|symphony|choral|lieder|romanticism,atonal|uncommontimesignatures|femalevocals|avantgarde|acoustic|anxious|malevocals|mysterious
+548,829,Klavierkonzert Nr. 3 C-dur / Klavierkonzert G-dur,Berliner Philharmoniker,1967,389,453,modernclassical|concerto,impressionism,orchestral|concerto|acoustic|instrumental
+549,830,The Head on the Door,The Cure,13 August 1985,382,10536,postpunk|alternativerock,gothicrock|newwave,melodic|melancholic|bittersweet|malevocals|lush|anxious|atmospheric|eclectic|psychedelic|playful
+550,831,I Want to See the Bright Lights Tonight,Richard & Linda Thompson,April 1974,386,3161,britishfolkrock|contemporaryfolk,singersongwriter,melancholic|sombre|malevocals|bittersweet|femalevocals|pessimistic|autumn|passionate|alcohol|melodic
+551,832,In absentia,Porcupine Tree,24 September 2002,381,10369,progressiverock,progressivemetal|artrock|alternativerock,melancholic|atmospheric|melodic|sombre|progressive|heavy|malevocals|conceptalbum|crime|dark
+552,833,Relayer,Yes,28 November 1974,383,7087,progressiverock|symphonicprog,jazzrock,epic|complex|progressive|technical|uncommontimesignatures|fantasy|dense|philosophical|energetic|malevocals
+553,834,American III: Solitary Man,Johnny Cash,17 October 2000,387,3353,americana|country,contemporaryfolk,lonely|melodic|acoustic|sombre|bittersweet|longing|introspective|depressive|poetic|pessimistic
+554,835,Vingt regards sur l'enfant-Jésus,Steven Osborne,September 2002,389,383,modernclassical,,complex|dark|instrumental|ethereal|spiritual|introspective|christian|dissonant|uncommontimesignatures|avantgarde
+555,836,This Is Happening,LCD Soundsystem,18 May 2010,379,13190,dancepunk|indietronica,alternativedance|newwave|electrodisco,rhythmic|sarcastic|energetic|repetitive|malevocals|bittersweet|deadpan|quirky|eclectic|nocturnal
+556,837,Children of God,Swans,19 October 1987,381,9618,experimentalrock|postpunk,industrialrock|gothicrock|noiserock|neofolk,ominous|misanthropic|malevocals|femalevocals|sexual|atmospheric|sombre|religious|repetitive|antireligious
+557,838,Off the Wall,Michael Jackson,10 August 1979,382,9044,disco|pop,funk|popsoul|contemporaryrb|dancepop|boogie,party|happy|warm|malevocals|rhythmic|energetic|love|lush|romantic|passionate
+558,839,Dopesmoker,Sleep,22 April 2003,381,8030,stonermetal|doommetal,dronemetal,drugs|heavy|hypnotic|psychedelic|desert|repetitive|epic|malevocals|dense|spiritual
+559,840,勝訴ストリップ (Shōso strip),椎名林檎 [Sheena Ringo],31 March 2000,386,2772,artpop|alternativerock,noisepop|artrock|jpop|progressivepop,noisy|dense|femalevocals|passionate|energetic|melodic|playful|quirky|romantic|manic
+560,841,Conspiracy,King Diamond,21 August 1989,386,1978,heavymetal,progressivemetal,paranormal|suspenseful|melodic|malevocals|progressive|heavy|scary|conceptalbum|occult|rockopera
+561,842,Les cinq quatuors à cordes; Trio à cordes; Khoom,Arditti String Quartet,1990,388,470,chambermusic|modernclassical,microtonalclassical,chambermusic|stringquartet|minimalistic|avantgarde|sparse|meditative|femalevocals|microtonal
+562,843,WORRY.,Jeff Rosenstock,14 October 2016,382,7019,poppunk|powerpop|indierock,punkrock|singersongwriter,energetic|anxious|melodic|alcohol|introspective|political|pessimistic|malevocals|love|passionate
+563,844,Buena Vista Social Club,Buena Vista Social Club,16 September 1997,385,5968,soncubano|bolero,guajira|danzón|descarga|trova,warm|tropical|melodic|mellow|malevocals|rhythmic|uplifting|acoustic|sentimental|playful
+564,845,S.F. Sorrow,The Pretty Things,December 1968,385,3887,psychedelicrock|rockopera,psychedelicpop|freakbeat|acidrock,psychedelic|rockopera|malevocals|pessimistic|war|death|conceptalbum|philosophical|progressive|martial
+565,846,Ascenseur pour l'échafaud,Miles Davis,1958,386,3817,filmscore|cooljazz,modaljazz|darkjazz,sombre|lonely|instrumental|mysterious|nocturnal|urban|improvisation|suspenseful|melancholic|atmospheric
+566,847,Biomech,Ocean Machine,21 July 1997,382,3852,progressivemetal|alternativemetal,postmetal|industrialmetal|shoegaze|ambientpop,atmospheric|aquatic|dense|melodic|malevocals|ethereal|introspective|uplifting|wallofsound|epic
+567,848,Basra,Pete La Roca,October 1965,388,1021,hardbop|modaljazz,postbop,instrumental|improvisation|acoustic|melodic|mellow
+568,849,The Planets,New York Philharmonic,1973,392,271,modernclassical|orchestral,impressionism|tonepoem,instrumental|triumphant|epic|space|passionate|orchestral
+569,850,Person Pitch,Panda Bear,20 March 2007,378,12882,psychedelicpop|neopsychedelia,progressivepop|plunderphonics|sunshinepop,warm|psychedelic|sampling|uplifting|hypnotic|summer|tropical|dense|melodic|atmospheric
+570,851,Closing Time,Tom Waits,6 March 1973,383,8383,singersongwriter|pianoblues,jazz|blues,lonely|melancholic|nocturnal|love|romantic|alcohol|sombre|malevocals|sad|longing
+571,852,Os Mutantes,Os Mutantes,June 1968,384,6522,tropicália|psychedelicrock,psychedelicpop,playful|psychedelic|tropical|sarcastic|energetic|humorous|malevocals|femalevocals|satirical|quirky
+572,853,Made in Abyss Original Soundtrack,Kevin Penkin,27 September 2017,390,405,televisionmusic|ambient|modernclassical,darkambient|electronic|cinematicclassical|chambermusic|postminimalism,peaceful|calm|suspenseful|melancholic|epic|instrumental|lush
+573,854,Tijuana Moods,Charlie Mingus,May 1962,387,2649,postbop,flamencojazz|latinjazz|flamenco,instrumental|energetic|complex|passionate|warm|bittersweet|tropical|improvisation|rhythmic|acoustic
+574,855,Deaf Dumb Blind (Summun Bukmun Umyun),Pharoah Sanders,October 1970,388,1290,spiritualjazz|avantgardejazz,afrojazz,rhythmic|spiritual|improvisation|passionate
+575,856,Minecraft: Volume Beta,C418,9 November 2013,387,1354,videogamemusic|ambient|electronic,downtempo|darkambient|impressionism|progressiveelectronic|modernclassical|idm,peaceful|atmospheric|instrumental|ethereal|lush|cold|eclectic|bittersweet|soothing|suspenseful
+576,857,Storia di un impiegato,Fabrizio De André,December 1973,388,1197,canzonedautore,folkrock|progressivefolk,political|sombre|malevocals|rebellious|protest|introspective|crime|conceptalbum|urban|melodic
+577,858,Per qualche dollaro in più,Ennio Morricone e la sua orchestra,1965,389,903,filmscore|spaghettiwestern,,ominous|atmospheric|desert|instrumental|sombre|epic|warm|suspenseful
+578,859,Teens of Denial,Car Seat Headrest,20 May 2016,380,11961,indierock,powerpop|garagerockrevival,anxious|bittersweet|drugs|energetic|passionate|dense|existential|malevocals|raw|anthemic
+579,860,Rated R,Queens of the Stone Age,6 June 2000,380,12039,stonerrock|alternativerock,hardrock,energetic|psychedelic|malevocals|desert|drugs|sexual|heavy|alcohol|hedonistic|aggressive
+580,861,Bocanada,Gustavo Cerati,28 June 1999,386,2371,artpop|artrock|downtempo,triphop|neopsychedelia|dreampop|alternativedance,atmospheric|eclectic|malevocals|poetic|hypnotic|sampling|lush|melancholic|melodic|introspective
+581,862,The Four Seasons,Academy of St Martin in the Fields,1970,388,626,baroquemusic|concerto,,spring|summer|autumn|winter|seasonal|concerto|instrumental|acoustic|lush|technical
+582,863,Pink,Boris,18 November 2005,381,10271,noiserock|stonermetal,stonerrock|sludgemetal|psychedelicrock,energetic|noisy|heavy|aggressive|psychedelic|raw|malevocals|passionate|dissonant|epic
+583,864,Pithecanthropus Erectus,The Charlie Mingus Jazz Workshop,July 1956,386,4020,postbop,hardbop|avantgardejazz|tonepoem,instrumental|acoustic|improvisation|passionate|mellow|hypnotic|rhythmic|nocturnal|atmospheric
+584,865,Gentleman,Fela Kuti,1973,388,2120,afrobeat,jazzfunk,political|rebellious|rhythmic|conscious|hypnotic|energetic|repetitive|angry|passionate
+585,866,One Nation Under a Groove,Funkadelic,11 September 1978,386,3657,pfunk|funkrock,psychedelicrock,happy|uplifting|party|political|psychedelic|passionate|rhythmic|malevocals|humorous|urban
+586,867,Morbid Tales,Celtic Frost,November 1984,384,3671,thrashmetal,blackmetal|deathmetal,occult|dark|energetic|malevocals|rhythmic|sombre|aggressive|heavy|raw|nocturnal
+587,868,Live and Let Die,Kool G. Rap & D.J. Polo,24 November 1992,385,1451,eastcoasthiphop|gangstarap|hardcorehiphop,boombap|jazzrap|horrorcore,crime|violence|urban|boastful|dark|rhythmic|hateful|nihilistic|malevocals|vulgar
+588,869,Amarcord,Nino Rota,1974,391,327,filmscore|cinematicclassical,cabaret,
+589,870,We're Only in It for the Money,The Mothers of Invention,4 March 1968,381,8451,experimentalrock|satire,psychedelicrock|musiqueconcrète|doowop|musicalparody|tapemusic,satirical|sarcastic|humorous|pessimistic|conceptalbum|avantgarde|psychedelic|eclectic|manic|rebellious
+590,871,Murder Ballads,Nick Cave and The Bad Seeds,5 February 1996,382,8071,alternativerock|singersongwriter,folkrock|gothicrock|darkcabaret|punkblues,crime|dark|death|violence|suspenseful|conceptalbum|malevocals|humorous|winter|vulgar
+591,872,A I A: Alien Observer,Grouper,11 April 2011,383,6850,ambient,dreampop|drone|ambientpop,ethereal|atmospheric|lonely|femalevocals|space|lofi|melancholic|nocturnal|mysterious|warm
+592,873,Crime of the Century,Supertramp,November 1974,384,5211,artrock|progressiverock,poprock|progressivepop,melodic|malevocals|complex|progressive|existential|introspective|anxious|bittersweet|lush|epic
+593,874,The Snow Goose,Camel,May 1975,384,4676,symphonicprog|progressiverock,,instrumental|conceptalbum|epic|progressive|winter|mellow|melodic|fantasy|complex
+594,875,Mental Vortex,Coroner,12 August 1991,386,3332,technicalthrashmetal,progressivemetal,technical|uncommontimesignatures|heavy|philosophical|aggressive|malevocals|complex|dark|death|angry
+595,876,Ella Fitzgerald Sings the Cole Porter Song Book,Ella Fitzgerald,15 May 1956,386,1401,vocaljazz|standards,swing,femalevocals|love|melodic|soft|longing|melancholic|acoustic|lonely|bittersweet|passionate
+596,877,Silent Hill 3: Original Soundtrack,Akira Yamaoka,16 July 2003,387,1449,videogamemusic|triphop,darkambient|industrial|alternativerock|ambient,dark|nocturnal|suspenseful|femalevocals|sombre|mysterious|cold|surreal|atmospheric|ominous
+597,878,Nonagon Infinity,King Gizzard and the Lizard Wizard,29 April 2016,381,10619,psychedelicrock|garagerock,heavypsych,repetitive|energetic|psychedelic|sciencefiction|malevocals|uncommontimesignatures|occult|warm|conceptalbum|rhythmic
+598,879,Scott 3,Scott Walker,April 1969,384,5473,baroquepop|singersongwriter|artpop,chanson,lush|melancholic|melodic|atmospheric|poetic|malevocals|sombre|winter|romantic|orchestral
+599,880,"György Ligeti Edition 3: Works for Piano - Études, Musica ricercata",Pierre-Laurent Aimard,28 January 1997,388,442,modernclassical,,technical|dissonant|acoustic|instrumental
+600,881,Wowee Zowee,Pavement,11 April 1995,382,8475,indierock,noiserock|altcountry,playful|malevocals|eclectic|humorous|energetic|sarcastic|surreal|melodic|bittersweet|noisy
+601,882,Abattoir Blues / The Lyre of Orpheus,Nick Cave & The Bad Seeds,20 September 2004,384,5632,alternativerock|artrock,gospel|punkblues|postpunk,religious|malevocals|love|dark|melodic|introspective|passionate|existential|epic|apocalyptic
+602,883,Secret Treaties,Blue Öyster Cult,April 1974,385,3840,hardrock,psychedelicrock,cryptic|mysterious|energetic|psychedelic|malevocals|playful|heavy|dark|passionate|melodic
+603,884,Didn't It Rain,Songs: Ohia,5 March 2002,386,2517,singersongwriter|contemporaryfolk|slowcore,slowcore|altcountry|americana,sparse|depressive|melancholic|lonely|sombre|sad|dark|lethargic|malevocals|serious
+604,885,Those Who Throw Objects at the Crocodiles Will Be Asked to Retrieve Them,Bruno Pernadas,23 September 2016,387,1949,progressivepop|artpop|jazzpop|jazzfusion,spaceagepop|lounge|neopsychedelia|exotica|cocktailnation|vocaljazz,femalevocals|warm|psychedelic|repetitive|malevocals|melodic|peaceful|eclectic|mellow|tropical
+605,886,Sahara,McCoy Tyner,July 1972,388,1270,postbop|spiritualjazz,freejazz|avantgardejazz|spiritualjazz,instrumental|passionate|avantgarde|chaotic|complex|spiritual|manic
+606,887,Concerto No. 1,RCA Victor Symphony Orchestra,1958,389,277,romanticism|concerto,,concerto|acoustic|instrumental|epic|technical|mellow|passionate|uplifting|triumphant
+607,888,NEU!,NEU!,1972,381,11017,krautrock,ambient|experimental|fieldrecordings,repetitive|instrumental|rhythmic|hypnotic|minimalistic|atmospheric|psychedelic|mechanical|futuristic|avantgarde
+608,889,Structures From Silence,Steve Roach,14 July 1984,385,4455,spaceambient,progressiveelectronic|drone,peaceful|ethereal|space|atmospheric|soothing|repetitive|meditative|instrumental|calm|hypnotic
+609,890,Paysage d'Hiver,Paysage d'Hiver,1999,384,4163,atmosphericblackmetal,darkambient,lofi|cold|winter|raw|lonely|malevocals|atmospheric|dark|melancholic|noisy
+610,891,Caravanserai,Santana,October 1972,386,2827,jazzrock|latinrock,jazzfusion|progressiverock|psychedelicrock|ambient,tropical|improvisation|spiritual|epic|passionate|atmospheric|rhythmic|technical|mellow|malevocals
+611,892,Quatuor pour la fin du temps,Luben Yordanoff,5 April 1988,386,905,modernclassical|chambermusic,,sombre|apocalyptic|religious|complex|acoustic|instrumental|chambermusic|uncommontimesignatures|avantgarde|suite
+612,893,Star Wars: Return of the Jedi,John Williams,1983,387,888,filmscore|cinematicclassical|orchestral,,epic|instrumental|sciencefiction|fantasy|space|orchestral
+613,894,Never for Ever,Kate Bush,8 September 1980,384,6576,artpop|baroquepop|progressivepop,progressivepop,melodic|femalevocals|quirky|ethereal|sensual|atmospheric|lush|playful|progressive|fantasy
+614,895,Apollo: Atmospheres & Soundtracks,Brian Eno with Daniel Lanois & Roger Eno,July 1983,384,5939,spaceambient|soundtracks,darkambient|americana,ethereal|space|soothing|atmospheric|meditative|instrumental|calm|mysterious|peaceful|sombre
+615,896,Dirty Mind,Prince,8 October 1980,383,5584,synthfunk|poprock,dancepop|contemporaryrb|disco|newwave,sexual|vulgar|playful|energetic|rhythmic|party|malevocals|hedonistic|sensual|raw
+616,897,Point of Departure,Andrew Hill,April 1965,386,2759,avantgardejazz,postbop,instrumental|passionate|avantgarde|acoustic|technical|improvisation|serious|complex
+617,898,Science Fiction,Ornette Coleman,February 1972,387,2028,freejazz|avantgardejazz,,improvisation|avantgarde|technical|chaotic|passionate|energetic|spiritual|apocalyptic|dense|femalevocals
+618,899,Yasimika,Djeli Moussa Diawara,1983,388,1790,mandemusic,,warm|passionate|soothing|uplifting|femalevocals|malevocals|mellow|repetitive|happy|acoustic
+619,900,Mode for Joe,Joe Henderson,September 1966,389,717,hardbop|postbop,modaljazz|hardbop,acoustic|passionate|improvisation|instrumental
+620,901,Revés / Yosoy,Café Tacvba,20 July 1999,387,684,experimentalrock|artrock|artpop,postrock|electronic|latinalternative|neopsychedelia|folktronica|ambient|modernclassical|psychedelicfolk|krautrock,eclectic|hypnotic|lush|malevocals|instrumental|atmospheric|bittersweet|optimistic|existential|melancholic
+621,902,One Flight Up,Dexter Gordon,September 1965,389,526,hardbop,modaljazz,
+622,903,Suicide,Suicide,28 December 1977,378,11858,synthpunk|minimalsynth,nowave|industrial,anxious|dark|mechanical|repetitive|minimalistic|ominous|malevocals|raw|misanthropic|disturbing
+623,904,The Notorious Byrd Brothers,The Byrds,3 January 1968,384,4451,folkrock|psychedelicrock|poprock,countryrock|psychedelicpop|psychedelicrock,psychedelic|melodic|ethereal|warm|surreal|lush|eclectic|atmospheric|mellow|malevocals
+624,905,Diabolical Conquest,Incantation,28 April 1998,385,1402,deathmetal,deathdoommetal,infernal|dark|heavy|dense|angry|rhythmic|death|antireligious|energetic|raw
+625,906,Dog Man Star,Suede,10 October 1994,382,4541,britpop|glamrock|artrock,,sexual|melancholic|drugs|dark|melodic|anxious|malevocals|lonely|nocturnal|pessimistic
+626,907,Black Future,Vektor,17 November 2009,384,3933,technicalthrashmetal,progressivemetal|blackmetal,sciencefiction|aggressive|apocalyptic|technical|futuristic|complex|energetic|dense|heavy|malevocals
+627,908,Études Op.10 & Op.25,Maurizio Pollini,1972,387,570,romanticism,,instrumental|acoustic|technical|complex|romantic|melodic|uplifting|suspenseful|poetic|soothing
+628,909,Symphony No. 5,Академический симфонический оркестр Московской государственной филармонии,1964,388,278,modernclassical|symphony,,instrumental|symphony|triumphant|epic|suspenseful|complex|energetic|orchestral|anxious|ominous
+629,910,"Ravedeath, 1972",Tim Hecker,14 February 2011,381,8912,ambient|drone,noise,instrumental|atmospheric|dense|noisy|sombre|melancholic|surreal|hypnotic|apocalyptic|cold
+630,911,The Glowing Man,Swans,17 June 2016,381,8825,postrock|experimentalrock,noiserock|drone|neofolk|ambient,atmospheric|repetitive|hypnotic|epic|dense|ominous|ritualistic|apocalyptic|spiritual|heavy
+631,912,City,Strapping Young Lad,27 January 1997,382,4243,industrialmetal,thrashmetal|progressivemetal,aggressive|heavy|chaotic|misanthropic|complex|dense|mechanical|manic|malevocals|angry
+632,913,The Somberlain,Dissection,December 1993,384,3364,melodicblackmetal,melodicdeathmetal,atmospheric|dark|sombre|ominous|heavy|occult|nocturnal|aggressive|cold|melodic
+633,914,Buhloone Mind State,De La Soul,21 September 1993,386,2267,eastcoasthiphop|conscioushiphop|jazzrap,boombap|abstracthiphop,playful|uplifting|sampling|urban|malevocals|rhythmic|mellow
+634,915,Here in After,Immolation,13 February 1996,385,2143,deathmetal,technicaldeathmetal,complex|technical|antireligious|uncommontimesignatures|rhythmic|malevocals|dark|infernal|aggressive|atmospheric
+635,916,The Inflated Tear,Roland Kirk,15 June 1968,387,1647,postbop,hardbop,introspective|quirky|instrumental|sombre|nocturnal|dense|autumn|playful|funereal|warm
+636,917,Study in Brown,Clifford Brown and Max Roach,1955,388,1249,hardbop,,instrumental|improvisation|acoustic|energetic|melodic|rhythmic|uplifting|warm
+637,918,Songs From Suicide Bridge,David Kauffman,1984,387,982,contemporaryfolk|singersongwriter,americana|psychedelicfolk|slowcore,lonely|acoustic|introspective|melancholic|dark|depressive|sombre|sad|suicide|existential
+638,919,救済の技法 (Kyuusai no gihou),平沢進 [Susumu Hirasawa],21 August 1998,387,1029,artpop|progressivepop,newage|ambientpop|electropop|electroindustrial|orchestral,dense|passionate|epic|wallofsound|lush|atmospheric|ethereal|orchestral|melodic|futuristic
+639,920,Black Celebration,Depeche Mode,17 March 1986,382,7408,synthpop,darkwave,dark|sombre|atmospheric|ominous|nocturnal|melodic|malevocals|melancholic|passionate|romantic
+640,921,The Kick Inside,Kate Bush,17 February 1978,382,9129,artpop,progressivepop|baroquepop|pianorock,romantic|poetic|love|femalevocals|melodic|sensual|warm|passionate|lush|soothing
+641,922,Starsailor,Tim Buckley,2 November 1970,381,6487,experimentalrock|avantfolk|singersongwriter,psychedelicfolk|avantgardejazz,avantgarde|psychedelic|cryptic|malevocals|sexual|dissonant|surreal|passionate|manic|uncommontimesignatures
+642,923,(pronounced 'lĕh-'nérd 'skin-'nérd),Lynyrd Skynyrd,13 August 1973,382,5373,southernrock,bluesrock|hardrock,energetic|malevocals|sentimental|passionate|warm|melodic|bittersweet|summer|rhythmic|pastoral
+643,924,Jet Set Radio Original Soundtrack,長沼英樹 [Hideki Naganuma],27 February 2001,387,1000,videogamemusic|instrumentalhiphop|bigbeat,turntablism|japanesehiphop|shibuyakei|funk,sampling|urban|energetic|futuristic|playful|rhythmic|eclectic|instrumental|uplifting
+644,925,It'll All Work Out in Boomland,T2,August 1970,385,2541,progressiverock|heavypsych,,progressive|malevocals|psychedelic|atmospheric|sombre|melodic|cryptic|dense|mellow|complex
+645,926,The IVth Crusade,Bolt Thrower,October 1992,385,2612,deathmetal,,war|heavy|rhythmic|dark|malevocals|dense|history|violence|energetic|epic
+646,927,ThunderSteel,Riot,24 March 1988,384,1598,heavymetal|uspowermetal|powermetal,speedmetal,melodic|energetic|triumphant|malevocals|epic|war|fantasy|anthemic|uplifting
+647,928,Psycho,Bernard Herrmann,1975,388,628,filmscore|cinematicclassical,orchestral,suspenseful|instrumental|ominous|mysterious|dark|nocturnal
+648,929,Alien Lanes,Guided by Voices,4 April 1995,382,5823,lofislackerrock|indierock,powerpop|noisepop,lofi|melodic|energetic|malevocals|playful|surreal|raw|warm|eclectic|humorous
+649,930,All Hail West Texas,The Mountain Goats,19 February 2002,384,4451,singersongwriter|indiefolk,,lofi|acoustic|malevocals|bittersweet|poetic|conceptalbum|pastoral|breakup|humorous|raw
+650,931,Nefertiti,Miles Davis,15 January 1968,385,3486,postbop|modaljazz,,instrumental|technical|melancholic|complex|passionate|soothing|cold
+651,932,"Street Fighter III: 3rd Strike ""Fight for the Future"" Original Soundtrack",奥河英樹 [Hideki Okugawa],24 October 2000,388,367,videogamemusic|breakbeat|acidhouse,drumandbass|acidjazz|instrumentalhiphop|japanesehiphop|hiphouse,mellow|aggressive|energetic|sampling|urban|malevocals|instrumental
+652,933,"Six Pianos; Music for Mallet Instruments, Voices and Organ",Steve Reich & Musicians,1974,389,305,minimalism,,repetitive|hypnotic|mellow|complex|minimalistic|technical|dense|soft|acoustic|instrumental
+653,934,Parallel Lines,Blondie,September 1978,381,8705,newwave|poprock,powerpop|punkrock,melodic|playful|femalevocals|energetic|romantic|sarcastic|love|warm|rhythmic|sensual
+654,935,Tilt,Scott Walker,8 May 1995,382,4677,experimental|singersongwriter,darkambient|baroquepop|postindustrial|neoclassicaldarkwave,ominous|sombre|dark|suspenseful|cryptic|avantgarde|melancholic|cold|nocturnal|anxious
+655,936,A Sun That Never Sets,Neurosis,7 August 2001,383,3703,atmosphericsludgemetal|postmetal,postrock|doommetal,dark|heavy|nihilistic|melancholic|sombre|malevocals|atmospheric|depressive|infernal|serious
+656,937,Illadelph Halflife,The Roots,24 September 1996,384,3522,eastcoasthiphop|boombap,conscioushiphop|jazzrap,urban|malevocals|mellow|raw|nocturnal|serious|conscious|poetic
+657,938,New Plastic Ideas,Unwound,18 March 1994,384,4420,posthardcore|noiserock,,noisy|anxious|raw|dissonant|energetic|apathetic|malevocals|angry|heavy|depressive
+658,939,Gal Costa,Gal Costa,March 1969,386,2936,tropicália|psychedelicpop,sambarock|psychedelicrock|sambasoul,tropical|psychedelic|warm|summer|femalevocals|playful|melodic|romantic|lush|mellow
+659,940,"Fas – Ite, maledicti, in ignem aeternum",Deathspell Omega,16 July 2007,382,3627,blackmetal,avantgardemetal|progressivemetal,satanic|apocalyptic|infernal|technical|chaotic|dense|uncommontimesignatures|conceptalbum|dissonant|malevocals
+660,941,Leaving Your Body Map,maudlin of the Well,7 August 2001,382,3358,progressivemetal|avantgardemetal,deathmetal|doommetal,eclectic|surreal|cryptic|sombre|avantgarde|poetic|mysterious|passionate|melancholic|fantasy
+661,942,Over the Garden Wall,The Blasting Company,21 July 2016,387,653,televisionmusic|ragtime|chamberfolk|americanfolkmusic,dixieland|blues|baroquepop|americanfolkmusic|romanticism|neworleansbrassband,pastoral|eclectic|autumn|nocturnal|fairytale|halloween|suspenseful|playful|quirky|ominous
+662,943,Samba esquema novo,Jorge Ben,1963,386,2476,samba,bossanova|sambajazz|sambacanção,uplifting|warm|tropical|summer|melodic|playful|mellow|happy|romantic|malevocals
+663,944,フリクリ (FLCL): OST 1 ~ Addict,the pillows,4 October 2000,386,1067,powerpop|televisionmusic|alternativerock,punkrock|garagerockrevival|indierock,malevocals|energetic|rebellious|instrumental|romantic|melancholic|summer|noisy|melodic|anthemic
+664,945,The Diary,Scarface,18 October 1994,384,2619,gangstarap|southernhiphop,gfunk,crime|urban|violence|nihilistic|malevocals|angry|boastful|vulgar|introspective|aggressive
+665,946,Destination Out!,Jackie McLean,October 1964,387,1255,postbop,avantgardejazz,sparse|instrumental|soothing|suspenseful|mellow|mysterious|improvisation
+666,947,Sabotage,Black Sabbath,28 July 1975,380,9669,heavymetal|hardrock,progressiverock,heavy|malevocals|energetic|epic|dark|introspective|rhythmic|alienation|complex|sombre
+667,948,Music for the Masses,Depeche Mode,28 September 1987,382,8119,synthpop,darkwave,malevocals|passionate|cold|melodic|atmospheric|dark|rhythmic|sensual|romantic|nocturnal
+668,949,Crazy Rhythms,The Feelies,28 April 1980,382,6664,postpunk,janglepop,anxious|rhythmic|energetic|hypnotic|malevocals|melodic|quirky|repetitive|melancholic|playful
+669,950,You Fail Me,Converge,20 September 2004,381,5176,mathcore|metalcore,posthardcore,angry|breakup|aggressive|sad|sombre|malevocals|dark|passionate|raw|heavy
+670,951,Stormcock,Roy Harper,May 1971,385,3035,progressivefolk|singersongwriter,chamberfolk|psychedelicfolk,acoustic|malevocals|war|pastoral|melancholic|protest|surreal|progressive|psychedelic|melodic
+671,952,Severed Survival,Autopsy,24 April 1989,384,3051,deathmetal,deathdoommetal,violence|death|aggressive|heavy|malevocals|raw|vulgar|disturbing|energetic
+672,953,Les stances à Sophie,Art Ensemble of Chicago,1970,384,2406,avantgardejazz|filmsoundtrack,freejazz|soul|funk,improvisation|rhythmic|avantgarde|complex|passionate|energetic|technical|femalevocals|urban|dissonant
+673,954,Epidemic of Violence,Demolition Hammer,March 1992,385,1808,thrashmetal,deathmetal,aggressive|malevocals|rhythmic|heavy|dark|violence|manic|energetic|angry|apocalyptic
+674,955,Sonny's Dream (Birth of the New Cool),The Sonny Criss Orchestra,1968,389,497,progressivebigband|postbop,avantgardejazz|modaljazz,complex|energetic|melodic|mysterious|lush
+675,956,Surrealistic Pillow,Jefferson Airplane,February 1967,381,9687,psychedelicrock,folkrock|acidrock|psychedelicpop,psychedelic|drugs|melodic|femalevocals|malevocals|surreal|mellow|love|uplifting|warm
+676,957,Paris 1919,John Cale,25 February 1973,382,6246,baroquepop|artpop|singersongwriter,chamberfolk,lush|malevocals|warm|melodic|melancholic|bittersweet|romantic|poetic|orchestral|pastoral
+677,958,Onward to Golgotha,Incantation,5 May 1992,384,2499,deathmetal,deathdoommetal,infernal|heavy|aggressive|dark|antireligious|death|rhythmic|satanic|atmospheric|raw
+678,959,Blast From the Past,Gamma Ray,26 June 2000,384,510,powermetal,heavymetal,malevocals|energetic|melodic|anthemic
+679,960,People's Instinctive Travels and the Paths of Rhythm,A Tribe Called Quest,17 April 1990,382,7705,eastcoasthiphop|jazzrap,boombap|conscioushiphop,playful|mellow|sampling|rhythmic|malevocals|conscious|urban|spiritual|poetic|passionate
+680,961,The Hissing of Summer Lawns,Joni Mitchell,November 1975,385,3673,singersongwriter|jazzpop,folkpop|artpop|softrock,poetic|lush|melodic|femalevocals|summer|warm|mellow|complex|romantic|soft
+681,962,Minas,Milton Nascimento,October 1975,387,1111,mpb|singersongwriter,jazzfusion|progressivefolk|progressiverock|psychedelicfolk,complex|surreal|malevocals|love|longing|anxious|conscious|melodic|lush|progressive
+682,963,Cowboy Bebop Blue,The Seatbelts,1 May 1999,387,854,televisionmusic,jazz|pop,bittersweet|femalevocals|malevocals|eclectic|rhythmic|playful|longing
+683,964,Radio City,Big Star,February 1974,383,4954,powerpop,,melodic|bittersweet|romantic|malevocals|warm|playful|summer|urban|passionate
+684,965,The Chemical Wedding,Bruce Dickinson,15 September 1998,383,2109,heavymetal,,malevocals|melodic|fantasy|epic|heavy|energetic|passionate
+685,966,Bloodborne Original Soundtrack,Ryan Amon,24 March 2015,387,474,videogamemusic|modernclassical|cinematicclassical,christianliturgicalmusic|choral,epic|choral|orchestral|suspenseful|scary|dark|ominous|apocalyptic|fantasy|mysterious
+686,967,Œuvres d'Erik Satie,Aldo Ciccolini,1986,388,338,impressionism,,instrumental|technical|playful|complex|acoustic|peaceful|melancholic
+687,968,If Beale Street Could Talk,Nicholas Britell,9 November 2018,390,275,filmscore|cinematicclassical,jazz,romantic|lush|soft|peaceful|meditative|sensual|orchestral|sentimental|soothing|instrumental
+688,969,Feels,Animal Collective,18 October 2005,377,14511,neopsychedelia,freakfolk|psychedelicpop|psychedelicfolk|ambientpop,warm|playful|psychedelic|love|surreal|spring|bittersweet|malevocals|passionate|uplifting
+689,970,Magdalene,FKA twigs,8 November 2019,379,11511,artpop|glitchpop,ambientpop|alternativerb|deconstructedclub,introspective|femalevocals|longing|progressive|melancholic|ethereal|atmospheric|lonely|breakup|love
+690,971,Alligator,The National,12 April 2005,380,9110,indierock|postpunkrevival,chamberpop,melancholic|sombre|introspective|malevocals|autumn|bittersweet|poetic|mellow|passionate|urban
+691,972,"Crosby, Stills & Nash","Crosby, Stills & Nash",29 May 1969,384,4611,folkrock,contemporaryfolk|psychedelicfolk,love|pastoral|melodic|warm|malevocals|uplifting|sentimental|mellow|soothing|autumn
+692,973,Countdown to Ecstasy,Steely Dan,July 1973,384,4477,poprock,jazzrock|jazzpop,sarcastic|complex|playful|malevocals|technical|quirky|rhythmic|introspective|warm|summer
+693,974,Spirit They're Gone Spirit They've Vanished,Avey Tare,31 July 2000,378,11163,neopsychedelia|experimental,noise|folktronica|progressivepop,bittersweet|noisy|playful|fantasy|nocturnal|melancholic|ethereal|psychedelic|surreal|malevocals
+694,975,Coltrane,The John Coltrane Quartette,August 1962,386,2017,modaljazz|postbop,,instrumental|improvisation|warm|acoustic
+695,976,Faith,The Cure,14 April 1981,381,9944,gothicrock|postpunk,coldwave,sombre|cold|atmospheric|melancholic|anxious|winter|malevocals|ethereal|sad|lonely
+696,977,Tea for the Tillerman,Cat Stevens,23 November 1970,383,5208,singersongwriter|folkpop|folkrock,,bittersweet|acoustic|optimistic|peaceful|soft|poetic|malevocals|longing|melodic|love
+697,978,What Color Is Love,Terry Callier,August 1972,386,1840,chicagosoul|soul,psychedelicsoul|contemporaryfolk|singersongwriter,romantic|mellow|malevocals|warm|lush|soothing|spiritual|passionate
+698,979,Hammerheart,Bathory,16 April 1990,383,4783,vikingmetal,,epic|mythology|pagan|folklore|malevocals|martial|anthemic|heavy|history|passionate
+699,980,"""X""",Klaus Schulze,September 1978,385,2360,berlinschool,ambient|modernclassical,atmospheric|space|complex|conceptalbum|instrumental|hypnotic|progressive|nocturnal|epic|meditative
+700,981,Evolution,Grachan Moncur III,April 1964,387,1372,postbop,avantgardejazz,complex|instrumental|technical|suspenseful|acoustic|rhythmic|mysterious|improvisation|nocturnal|playful
+701,982,Raiders of the Lost Ark,John Williams,June 1981,384,657,filmscore|cinematicclassical,,orchestral|instrumental|anthemic|triumphant|epic|energetic
+702,983,Hana-bi,久石譲 [Joe Hisaishi],1998,388,431,filmscore|neoclassicalnewage|cinematicclassical,modernclassical,orchestral|melodic|longing|mellow|sentimental|melancholic
+703,984,Hayalet Islığı,Farazi v Kayra,13 September 2013,386,453,abstracthiphop|boombap,boombap|turntablism,passionate|malevocals|rhythmic|depressive|sampling|lonely|conceptalbum|funereal
+704,985,Das Lied von der Erde,New Philharmonia Orchestra,1967,386,374,romanticism|symphony,lieder,symphony|orchestral|triumphant|uplifting|melodic|suspenseful
+705,986,Reckoning,R.E.M.,16 April 1984,381,7268,janglepop|alternativerock,postpunk,melodic|energetic|malevocals|spring|melancholic|bittersweet|poetic|abstract|introspective|warm
+706,987,Pleasure to Kill,Kreator,1 November 1986,382,4473,thrashmetal,deathmetal,aggressive|death|misanthropic|hateful|angry|malevocals|energetic|violence|manic|dark
+707,988,Death Certificate,Ice Cube,31 October 1991,382,3685,westcoasthiphop|politicalhiphop|gangstarap,conscioushiphop,political|aggressive|crime|angry|energetic|urban|sexual|protest|malevocals|vulgar
+708,989,No More Color,Coroner,18 September 1989,385,2803,technicalthrashmetal,,technical|complex|energetic|uncommontimesignatures|aggressive|malevocals|dark|heavy|manic|introspective
+709,990,"If I Could Do It All Over Again, I'd Do It All Over You",Caravan,4 September 1970,385,2678,canterburyscene|progressiverock,psychedelicrock,psychedelic|summer|warm|melodic|mellow|progressive|atmospheric|malevocals|complex
+710,991,Unholy Cult,Immolation,28 October 2002,384,1789,deathmetal,technicaldeathmetal,antireligious|complex|technical|cold|dissonant|infernal|atmospheric|heavy|hateful|aggressive
+711,992,The Village,James Newton Howard,27 July 2004,386,271,filmscore|cinematicclassical,modernclassical,
+712,993,...Like Clockwork,Queens of the Stone Age,3 June 2013,379,11767,alternativerock,hardrock|stonerrock|artrock,sombre|malevocals|lonely|death|melancholic|melodic|desert|existential|nocturnal|introspective
+713,994,The ArchAndroid,Janelle Monáe,18 May 2010,379,9366,contemporaryrb|artpop,neosoul|funk|psychedelicsoul|progressivepop|neopsychedelia,sciencefiction|futuristic|eclectic|uplifting|energetic|conceptalbum|lush|femalevocals|romantic|political
+714,995,Deadwing,Porcupine Tree,28 March 2005,381,7873,progressiverock,progressivemetal|alternativerock,melancholic|sombre|death|conceptalbum|progressive|malevocals|atmospheric|paranormal|eclectic|melodic
+715,996,The Holy Bible,Manic Street Preachers,29 August 1994,381,6618,alternativerock,postpunk|punkrock|hardrock,misanthropic|political|pessimistic|dark|selfhatred|anxious|depressive|aggressive|angry|malevocals
+716,997,Effigy of the Forgotten,Suffocation,October 1991,383,3208,brutaldeathmetal,technicaldeathmetal,technical|apocalyptic|heavy|aggressive|death|angry|misanthropic|antireligious|dark|malevocals
+717,998,Eastern Sounds,Yusef Lateef,June 1964,386,2099,hardbop,modaljazz|postbop|spiritualjazz,instrumental|calm|melancholic|soothing|spiritual|peaceful|mellow|warm|uplifting|technical
+718,999,Nina Simone Sings the Blues,Nina Simone,20 March 1967,386,1858,soulblues|blues,rhythmblues,femalevocals|passionate|sensual|love|breakup|acoustic|playful|longing|lonely|bittersweet
+719,1000,Word...Life,O.C.,18 October 1994,385,1614,eastcoasthiphop|boombap,jazzrap|conscioushiphop,urban|rhythmic|sampling|conscious|malevocals|melancholic|philosophical|existential|mellow
